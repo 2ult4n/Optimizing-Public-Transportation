@@ -1,0 +1,4 @@
+
+mpython:S3776º"TRefactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.(õÝ€ß
+opython:S1542œ"VRename function "UnicodeReader" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÿ§Ü÷
+opython:S1542 "VRename function "UnicodeWriter" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÛŽÎ²

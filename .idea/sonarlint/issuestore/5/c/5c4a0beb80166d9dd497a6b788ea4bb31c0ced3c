@@ -1,0 +1,72 @@
+
+epython:S5799’"GMerge these implicitly concatenated strings; or did you forget a comma?(«õ§ùşÿÿÿÿ
+epython:S1764â"LCorrect one of the identical sub-expressions on both sides of operator "==".(‹éÙ
+vpython:S100°"^Rename method "test_equal_Raises_Value" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ë¬àç
+Wpython:S905²":Remove or refactor this statement; it has no side effects.(‹À†ùÿÿÿÿ
+qpython:S100´"TRename method "test_notEqual" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷¼±“şÿÿÿÿ
+xpython:S100»"`Rename method "test_greater_Raises_Value" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ğü“Ş
+Qpython:S905½":Remove or refactor this statement; it has no side effects.(äŸì[
+|python:S100¿"_Rename method "test_greater_Raises_Type" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(æÏÚÛøÿÿÿÿ
+Wpython:S905Á":Remove or refactor this statement; it has no side effects.(¸Ç¥»ûÿÿÿÿ
+upython:S100Ã"XRename method "test_greaterEqual" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ªìõòüÿÿÿÿ
+‚python:S100Æ"eRename method "test_greaterEqual_Raises_Value" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(èôÉÍüÿÿÿÿ
+Wpython:S905È":Remove or refactor this statement; it has no side effects.(¡òÅ‹şÿÿÿÿ
+ppython:S100Í"XRename method "test_smallerEqual" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ä´³ı
+}python:S100Ğ"eRename method "test_smallerEqual_Raises_Value" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(½»ğ
+Rpython:S905Ò":Remove or refactor this statement; it has no side effects.(Ç¨’Ô
+python:S100Ô"dRename method "test_smallerEqual_Raises_Type" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ƒ©ˆøÿÿÿÿ
+Rpython:S905Ö":Remove or refactor this statement; it has no side effects.(á¨İÓ
+}python:S100Û"`Rename method "test_smaller_Raises_Value" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ìÄ·Àşÿÿÿÿ
+Wpython:S905İ":Remove or refactor this statement; it has no side effects.(Í¿Ìÿÿÿÿÿ
+|python:S100ß"_Rename method "test_smaller_Raises_Type" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ûœìıÿÿÿÿ
+Wpython:S905á":Remove or refactor this statement; it has no side effects.(â¢Œûÿÿÿÿ
+|python:S117å"_Rename this local variable "correctPeriods" to match the regular expression ^[_a-z][a-z0-9_]*$.(öàÊ¨øÿÿÿÿ
+Rpython:S905":Remove or refactor this statement; it has no side effects.(ç°æó
+Wpython:S905":Remove or refactor this statement; it has no side effects.(Åç™ºûÿÿÿÿ
+Wpython:S905 ":Remove or refactor this statement; it has no side effects.(åÍïóüÿÿÿÿ
+Wpython:S905¢":Remove or refactor this statement; it has no side effects.(÷õŞÿşÿÿÿÿ
+Rpython:S905´":Remove or refactor this statement; it has no side effects.(ÆñÖ‹
+Wpython:S905·":Remove or refactor this statement; it has no side effects.(üö¥áûÿÿÿÿ
+Rpython:S905º":Remove or refactor this statement; it has no side effects.(¯öáÔ
+Rpython:S905Æ":Remove or refactor this statement; it has no side effects.(äç’º
+mpython:S3776è"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(¡¸Ü»
+Wpython:S905ô":Remove or refactor this statement; it has no side effects.(¢–Èøÿÿÿÿ
+Wpython:S905ø":Remove or refactor this statement; it has no side effects.(¦èéĞûÿÿÿÿ
+Wpython:S905û":Remove or refactor this statement; it has no side effects.(¦èéĞûÿÿÿÿ
+Wpython:S905‹	":Remove or refactor this statement; it has no side effects.(¢–Èøÿÿÿÿ
+Wpython:S905	":Remove or refactor this statement; it has no side effects.(¦èéĞûÿÿÿÿ
+Wpython:S905’	":Remove or refactor this statement; it has no side effects.(¦èéĞûÿÿÿÿ
+Rpython:S905£	":Remove or refactor this statement; it has no side effects.(Œ¡Ó
+Rpython:S905¨	":Remove or refactor this statement; it has no side effects.(åßúÔ
+Wpython:S905¶	":Remove or refactor this statement; it has no side effects.(¢–Èøÿÿÿÿ
+Wpython:S905º	":Remove or refactor this statement; it has no side effects.(¦èéĞûÿÿÿÿ
+Wpython:S905½	":Remove or refactor this statement; it has no side effects.(¦èéĞûÿÿÿÿ
+Wpython:S905Í	":Remove or refactor this statement; it has no side effects.(•Í¥óÿÿÿÿÿ
+Wpython:S905Ò	":Remove or refactor this statement; it has no side effects.(³š„•üÿÿÿÿ
+Wpython:S905à	":Remove or refactor this statement; it has no side effects.(¢–Èøÿÿÿÿ
+Wpython:S905ä	":Remove or refactor this statement; it has no side effects.(¦èéĞûÿÿÿÿ
+Wpython:S905ç	":Remove or refactor this statement; it has no side effects.(¦èéĞûÿÿÿÿ
+rpython:S3776é	"TRefactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.(ì½Ÿ¤øÿÿÿÿ
+Wpython:S905ø	":Remove or refactor this statement; it has no side effects.(¦èéĞûÿÿÿÿ
+Wpython:S905ƒ
+":Remove or refactor this statement; it has no side effects.(¦èéĞûÿÿÿÿ
+Wpython:S905
+":Remove or refactor this statement; it has no side effects.(¦èéĞûÿÿÿÿ
+Wpython:S905œ
+":Remove or refactor this statement; it has no side effects.(¦èéĞûÿÿÿÿ
+Wpython:S905§
+":Remove or refactor this statement; it has no side effects.(¦èéĞûÿÿÿÿ
+Wpython:S905¼
+":Remove or refactor this statement; it has no side effects.(¦èéĞûÿÿÿÿ
+Wpython:S905Ê
+":Remove or refactor this statement; it has no side effects.(ÁïÒòÿÿÿÿÿ
+Wpython:S905Õ
+":Remove or refactor this statement; it has no side effects.(ÁïÒòÿÿÿÿÿ
+Wpython:S905ç
+":Remove or refactor this statement; it has no side effects.(ÁïÒòÿÿÿÿÿ
+Wpython:S905ú
+":Remove or refactor this statement; it has no side effects.(ÁïÒòÿÿÿÿÿ
+mpython:S3776ü
+"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(¾Çœ
+Rpython:S905À":Remove or refactor this statement; it has no side effects.(ş°šª
+Rpython:S905Ã":Remove or refactor this statement; it has no side effects.(Ù€Ñ

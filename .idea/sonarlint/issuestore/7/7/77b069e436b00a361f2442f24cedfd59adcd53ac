@@ -1,0 +1,12 @@
+
+ppython:S1542
+"XRename function "testSimpleValue" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¹…ñ½
+ppython:S1542"SRename function "testFixnum" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(áÂ«şÿÿÿÿ
+rpython:S1542"URename function "testFixArray" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Í¬”Æÿÿÿÿÿ
+ppython:S1542"SRename function "testFixRaw" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ßÄãıÿÿÿÿ
+kpython:S1542"SRename function "testFixMap" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ı„Ñó
+upython:S1542%"XRename function "testUnsignedInt" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ˆ´²‰ıÿÿÿÿ
+spython:S15424"VRename function "testSignedInt" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(³¡á³ıÿÿÿÿ
+gpython:S1542B"PRename function "testRaw" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(…‹Ğ%
+opython:S1542H"RRename function "testArray" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÙÒÄ…øÿÿÿÿ
+mpython:S1542O"PRename function "testMap" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(õ˜îúÿÿÿÿ

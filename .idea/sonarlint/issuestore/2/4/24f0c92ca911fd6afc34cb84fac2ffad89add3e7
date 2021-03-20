@@ -1,0 +1,5 @@
+
+Upython:S5709">Derive this class from "Exception" instead of "BaseException".(Áƒc
+Gpython:S1656"/Remove or correct this useless self-assignment.(ˆƒš
+ipython:S107ù"LMethod "__init__" has 11 parameters, which is greater than the 7 authorized.( Ğàşüÿÿÿÿ
+ipython:S107“"LMethod "set_cert" has 10 parameters, which is greater than the 7 authorized.( Ğàşüÿÿÿÿ

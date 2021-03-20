@@ -1,0 +1,23 @@
+
+ipython:S1192¯"KDefine a constant instead of duplicating this literal 'US/Eastern' 4 times.(ŠÉÏ™üÿÿÿÿ
+rpython:S1192‚"TDefine a constant instead of duplicating this literal "1990-01-01 07:00:00" 4 times.(Å‚¢Ùşÿÿÿÿ
+xpython:S1192´"ZDefine a constant instead of duplicating this literal "1990-01-01 09:00:00+00:00" 4 times.(Íäşûÿÿÿÿ
+rpython:S1192ù"TDefine a constant instead of duplicating this literal "1990-01-01 04:00:00" 7 times.(¾“»ùÿÿÿÿ
+lpython:S1192Ø"NDefine a constant instead of duplicating this literal "1990-01-01 04" 7 times.(Ò¯Äñùÿÿÿÿ
+lpython:S1192á"NDefine a constant instead of duplicating this literal "1990-01-01 07" 4 times.(‘öìüÿÿÿÿ
+xpython:S1192¹"ZDefine a constant instead of duplicating this literal "1990-01-01 03:00:00-06:00" 4 times.(Úïßöÿÿÿÿÿ
+opython:S1192…"QDefine a constant instead of duplicating this literal '2013-05-31 00:00' 3 times.(Ë«³äùÿÿÿÿ
+6python:S125i"Remove this commented out code.(Ôšé
+upython:S4143µ"\Verify this is the key that was intended; a value has already been saved for it on line 180.(˜Ğ¢
+upython:S4143º"\Verify this is the key that was intended; a value has already been saved for it on line 185.(ÌöÎŸ
+zpython:S4143È"\Verify this is the key that was intended; a value has already been saved for it on line 199.(‰÷œ²úÿÿÿÿ
+upython:S4143ß"\Verify this is the key that was intended; a value has already been saved for it on line 222.(˜Ğ¢
+upython:S4143ä"\Verify this is the key that was intended; a value has already been saved for it on line 227.(ÌöÎŸ
+upython:S4143ÿ"\Verify this is the key that was intended; a value has already been saved for it on line 254.(¥îëö
+zpython:S4143ˆ"\Verify this is the key that was intended; a value has already been saved for it on line 263.(’»úÒüÿÿÿÿ
+upython:S4143Í"\Verify this is the key that was intended; a value has already been saved for it on line 332.(ÒõÇÁ
+upython:S4143Ş"\Verify this is the key that was intended; a value has already been saved for it on line 349.(ùşÎè
+zpython:S4143ç"\Verify this is the key that was intended; a value has already been saved for it on line 358.(›ÎÒğşÿÿÿÿ
+Cpython:S1481¤"%Remove the unused local variable "i".(ñğ‹®úÿÿÿÿ
+Cpython:S1481Ç"%Remove the unused local variable "s".(Ş“ıĞşÿÿÿÿ
+fpython:S1854œ"MRemove this assignment to local variable 'expected'; the value is never used.(Â´ğü

@@ -1,0 +1,20 @@
+
+ppython:S1192İ"RDefine a constant instead of duplicating this literal 'Too many indexers' 5 times.(Éé‡ëşÿÿÿÿ
+Mpython:S1066ã"/Merge this if statement with the enclosing one.(óÜ©¦ùÿÿÿÿ
+Mpython:S1066ë"/Merge this if statement with the enclosing one.(ÅÇ¬Öùÿÿÿÿ
+Gpython:S1066ì"/Merge this if statement with the enclosing one.(ì¢í
+mpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(“Üïª
+spython:S3776«"URefactor this function to reduce its Cognitive Complexity from 180 to the 15 allowed.(²¥æ›şÿÿÿÿ
+|python:S1871¯"cEither merge this branch with the identical one on line "557" or change one of the implementations.(³î
+mpython:S3776“"TRefactor this function to reduce its Cognitive Complexity from 68 to the 15 allowed.(¡­ƒ—
+mpython:S3776‘"TRefactor this function to reduce its Cognitive Complexity from 53 to the 15 allowed.(ÃÛêı
+mpython:S3776À"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(İ‰©ª
+Hpython:S1656ò"/Remove or correct this useless self-assignment.(³àÖ«
+rpython:S3776­"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(ßê¾Øûÿÿÿÿ
+mpython:S3776÷	"TRefactor this function to reduce its Cognitive Complexity from 44 to the 15 allowed.(¾¦ÌŠ
+Apython:S108–
+")Either remove or fill this block of code.(ã‘Û¾
+Wpython:S3516"9Refactor this method to not always return the same value.(ì¶ª÷ıÿÿÿÿ
+rpython:S3776¿"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(ßê¾Øûÿÿÿÿ
+rpython:S3776ˆ"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ì¶ª÷ıÿÿÿÿ
+Cpython:S2638º"%Add missing parameters raise_missing.(÷•á‹şÿÿÿÿ

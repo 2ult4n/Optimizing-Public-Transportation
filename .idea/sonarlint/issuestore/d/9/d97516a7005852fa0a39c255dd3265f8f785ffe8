@@ -1,0 +1,12 @@
+
+{python:S1192¬"bDefine a constant instead of duplicating this literal "'level' argument is not supported" 3 times.(©ÏÕª
+_python:S5724¨"ARemove 2 parameters; property getter methods receive only "self".(üøíüÿÿÿÿ
+gpython:S107@"KMethod "__init__" has 8 parameters, which is greater than the 7 authorized.(™Çœøÿÿÿÿ
+qpython:S3776@"TRefactor this function to reduce its Cognitive Complexity from 41 to the 15 allowed.(™Çœøÿÿÿÿ
+Zpython:S112U">Replace this generic exception class with a more specific one.(Êë–ÿÿÿÿÿ
+mpython:S3776’"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(³¥õª
+jpython:S1764ˆ"LCorrect one of the identical sub-expressions on both sides of operator "==".(¨Ù¥üÿÿÿÿ
+;python:S2638’""Add missing parameters drop_level.(¥¾›ç
+rpython:S3776ª"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(³©òúÿÿÿÿ
+npython:S107˜"QMethod "_reindex_index" has 8 parameters, which is greater than the 7 authorized.(®—†»ûÿÿÿÿ
+ppython:S107Á"SMethod "_reindex_columns" has 8 parameters, which is greater than the 7 authorized.(¯¿Á¼şÿÿÿÿ

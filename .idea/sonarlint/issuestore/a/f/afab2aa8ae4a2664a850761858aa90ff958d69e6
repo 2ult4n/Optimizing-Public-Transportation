@@ -1,0 +1,18 @@
+
+gpython:S1192¡"IDefine a constant instead of duplicating this literal 'Python.h' 4 times.(õİñÒúÿÿÿÿ
+bpython:S1192–"IDefine a constant instead of duplicating this literal "Python.h" 7 times.(•Ëâ£
+|python:S1192¼"^Define a constant instead of duplicating this literal "Checking sizeof (%s) failed !" 6 times.(ÊÈ…şÿÿÿÿÿ
+upython:S1192ï"WDefine a constant instead of duplicating this literal 'npy_cpu_features.c.src' 3 times.(¼Ï·¥øÿÿÿÿ
+`python:S1192–"GDefine a constant instead of duplicating this literal "math.h" 4 times.(•Ëâ£
+lpython:S1192Ş"SDefine a constant instead of duplicating this literal 'templ_common.h.src' 3 times.(ºÚ€½
+fpython:S1192ö"HDefine a constant instead of duplicating this literal "decl_%s" 4 times.(ƒ…æ›üÿÿÿÿ
+hpython:S1192"JDefine a constant instead of duplicating this literal 'long long' 5 times.(ªàœŒøÿÿÿÿ
+epython:S1192œ"LDefine a constant instead of duplicating this literal 'long double' 3 times.(ª´ïì
+Hpython:S1066²"/Merge this if statement with the enclosing one.(ÍÀÔ
+_python:S2208"GImport only needed names or import the module and then use its members.(î¢­ß
+lpython:S3776n"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(û¥ï
+<python:S125‡"Remove this commented out code.(ñÿ€¤øÿÿÿÿ
+mpython:S3776Æ"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(½œ®”
+mpython:S3776”"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(áá¶Å
+lpython:S3776“"TRefactor this function to reduce its Cognitive Complexity from 99 to the 15 allowed.(À¾ÉE
+Dpython:S5806‡"+Rename this variable; it shadows a builtin.(¿‡ƒÖ

@@ -1,0 +1,13 @@
+
+epython:S1192ª"LDefine a constant instead of duplicating this literal 'avro.schema' 3 times.(ó‹Ñ
+ipython:S1192©"KDefine a constant instead of duplicating this literal 'avro.codec' 4 times.(ÒÛ²àúÿÿÿÿ
+qpython:S100"YRename method "GenerateSyncMarker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÊÃû©
+kpython:S100ä"NRename method "GetMeta" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¾±Çýÿÿÿÿ
+kpython:S100î"NRename method "SetMeta" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Æ–¾Æûÿÿÿÿ
+kpython:S100þ"SRename method "_WriteHeader" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(íŠÃ‰
+opython:S100‹"RRename method "_WriteBlock" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¿Âîûÿÿÿÿ
+kpython:S100¹"NRename method "GetMeta" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¾±Çýÿÿÿÿ
+kpython:S100Ã"NRename method "SetMeta" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Æ–¾Æûÿÿÿÿ
+rpython:S100Î"ZRename method "_GetInputFileLength" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(›ÃÏã
+jpython:S100Ü"MRename method "is_EOF" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(®£Îëþÿÿÿÿ
+[python:S112½">Replace this generic exception class with a more specific one.(‘–´éûÿÿÿÿ

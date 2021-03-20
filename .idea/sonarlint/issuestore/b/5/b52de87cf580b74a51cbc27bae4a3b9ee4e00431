@@ -1,0 +1,22 @@
+
+dpython:S1192®"KDefine a constant instead of duplicating this literal 'US/Eastern' 3 times.(”í“
+mpython:S1192ê"ODefine a constant instead of duplicating this literal 'datetime64[ns]' 5 times.(éƒûÿÿÿÿ
+Epython:S2201#"(The return value of "repr" must be used.(Ç¨Û¨ûÿÿÿÿ
+?python:S2201$"'The return value of "str" must be used.(çøûº
+Apython:S2201%")The return value of "bytes" must be used.(†¸™¶
+@python:S2201,"(The return value of "repr" must be used.(îÜªÍ
+Dpython:S2201-"'The return value of "str" must be used.(•ôßîúÿÿÿÿ
+Fpython:S2201.")The return value of "bytes" must be used.(«ßú¤ùÿÿÿÿ
+vpython:S1186w"YAdd a nested comment explaining why this method is empty, or complete the implementation.( Å¨úÿÿÿÿ
+rpython:S3776Ã"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(üÀ¬àÿÿÿÿÿ
+Rpython:S905­":Remove or refactor this statement; it has no side effects.(¬ÿÍÚ
+Rpython:S905¯":Remove or refactor this statement; it has no side effects.(¶ïŸ«
+rpython:S3776’"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(‡Ãêëÿÿÿÿÿ
+dpython:S1764"KCorrect one of the identical sub-expressions on both sides of operator "-".(‘ëÖ‚
+ipython:S1764š"KCorrect one of the identical sub-expressions on both sides of operator "-".(Äï¸®øÿÿÿÿ
+ipython:S1854¥"PRemove this assignment to local variable 'exp_uniques'; the value is never used.(ÿİ­¹
+ipython:S1854Ö"KRemove this assignment to local variable 'values'; the value is never used.(ôáÀùúÿÿÿÿ
+mpython:S3776Î"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ëğÂ
+^python:S101ß"FRename class "T" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ÉÑÈ‰
+<python:S125®
+"Remove this commented out code.(°¡õ÷úÿÿÿÿ

@@ -1,0 +1,4 @@
+
+fpython:S1011"JRename class "param" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ü–†ßýÿÿÿÿ
+opython:S101Œ"RRename class "parameterized" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ÔÐ÷¸øÿÿÿÿ
+Vpython:S112Ñ">Replace this generic exception class with a more specific one.(Òç¸Ú

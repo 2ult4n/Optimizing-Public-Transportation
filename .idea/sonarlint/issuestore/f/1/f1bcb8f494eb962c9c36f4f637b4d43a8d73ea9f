@@ -1,0 +1,8 @@
+
+`python:S1192»"GDefine a constant instead of duplicating this literal '1 hour' 5 times.(§×ı…
+_python:S1192Š"FDefine a constant instead of duplicating this literal '1 day' 6 times.(”Œª”
+Cpython:S1481"%Remove the unused local variable "v".(ËªßÖıÿÿÿÿ
+epython:S1854ä"GRemove this assignment to local variable 'i2'; the value is never used.(›¬ËÀùÿÿÿÿ
+epython:S1854Ş"GRemove this assignment to local variable 'i2'; the value is never used.(›¬ËÀùÿÿÿÿ
+Epython:S1481Ù"'Remove the unused local variable "arr".(˜ÌÚ–ıÿÿÿÿ
+7python:S125»"Remove this commented out code.(İ†ŠÔ

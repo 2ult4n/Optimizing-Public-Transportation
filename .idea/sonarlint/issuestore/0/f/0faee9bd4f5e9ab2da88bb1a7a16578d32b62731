@@ -1,0 +1,14 @@
+
+cpython:S1192,"FDefine a constant instead of duplicating this literal '2 day' 8 times.(êŸŒ®ıÿÿÿÿ
+_python:S1192:"GDefine a constant instead of duplicating this literal "0 days" 6 times.(“ÍØê
+_python:S1192:"GDefine a constant instead of duplicating this literal "5 days" 6 times.(“ÍØê
+_python:S1192<"GDefine a constant instead of duplicating this literal "1 days" 5 times.(şÃœ
+epython:S1192Õ"GDefine a constant instead of duplicating this literal '1 days' 5 times.(¬ªÂ‘ûÿÿÿÿ
+cpython:S1192*"FDefine a constant instead of duplicating this literal '3 day' 8 times.(µ–úñûÿÿÿÿ
+dpython:S1192*"GDefine a constant instead of duplicating this literal '1 day' 12 times.(µ–úñûÿÿÿÿ
+_python:S1192<"GDefine a constant instead of duplicating this literal "4 days" 3 times.(şÃœ
+_python:S1192B"GDefine a constant instead of duplicating this literal "2 days" 3 times.(äâ†
+vpython:S1186%"YAdd a nested comment explaining why this method is empty, or complete the implementation.(øà²“ÿÿÿÿÿ
+epython:S1854/"HRemove this assignment to local variable 'exp'; the value is never used.(†›‹øÿÿÿÿ
+@python:S2201"'The return value of "str" must be used.(Ïì…Í
+@python:S2201÷"'The return value of "str" must be used.(£Ë§ş

@@ -1,0 +1,8 @@
+
+Mpython:S1066ï"/Merge this if statement with the enclosing one.(ö‚¹³ùÿÿÿÿ
+npython:S101"WRename class "_subheader_pointer" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ä×ª˜
+bpython:S107E"KMethod "__init__" has 9 parameters, which is greater than the 7 authorized.(¸µÏ•
+lpython:S3776}"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(×‹Š÷
+wpython:S1186½"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ó‹Íšúÿÿÿÿ
+mpython:S3776À"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(ÈÆµ®
+mpython:S3776—"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(”Ä°„

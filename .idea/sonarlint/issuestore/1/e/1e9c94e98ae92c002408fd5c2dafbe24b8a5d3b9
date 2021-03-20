@@ -1,0 +1,6 @@
+
+cpython:S1192z"FDefine a constant instead of duplicating this literal 'i4,i4' 5 times.(„ş“Ãúÿÿÿÿ
+epython:S1192•"GDefine a constant instead of duplicating this literal "numpy." 3 times.(÷íÂûşÿÿÿÿ
+apython:S1192P"IDefine a constant instead of duplicating this literal 'f8,i4,a5' 5 times.(£ÿ†æ
+^python:S101Ã"FRename class "C" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(Ãáãå
+Epython:S1481Ğ"'Remove the unused local variable "arr".(ßïÓĞıÿÿÿÿ

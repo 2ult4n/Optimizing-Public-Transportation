@@ -1,0 +1,30 @@
+
+gpython:S1192™"IDefine a constant instead of duplicating this literal '(n)->(n)' 5 times.(ÌÜ§ôûÿÿÿÿ
+epython:S1192Á"GDefine a constant instead of duplicating this literal '()->()' 5 times.(È¸ûùÿÿÿÿÿ
+gpython:S1192Ù"ODefine a constant instead of duplicating this literal 'timedelta64[D]' 8 times.(íÌÛX
+epython:S101ï"MRename class "subclass" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ó±™
+hpython:S1542š"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(›üù—øÿÿÿÿ
+hpython:S1542¥"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ûõø”ûÿÿÿÿ
+}python:S100½"eRename method "test_UnboundMethod_ticket_1156" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ØžÈ®
+cpython:S1542à"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åºØÀ
+cpython:S101†"FRename class "A" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ˆŒî—üÿÿÿÿ
+opython:S117œ"WRename this local variable "A_func" to match the regular expression ^[_a-z][a-z0-9_]*$.(âó È
+=python:S1481 "%Remove the unused local variable "i".(ªºðz
+Cpython:S1481§"%Remove the unused local variable "i".(Ïµõ¢ýÿÿÿÿ
+@python:S1481£"'Remove the unused local variable "out".(õ­»ä
+Dpython:S5806»"+Rename this variable; it shadows a builtin.(ß©ò´
+cpython:S101î"FRename class "A" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(öŒÃˆýÿÿÿÿ
+tpython:S117ì"WRename this local variable "cast_A" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú°žÚýÿÿÿÿ
+rpython:S100œ"URename method "test_1D_rowvar" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÓÔêüÿÿÿÿ
+opython:S100¡"WRename method "test_1D_variance" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ö¶’ú
+dpython:S101Û"LRename class "Test_I0" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ñÓ¼•
+gpython:S101ü"ORename class "array_like" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(üž®‡
+Epython:S1481Œ"'Remove the unused local variable "res".(¿Õçàüÿÿÿÿ
+>python:S1481¯"%Remove the unused local variable "j".(ø—™ê
+>python:S1481´"%Remove the unused local variable "j".(ø—™ê
+apython:S100™"IRename method "sc" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Þ¬Å¾
+fpython:S100«"NRename method "test_2D" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¡ÌŠñ
+vpython:S101–"YRename class "TestAdd_newdoc_ufunc" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(÷ Ÿèþÿÿÿÿ
+ppython:S101 "SRename class "TestAdd_newdoc" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.( Ì¬‹úÿÿÿÿ
+6python:S3626¿"Remove this redundant return.(ÙãÞŸ
+6python:S3626Ë"Remove this redundant return.(ÙãÞŸ

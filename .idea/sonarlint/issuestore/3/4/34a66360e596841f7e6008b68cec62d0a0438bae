@@ -1,0 +1,8 @@
+
+^python:S1192"FDefine a constant instead of duplicating this literal "one.1" 5 times.(Ê…¸
+fpython:S1192"HDefine a constant instead of duplicating this literal "one,one" 3 times.(œØÙ„ıÿÿÿÿ
+qpython:S1192Ç"XDefine a constant instead of duplicating this literal """a,b
+1,a
+1,b
+1,b
+2,c""" 4 times.(°ÑÉÑ

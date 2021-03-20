@@ -1,0 +1,8 @@
+
+hpython:S1542&"KRename function "df" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(§Æ¿Éùÿÿÿÿ
+Epython:S1481-"(Remove the unused local variable "dask".(€ÌÄ„úÿÿÿÿ
+@python:S1481,")Remove the unused local variable "toolz".(ÖÅÊV
+Gpython:S14818"*Remove the unused local variable "xarray".(ı¤Õ®ıÿÿÿÿ
+Lpython:S1481I"/Remove the unused local variable "statsmodels".(õêÎıÿÿÿÿ
+Cpython:S1481T"+Remove the unused local variable "sklearn".(ÇÉ²
+Kpython:S1481i".Remove the unused local variable "pandas_gbq".(çÄÚ³ÿÿÿÿÿ

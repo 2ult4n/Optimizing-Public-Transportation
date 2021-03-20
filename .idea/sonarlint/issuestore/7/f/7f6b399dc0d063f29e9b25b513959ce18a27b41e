@@ -1,0 +1,141 @@
+
+dpython:S1192Ì"KDefine a constant instead of duplicating this literal 'US/Eastern' 4 times.(”í“
+mpython:S1192¼"ODefine a constant instead of duplicating this literal 'datetime64[ns]' 7 times.(éƒûÿÿÿÿ
+jpython:S1192¯"QDefine a constant instead of duplicating this literal '2000-01-01 09:00' 4 times.(€õÈÆ
+npython:S1192à"PDefine a constant instead of duplicating this literal 'timedelta64[ns]' 6 times.(Ôššûÿÿÿÿ
+cpython:S1192ç"KDefine a constant instead of duplicating this literal 'Asia/Tokyo' 3 times.(³¯Íj
+mpython:S1192·	"TDefine a constant instead of duplicating this literal '2000-01-05 00:15:00' 3 times.(«Í¨‹
+ipython:S1192¿
+"KDefine a constant instead of duplicating this literal 'US/Central' 8 times.(‰’ÜÕıÿÿÿÿ
+ypython:S1192Ò"[Define a constant instead of duplicating this literal "a TypeError will be raised" 4 times.(Ä™Ïôÿÿÿÿÿ
+ipython:S1192Ä"KDefine a constant instead of duplicating this literal 'US/Pacific' 5 times.(Ë½ßµûÿÿÿÿ
+rpython:S1192¸	"TDefine a constant instead of duplicating this literal '2000-01-31 00:23:00' 3 times.(ªäòàûÿÿÿÿ
+`python:S1192–"GDefine a constant instead of duplicating this literal '0 days' 6 times.(˜üÆÖ
+gpython:S1192¼"NDefine a constant instead of duplicating this literal 'datetime64[D]' 3 times.(˜š®…
+epython:S1192"GDefine a constant instead of duplicating this literal '-1 Day' 3 times.(±ƒìÿÿÿÿÿ
+|python:S1192‹"cDefine a constant instead of duplicating this literal "FIXME: ValueError with transpose; " 4 times.(ì…°®
+Qpython:S905":Remove or refactor this statement; it has no side effects.(Úìûz
+Wpython:S905ƒ":Remove or refactor this statement; it has no side effects.(”à¨Çÿÿÿÿÿ
+Rpython:S905…":Remove or refactor this statement; it has no side effects.(­ß’
+Rpython:S905‡":Remove or refactor this statement; it has no side effects.(ôÆÛº
+Wpython:S905ñ":Remove or refactor this statement; it has no side effects.(ò£ã€úÿÿÿÿ
+Rpython:S905ó":Remove or refactor this statement; it has no side effects.(Ö¼‡›
+Rpython:S905õ":Remove or refactor this statement; it has no side effects.(¬Ô­Ú
+Wpython:S905÷":Remove or refactor this statement; it has no side effects.(¯†Øüÿÿÿÿ
+jpython:S1764¦"LCorrect one of the identical sub-expressions on both sides of operator "!=".(íı÷Ûúÿÿÿÿ
+jpython:S1764²"LCorrect one of the identical sub-expressions on both sides of operator "==".(ÛØ„šüÿÿÿÿ
+Wpython:S905‘":Remove or refactor this statement; it has no side effects.(éïÿöüÿÿÿÿ
+Rpython:S905“":Remove or refactor this statement; it has no side effects.(ƒÖÄ
+Wpython:S905•":Remove or refactor this statement; it has no side effects.(ˆ…¶Öÿÿÿÿÿ
+Wpython:S905—":Remove or refactor this statement; it has no side effects.(“ÌÆøÿÿÿÿ
+jpython:S1134­"LTake the required action to fix the issue indicated by this "FIXME" comment.(ÕÑÂ²üÿÿÿÿ
+Wpython:S905±":Remove or refactor this statement; it has no side effects.(éïÿöüÿÿÿÿ
+Rpython:S905³":Remove or refactor this statement; it has no side effects.(ƒÖÄ
+Wpython:S905µ":Remove or refactor this statement; it has no side effects.(ˆ…¶Öÿÿÿÿÿ
+Wpython:S905·":Remove or refactor this statement; it has no side effects.(“ÌÆøÿÿÿÿ
+jpython:S1134Ç"LTake the required action to fix the issue indicated by this "FIXME" comment.(ÕÑÂ²üÿÿÿÿ
+jpython:S1764ß"LCorrect one of the identical sub-expressions on both sides of operator "==".(šöğŒøÿÿÿÿ
+epython:S1764à"LCorrect one of the identical sub-expressions on both sides of operator "==".(èŒ‰
+jpython:S1134‚"LTake the required action to fix the issue indicated by this "FIXME" comment.(ÕÑÂ²üÿÿÿÿ
+jpython:S1134Á"LTake the required action to fix the issue indicated by this "FIXME" comment.(ÕÑÂ²üÿÿÿÿ
+Wpython:S905Ï":Remove or refactor this statement; it has no side effects.(™û¢´üÿÿÿÿ
+Wpython:S905Ñ":Remove or refactor this statement; it has no side effects.(Ô½¦‡úÿÿÿÿ
+Rpython:S905Ó":Remove or refactor this statement; it has no side effects.(ÄñÌÂ
+Wpython:S905Õ":Remove or refactor this statement; it has no side effects.(ÚŒü’ùÿÿÿÿ
+epython:S1764Û"LCorrect one of the identical sub-expressions on both sides of operator "==".(‘é™ö
+Wpython:S905ò":Remove or refactor this statement; it has no side effects.(Ì”Şøÿÿÿÿ
+Rpython:S905ô":Remove or refactor this statement; it has no side effects.(œ©Öø
+Rpython:S905ö":Remove or refactor this statement; it has no side effects.(àè
+Rpython:S905ø":Remove or refactor this statement; it has no side effects.(‹ŸşÀ
+Rpython:S905‡":Remove or refactor this statement; it has no side effects.(ô¨åÅ
+Rpython:S905":Remove or refactor this statement; it has no side effects.(‹ŸşÀ
+jpython:S1134¥"LTake the required action to fix the issue indicated by this "FIXME" comment.(êî¿ßıÿÿÿÿ
+jpython:S1134´"LTake the required action to fix the issue indicated by this "FIXME" comment.(êî¿ßıÿÿÿÿ
+jpython:S1134Ã"LTake the required action to fix the issue indicated by this "FIXME" comment.(êî¿ßıÿÿÿÿ
+jpython:S1134Ò"LTake the required action to fix the issue indicated by this "FIXME" comment.(êî¿ßıÿÿÿÿ
+jpython:S1134ú"LTake the required action to fix the issue indicated by this "FIXME" comment.(ñí±“üÿÿÿÿ
+Wpython:S905†":Remove or refactor this statement; it has no side effects.(ƒ›Ç»øÿÿÿÿ
+Wpython:S905¤":Remove or refactor this statement; it has no side effects.(ÜÌ¤µûÿÿÿÿ
+epython:S1134Ï"LTake the required action to fix the issue indicated by this "FIXME" comment.(Š™Ó
+xpython:S100Ú"[Rename method "test_dt64arr_sub_NaT" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(„ş€¿ÿÿÿÿÿ
+epython:S1134á"LTake the required action to fix the issue indicated by this "FIXME" comment.(ÏÄÇë
+dpython:S1764ö"KCorrect one of the identical sub-expressions on both sides of operator "-".(âñ¬ü
+Rpython:S905‰":Remove or refactor this statement; it has no side effects.(ıåÓá
+Rpython:S905‹":Remove or refactor this statement; it has no side effects.(¿×Ù¹
+Rpython:S905":Remove or refactor this statement; it has no side effects.(œÚŒï
+Rpython:S905Ÿ":Remove or refactor this statement; it has no side effects.(×ªş­
+Rpython:S905§":Remove or refactor this statement; it has no side effects.(İˆß“
+Wpython:S905©":Remove or refactor this statement; it has no side effects.(ÄÃëúÿÿÿÿ
+Qpython:S905³":Remove or refactor this statement; it has no side effects.(¡Ÿ®:
+Wpython:S905µ":Remove or refactor this statement; it has no side effects.(òìºúÿÿÿÿ
+Rpython:S905·":Remove or refactor this statement; it has no side effects.(ìéÍœ
+Wpython:S905¹":Remove or refactor this statement; it has no side effects.(¢„¡ÿÿÿÿÿ
+Qpython:S905Ç":Remove or refactor this statement; it has no side effects.(ÀÆ­
+Wpython:S905É":Remove or refactor this statement; it has no side effects.(Š£÷Âúÿÿÿÿ
+Rpython:S905Ë":Remove or refactor this statement; it has no side effects.(¸Şˆƒ
+Rpython:S905Í":Remove or refactor this statement; it has no side effects.(’™ÀÙ
+Rpython:S905Ù":Remove or refactor this statement; it has no side effects.(„÷Ä²
+Rpython:S905Û":Remove or refactor this statement; it has no side effects.(¹ÊŸ›
+Rpython:S905İ":Remove or refactor this statement; it has no side effects.(Û«ƒ‡
+Rpython:S905ß":Remove or refactor this statement; it has no side effects.(¬éÙÉ
+‹python:S100è"nRename method "test_dt64arr_series_add_tick_DateOffset" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Æš­Áøÿÿÿÿ
+‹python:S100ø"nRename method "test_dt64arr_series_sub_tick_DateOffset" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ì¸©Ğşÿÿÿÿ
+Rpython:S905‰	":Remove or refactor this statement; it has no side effects.(´…±ù
+‰python:S100	"qRename method "test_dt64arr_add_sub_tick_DateOffset_smoke" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(€¯¡
+Wpython:S905•	":Remove or refactor this statement; it has no side effects.(±ë„éûÿÿÿÿ
+Wpython:S905–	":Remove or refactor this statement; it has no side effects.(Êæ¡Âşÿÿÿÿ
+Rpython:S905—	":Remove or refactor this statement; it has no side effects.(È»©´
+jpython:S1134¦	"LTake the required action to fix the issue indicated by this "FIXME" comment.(öş—ùúÿÿÿÿ
+Rpython:S905Ü	":Remove or refactor this statement; it has no side effects.(ÄŠÛ„
+„python:S100ù	"gRename method "test_dt64arr_add_sub_DateOffsets" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(–Ï‘°ıÿÿÿÿ
+Wpython:S905­
+":Remove or refactor this statement; it has no side effects.(Âòèóÿÿÿÿÿ
+ƒpython:S100¯
+"fRename method "test_dt64arr_add_sub_DateOffset" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Â¿„İúÿÿÿÿ
+jpython:S1134Á
+"LTake the required action to fix the issue indicated by this "FIXME" comment.(’†àøÿÿÿÿ
+Rpython:S905²":Remove or refactor this statement; it has no side effects.(€­Óˆ
+Rpython:S905´":Remove or refactor this statement; it has no side effects.(§Ú¹¤
+Rpython:S905¶":Remove or refactor this statement; it has no side effects.(Á•äİ
+Wpython:S905¸":Remove or refactor this statement; it has no side effects.(Û™©·şÿÿÿÿ
+Rpython:S905Ü":Remove or refactor this statement; it has no side effects.(ª¥ÅË
+Qpython:S905ê":Remove or refactor this statement; it has no side effects.(‰€
+Ppython:S905ş":Remove or refactor this statement; it has no side effects.(¼º>
+Wpython:S905":Remove or refactor this statement; it has no side effects.(¾¼Â¼ûÿÿÿÿ
+Wpython:S905‡":Remove or refactor this statement; it has no side effects.(¶şÂ€şÿÿÿÿ
+Rpython:S905Œ":Remove or refactor this statement; it has no side effects.(Õ¨Š¹
+Wpython:S905™":Remove or refactor this statement; it has no side effects.(Ùââ·ùÿÿÿÿ
+Wpython:S905§":Remove or refactor this statement; it has no side effects.(ô¸Â›ûÿÿÿÿ
+Rpython:S905¨":Remove or refactor this statement; it has no side effects.(û•³ú
+Wpython:S905«":Remove or refactor this statement; it has no side effects.(ïìš«ûÿÿÿÿ
+Rpython:S905¬":Remove or refactor this statement; it has no side effects.(ı¶¨Ê
+Wpython:S905­":Remove or refactor this statement; it has no side effects.(Ç×ô¤ùÿÿÿÿ
+Rpython:S905²":Remove or refactor this statement; it has no side effects.(ı¶¨Ê
+Wpython:S905³":Remove or refactor this statement; it has no side effects.(ïìš«ûÿÿÿÿ
+‰python:S100"qRename method "test_dt64_series_add_mixed_tick_DateOffset" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¬¢†¼
+Wpython:S905ª":Remove or refactor this statement; it has no side effects.(ÍÅÂ³şÿÿÿÿ
+Rpython:S905¯":Remove or refactor this statement; it has no side effects.(­ÀÍÅ
+Wpython:S905È":Remove or refactor this statement; it has no side effects.(»÷ªµûÿÿÿÿ
+Rpython:S905Ê":Remove or refactor this statement; it has no side effects.(³œñ«
+Wpython:S905Î":Remove or refactor this statement; it has no side effects.(ÁóœŠøÿÿÿÿ
+Rpython:S905Ğ":Remove or refactor this statement; it has no side effects.(Ú°”
+Rpython:S905‰":Remove or refactor this statement; it has no side effects.(ë§ã¤
+Wpython:S905":Remove or refactor this statement; it has no side effects.(•ÿ¸ùÿÿÿÿ
+Wpython:S905¢":Remove or refactor this statement; it has no side effects.(š¼öñùÿÿÿÿ
+Rpython:S905¤":Remove or refactor this statement; it has no side effects.(×ÙºŸ
+Wpython:S905‡":Remove or refactor this statement; it has no side effects.(­ñĞ•ıÿÿÿÿ
+Wpython:S905‰":Remove or refactor this statement; it has no side effects.(½•õ£şÿÿÿÿ
+Rpython:S905‹":Remove or refactor this statement; it has no side effects.(ºÿ‚Å
+Rpython:S905":Remove or refactor this statement; it has no side effects.(‚˜™†
+Rpython:S905Í":Remove or refactor this statement; it has no side effects.(Ùì›
+Rpython:S905Õ":Remove or refactor this statement; it has no side effects.(¦÷Š¯
+Rpython:S905†":Remove or refactor this statement; it has no side effects.(Òş·‡
+Rpython:S905ˆ":Remove or refactor this statement; it has no side effects.(÷¿ãÖ
+ipython:S1764•"KCorrect one of the identical sub-expressions on both sides of operator "-".(£üÒ ùÿÿÿÿ
+dpython:S1764˜"KCorrect one of the identical sub-expressions on both sides of operator "-".(İˆÇå
+Wpython:S905œ":Remove or refactor this statement; it has no side effects.(÷ÔöÈÿÿÿÿÿ
+Wpython:S905Ÿ":Remove or refactor this statement; it has no side effects.(ƒà÷İÿÿÿÿÿ
+Wpython:S905¢":Remove or refactor this statement; it has no side effects.(—¯ùâÿÿÿÿÿ
+Wpython:S905¬":Remove or refactor this statement; it has no side effects.(Ò¬ğşÿÿÿÿ
+7python:S125Â"Remove this commented out code.(›€
+Wpython:S905÷":Remove or refactor this statement; it has no side effects.( ‡ôÍüÿÿÿÿ

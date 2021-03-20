@@ -1,0 +1,83 @@
+
+jpython:S1192„
+"LDefine a constant instead of duplicating this literal '{obj}.index' 4 times.(ÅĞ’âùÿÿÿÿ
+Gpython:S1066ì"/Merge this if statement with the enclosing one.(£íªW
+Hpython:S1066ˆ"/Merge this if statement with the enclosing one.(©‡»é
+Mpython:S1066ò"/Merge this if statement with the enclosing one.(¸¬®—üÿÿÿÿ
+Mpython:S1066	"/Merge this if statement with the enclosing one.(õ¸†üÿÿÿÿ
+Gpython:S1066¿
+"/Merge this if statement with the enclosing one.(£íªW
+Mpython:S1066Ø"/Merge this if statement with the enclosing one.(ÈáˆĞıÿÿÿÿ
+lpython:S117{"URename this local variable "Path" to match the regular expression ^[_a-z][a-z0-9_]*$.(ª…íé
+rpython:S117—"ZRename this local variable "LocalPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚˜ùÑ
+mpython:S3776ƒ"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ô®œš
+Apython:S108Ç")Either remove or fill this block of code.(ã‘Û¾
+kpython:S117Š"TRename this local variable "Pdb" to match the regular expression ^[_a-z][a-z0-9_]*$.(ûò³g
+tpython:S1542ø"VRename function "equalContents" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ñéúÿÿÿÿÿ
+tpython:S107ş"WFunction "assert_index_equal" has 8 parameters, which is greater than the 7 authorized.(¡°«¶ıÿÿÿÿ
+Spython:S1481™"5Remove the unused local variable "__tracebackhide__".(Œ„›¤üÿÿÿÿ
+rpython:S3776ş"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(¡°«¶ıÿÿÿÿ
+Spython:S1481ó"5Remove the unused local variable "__tracebackhide__".(Œ„›¤üÿÿÿÿ
+Spython:S1481›"5Remove the unused local variable "__tracebackhide__".(Œ„›¤üÿÿÿÿ
+|python:S1871¥"cEither merge this branch with the identical one on line "929" or change one of the implementations.(³î
+Spython:S1481—"5Remove the unused local variable "__tracebackhide__".(Œ„›¤üÿÿÿÿ
+Spython:S1481¡"5Remove the unused local variable "__tracebackhide__".(Œ„›¤üÿÿÿÿ
+Spython:S1481©"5Remove the unused local variable "__tracebackhide__".(Œ„›¤üÿÿÿÿ
+Spython:S1481Ş"5Remove the unused local variable "__tracebackhide__".(Œ„›¤üÿÿÿÿ
+mpython:S3776É"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(Íµˆí
+qpython:S107Ç	"YFunction "assert_series_equal" has 11 parameters, which is greater than the 7 authorized.(İæ
+Spython:S1481í	"5Remove the unused local variable "__tracebackhide__".(Œ„›¤üÿÿÿÿ
+mpython:S3776Ç	"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(İæ
+Apython:S108Œ
+")Either remove or fill this block of code.(ã‘Û¾
+ppython:S107Å
+"XFunction "assert_frame_equal" has 14 parameters, which is greater than the 7 authorized.(‘ûÒ©
+Spython:S1481¢"5Remove the unused local variable "__tracebackhide__".(Œ„›¤üÿÿÿÿ
+opython:S107á"WFunction "assert_panel_equal" has 8 parameters, which is greater than the 7 authorized.(ğ—Ğµ
+Spython:S1481ª"5Remove the unused local variable "__tracebackhide__".(Œ„›¤üÿÿÿÿ
+ypython:S107µ"\Function "assert_sp_series_equal" has 10 parameters, which is greater than the 7 authorized.(€©ÅŞùÿÿÿÿ
+rpython:S107ì"ZFunction "assert_sp_frame_equal" has 9 parameters, which is greater than the 7 authorized.(åİ§š
+npython:S1542É"PRename function "getCols" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ë’Í›ûÿÿÿÿ
+vpython:S1542Î"XRename function "makeStringIndex" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Œ¶²Áşÿÿÿÿ
+wpython:S1542Ò"YRename function "makeUnicodeIndex" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÒÜ¦›ùÿÿÿÿ
+{python:S1542Ö"]Rename function "makeCategoricalIndex" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Òßöüÿÿÿÿ
+xpython:S1542Ü"ZRename function "makeIntervalIndex" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÎéÎëşÿÿÿÿ
+opython:S1542â"VRename function "makeBoolIndex" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ãß¤
+npython:S1542ê"URename function "makeIntIndex" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‰º–Ø
+opython:S1542î"VRename function "makeUIntIndex" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Â«“¥
+upython:S1542ò"WRename function "makeRangeIndex" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ŠÄÌşüÿÿÿÿ
+upython:S1542ö"WRename function "makeFloatIndex" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÚúÛ÷ùÿÿÿÿ
+opython:S1542û"VRename function "makeDateIndex" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(˜ŸÖ£
+tpython:S1542"[Rename function "makeTimedeltaIndex" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ª–©
+qpython:S1542†"XRename function "makePeriodIndex" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(…—ÒÓ
+ppython:S1542Œ"WRename function "makeMultiIndex" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(îçÉ
+vpython:S1542»"XRename function "makeFloatSeries" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(áïÀøÿÿÿÿ
+wpython:S1542À"YRename function "makeStringSeries" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(äÆİÿÿÿÿÿ
+wpython:S117Æ"ZRename this local variable "dateIndex" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ó×ûÿÿÿÿ
+rpython:S1542Å"YRename function "makeObjectSeries" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÂáŒ¥
+opython:S1542Ì"VRename function "getSeriesData" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(³ÈÓ
+ppython:S1542Ñ"WRename function "makeTimeSeries" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ü€¨š
+wpython:S1542×"YRename function "makePeriodSeries" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÈÑòóıÿÿÿÿ
+spython:S1542İ"ZRename function "getTimeSeriesData" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(®âÃµ
+tpython:S1542á"VRename function "getPeriodData" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‚° şÿÿÿÿ
+xpython:S1542æ"ZRename function "makeTimeDataFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÌÈàúÿÿÿÿ
+tpython:S1542ë"VRename function "makeDataFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‘ˆÒÊùÿÿÿÿ
+wpython:S1542ğ"YRename function "getMixedTypeDict" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÏŸ°€şÿÿÿÿ
+tpython:S1542ı"[Rename function "makeMixedDataFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Â¯êÄ
+qpython:S1542"XRename function "makePeriodFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(˜­Ğş
+kpython:S1542†"RRename function "makePanel" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¸åğ×
+vpython:S1542"XRename function "makePeriodPanel" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÅÀÇúşÿÿÿÿ
+vpython:S1542–"XRename function "makeCustomIndex" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‡§“ñùÿÿÿÿ
+rpython:S3776–"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(‡§“ñùÿÿÿÿ
+kpython:S5795²"MReplace this "is" operator with "=="; identity operator is not reliable here.(ş¤²·üÿÿÿÿ
+upython:S1542÷"\Rename function "makeCustomDataframe" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(’Òš¯
+qpython:S107÷"YFunction "makeCustomDataframe" has 12 parameters, which is greater than the 7 authorized.(’Òš¯
+python:S1542æ"cRename function "makeMissingCustomDataframe" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(“¦ùÿÿÿÿ
+}python:S107æ"`Function "makeMissingCustomDataframe" has 14 parameters, which is greater than the 7 authorized.(“¦ùÿÿÿÿ
+vpython:S1542…"]Rename function "makeMissingDataframe" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ú·¬´
+7python:S125¸"Remove this commented out code.(âş™”
+Apython:S108ñ")Either remove or fill this block of code.(ã‘Û¾
+rpython:S3776ù"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(¸‹²§ıÿÿÿÿ
+Spython:S1481¼"5Remove the unused local variable "__tracebackhide__".(Œ„›¤üÿÿÿÿ
+mpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(¤ÿ‰Ô
+lpython:S1542»"NRename function "setTZ" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ö†‹´şÿÿÿÿ

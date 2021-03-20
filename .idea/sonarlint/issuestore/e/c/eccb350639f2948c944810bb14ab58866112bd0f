@@ -1,0 +1,16 @@
+
+mpython:S1192Ğ"TDefine a constant instead of duplicating this literal "2017-08-01 00:00:00" 3 times.(¢ß¾ê
+cpython:S1192¸"JDefine a constant instead of duplicating this literal 'b (right)' 6 times.(Ş÷Ëã
+apython:S1192Á"HDefine a constant instead of duplicating this literal 'A label' 8 times.(£¨Ëè
+rpython:S1192Ñ"TDefine a constant instead of duplicating this literal "2017-08-01 02:00:00" 3 times.(ĞğÈšüÿÿÿÿ
+apython:S1192Á"HDefine a constant instead of duplicating this literal 'B label' 8 times.(£¨Ëè
+rpython:S1192Ò"TDefine a constant instead of duplicating this literal "2017-08-02 00:00:00" 3 times.(£Óææûÿÿÿÿ
+apython:S1192Á"HDefine a constant instead of duplicating this literal 'C label' 6 times.(£¨Ëè
+jpython:S1192é"QDefine a constant instead of duplicating this literal 'group,individual' 3 times.(ìÓ»—
+tpython:S107î	"WMethod "_check_bar_alignment" has 8 parameters, which is greater than the 7 authorized.(Î°Ï»ÿÿÿÿÿ
+rpython:S3776î	"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(Î°Ï»ÿÿÿÿÿ
+epython:S1854–"GRemove this assignment to local variable 'ax'; the value is never used.(Ä–ãıÿÿÿÿ
+<python:S125"Remove this commented out code.(¹à³ßüÿÿÿÿ
+<python:S125œ"Remove this commented out code.(Üˆéşüÿÿÿÿ
+<python:S125­"Remove this commented out code.(ü¬İıÿÿÿÿ
+7python:S125Ó"Remove this commented out code.(œŒÂÚ

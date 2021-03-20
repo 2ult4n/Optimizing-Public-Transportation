@@ -1,0 +1,65 @@
+
+dpython:S1192†"KDefine a constant instead of duplicating this literal 'US/Eastern' 3 times.(üÓŸ
+`python:S1192Õ"GDefine a constant instead of duplicating this literal 'dtype:' 3 times.(ã¶ŞÇ
+rpython:S1192"YDefine a constant instead of duplicating this literal 'display.max_info_columns' 4 times.(ÜáÉé
+ppython:S1192Ç"RDefine a constant instead of duplicating this literal u'ã‚ã‚ã‚ã‚ã‚' 13 times.(¿®¢‚úÿÿÿÿ
+npython:S1192µ"UDefine a constant instead of duplicating this literal u'ãˆãˆãˆãˆãˆãˆ' 17 times.(Çå½
+ppython:S1192Å"RDefine a constant instead of duplicating this literal "display.max_rows" 22 times.(‰³ï”ÿÿÿÿÿ
+_python:S1192ş"GDefine a constant instead of duplicating this literal '5 rows' 8 times.(½ôª
+kpython:S1192™"RDefine a constant instead of duplicating this literal 'display.max_rows' 34 times.(ø¸Á§
+bpython:S1192ñ"IDefine a constant instead of duplicating this literal "'0 days'" 4 times.(ûäû¢
+`python:S1192³"GDefine a constant instead of duplicating this literal "1 days" 4 times.(ÜÅûÏ
+npython:S1192˜"UDefine a constant instead of duplicating this literal 'display.max_columns' 35 times.(Ó®å£
+wpython:S1192»"YDefine a constant instead of duplicating this literal "-1 days +00:00:00.500000" 3 times.(éùÿÿúÿÿÿÿ
+upython:S1192Š"WDefine a constant instead of duplicating this literal u'ãŠãŠãŠãŠãŠãŠãŠ' 4 times.(¨È´ıÿÿÿÿ
+vpython:S1192Ì"XDefine a constant instead of duplicating this literal "display.show_dimensions" 4 times.(ÑœÊ´ıÿÿÿÿ
+kpython:S1192¹"RDefine a constant instead of duplicating this literal "-1 days +00:00:01" 3 times.(ñµÀ‡
+mpython:S1192Ë"TDefine a constant instead of duplicating this literal "display.max_columns" 3 times.(ßÑÏ
+tpython:S1192"VDefine a constant instead of duplicating this literal 'mode.sim_interactive' 12 times.(ÇŞ”øÿÿÿÿ
+hpython:S1192˜"ODefine a constant instead of duplicating this literal 'display.width' 13 times.(Ó®å£
+spython:S1192±"UDefine a constant instead of duplicating this literal "display.max_colwidth" 3 times.(´Ç ¨üÿÿÿÿ
+npython:S1192¸"PDefine a constant instead of duplicating this literal "1 days 00:00:01" 3 times.(áÌ£ıÿÿÿÿ
+ypython:S1192›"[Define a constant instead of duplicating this literal 'display.expand_frame_repr' 21 times.(Ü½…Æÿÿÿÿÿ
+ppython:S1192É"WDefine a constant instead of duplicating this literal "display.chop_threshold" 7 times.(‡”÷±
+ppython:S1192º"WDefine a constant instead of duplicating this literal "1 days 00:00:00.500000" 3 times.(öåêš
+vpython:S1192š"XDefine a constant instead of duplicating this literal 'display.show_dimensions' 8 times.(«§‡øÿÿÿÿ
+jpython:S1192³
+"RDefine a constant instead of duplicating this literal 'display.precision' 3 times.(êˆƒ0
+lpython:S1192œ"SDefine a constant instead of duplicating this literal 'display.large_repr' 6 times.(ûé¼¢
+Fpython:S2201"(The return value of "repr" must be used.(ÅªøËùÿÿÿÿ
+Fpython:S2201‚"(The return value of "repr" must be used.(ˆÿşøÿÿÿÿ
+Apython:S2201‰"(The return value of "repr" must be used.(ã¿¦Ó
+Apython:S2201Œ"(The return value of "repr" must be used.(ã¿¦Ó
+Apython:S2201"(The return value of "repr" must be used.(ã¿¦Ó
+Fpython:S2201¬"(The return value of "repr" must be used.(ˆÿşøÿÿÿÿ
+Cpython:S1481´"%Remove the unused local variable "i".(Ò÷Ş•ûÿÿÿÿ
+Fpython:S2201Ê"(The return value of "repr" must be used.(ˆÿşøÿÿÿÿ
+Fpython:S2201ó"(The return value of "repr" must be used.(ˆÿşøÿÿÿÿ
+mpython:S3776¼"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(„Êç›
+Fpython:S2201Ò"(The return value of "repr" must be used.(ˆÿşøÿÿÿÿ
+Fpython:S2201Ó"(The return value of "repr" must be used.(á±’Äùÿÿÿÿ
+Fpython:S2201Ø"(The return value of "repr" must be used.(ˆÿşøÿÿÿÿ
+Fpython:S2201ß"(The return value of "repr" must be used.(ˆÿşøÿÿÿÿ
+Apython:S2201à"(The return value of "repr" must be used.(€Ê¨§
+7python:S125å	"Remove this commented out code.(À‚š…
+_python:S5799Ê
+"GMerge these implicitly concatenated strings; or did you forget a comma?(ÈéŸX
+epython:S1854ı
+"MRemove this assignment to local variable 'expected'; the value is never used.(•ú¿+
+dpython:S1854ü
+"KRemove this assignment to local variable 'result'; the value is never used.(ºş¸±
+_python:S5799ı
+"GMerge these implicitly concatenated strings; or did you forget a comma?(•ú¿+
+Fpython:S2201“"(The return value of "repr" must be used.(ˆÿşøÿÿÿÿ
+`python:S5799š"GMerge these implicitly concatenated strings; or did you forget a comma?(—èª
+_python:S5799¯"GMerge these implicitly concatenated strings; or did you forget a comma?(ÈéŸX
+tpython:S117ò"WRename this local variable "max_L1" to match the regular expression ^[_a-z][a-z0-9_]*$.(ã„ÿñøÿÿÿÿ
+Fpython:S5603Ê"(Remove this unused function declaration.(Ğ…½óüÿÿÿÿ
+cpython:S101Ü"FRename class "A" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ï—ĞÔùÿÿÿÿ
+Fpython:S2201á"(The return value of "repr" must be used.(©ã²ğüÿÿÿÿ
+Fpython:S2201˜"(The return value of "repr" must be used.(Š¦·¦üÿÿÿÿ
+Fpython:S2201œ"(The return value of "repr" must be used.(ûº½ÿÿÿÿÿ
+Ipython:S5806¨"+Rename this variable; it shadows a builtin.(Ó§Î·ÿÿÿÿÿ
+epython:S1854ó"GRemove this assignment to local variable 's2'; the value is never used.(î÷£´üÿÿÿÿ
+cpython:S1854×"JRemove this assignment to local variable 'lines'; the value is never used.(¬²…´
+vpython:S101ª"YRename class "TestRepr_timedelta64" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(‡®÷šşÿÿÿÿ

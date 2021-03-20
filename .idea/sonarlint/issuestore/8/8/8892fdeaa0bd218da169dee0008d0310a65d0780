@@ -1,0 +1,15 @@
+
+ipython:S1192Ç"KDefine a constant instead of duplicating this literal 'US/Eastern' 3 times.(Âª¾Áûÿÿÿÿ
+epython:S1192¹"GDefine a constant instead of duplicating this literal '1 days' 3 times.(Ææıëøÿÿÿÿ
+ipython:S1192È"KDefine a constant instead of duplicating this literal 'Asia/Tokyo' 3 times.(·”½ûûÿÿÿÿ
+`python:S1192º"GDefine a constant instead of duplicating this literal '3 days' 3 times.(ÅŒ®
+Rpython:S905˜":Remove or refactor this statement; it has no side effects.(ªˆê¬
+Rpython:S905’":Remove or refactor this statement; it has no side effects.(–ƒÄª
+Rpython:S905”":Remove or refactor this statement; it has no side effects.(‰ÒĞ
+dpython:S1764”"KCorrect one of the identical sub-expressions on both sides of operator "-".(‰ÒĞ
+Wpython:S905–":Remove or refactor this statement; it has no side effects.(³Ä¿˜ùÿÿÿÿ
+Wpython:S905˜":Remove or refactor this statement; it has no side effects.(Â–óıÿÿÿÿ
+Wpython:S905¦":Remove or refactor this statement; it has no side effects.(—ÊÜ¥ıÿÿÿÿ
+Wpython:S905©":Remove or refactor this statement; it has no side effects.(ˆ‰°æıÿÿÿÿ
+Wpython:S905·":Remove or refactor this statement; it has no side effects.(òÙ´™úÿÿÿÿ
+Rpython:S905º":Remove or refactor this statement; it has no side effects.(…ØŒ

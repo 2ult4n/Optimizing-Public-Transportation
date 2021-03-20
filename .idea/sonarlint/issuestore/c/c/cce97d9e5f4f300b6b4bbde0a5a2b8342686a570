@@ -1,0 +1,7 @@
+
+xpython:S1192ž"ZDefine a constant instead of duplicating this literal '2012-11-11 00:00:00+01:00' 6 times.(Ó®–õøÿÿÿÿ
+ipython:S1854ã"KRemove this assignment to local variable 'result'; the value is never used.(Å²¹ƒúÿÿÿÿ
+dpython:S1854â"KRemove this assignment to local variable 'result'; the value is never used.(ì‘¤°
+kpython:S1854–"MRemove this assignment to local variable 'expected'; the value is never used.(‚ª©Œùÿÿÿÿ
+ipython:S1854¡"KRemove this assignment to local variable 'result'; the value is never used.(ÌœÇîÿÿÿÿÿ
+Cpython:S1481ï"*Remove the unused local variable "result".(¢žÑµ

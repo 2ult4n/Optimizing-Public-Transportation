@@ -1,0 +1,9 @@
+
+{python:S1192¡"]Define a constant instead of duplicating this literal "Cannot divide {typ} by {cls}" 4 times.(¦¨Îûÿÿÿÿ
+Gpython:S1066–"/Merge this if statement with the enclosing one.(ÈÆŞV
+gpython:S1542."JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ò•àÃüÿÿÿÿ
+lpython:S3776<"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(¡®èÈ
+rpython:S3776À"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(×ù™İıÿÿÿÿ
+cpython:S1542Ì"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åºØÀ
+cpython:S1542Ñ"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åºØÀ
+rpython:S3776à"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(õºúÿÿÿÿ

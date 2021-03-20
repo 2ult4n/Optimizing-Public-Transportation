@@ -1,0 +1,23 @@
+
+cpython:S1192Æ"JDefine a constant instead of duplicating this literal '\n\t - %s' 3 times.(öı¦‚
+[python:S112å">Replace this generic exception class with a more specific one.(Ü°³ûÿÿÿÿ
+-python:S1700‘"Rename field "names"(İ•˜
+{python:S100Ì"^Rename method "NewWithDefaultNamespace" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Şù¯Öøÿÿÿÿ
+kpython:S100Ö"NRename method "GetName" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ò¦Î‹ÿÿÿÿÿ
+hpython:S100ê"PRename method "GetSchema" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(º•©æ
+lpython:S100ˆ"ORename method "Register" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ŒÇ‰Ôøÿÿÿÿ
+ipython:S107ç"LMethod "__init__" has 10 parameters, which is greater than the 7 authorized.( Ğàşüÿÿÿÿ
+hpython:S107É"KMethod "__init__" has 9 parameters, which is greater than the 7 authorized.( Ğàşüÿÿÿÿ
+tpython:S1542¬"VRename function "FilterKeysOut" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÍË¿íøÿÿÿÿ
+wpython:S1542¿"^Rename function "_SchemaFromJSONString" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åşş
+{python:S1542Ì"]Rename function "_SchemaFromJSONArray" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(†ÿØºşÿÿÿÿ
+lpython:S1542Í"SRename function "MakeSchema" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Õ¸‚
+wpython:S1542Ò"^Rename function "_SchemaFromJSONObject" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¾áÈÌ
+mpython:S3776Ò"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(¾áÈÌ
+Ipython:S5806Ó"+Rename this variable; it shadows a builtin.( ®Ùºıÿÿÿÿ
+dpython:S1134Ü"LTake the required action to fix the issue indicated by this "FIXME" comment.(œê¦
+kpython:S1542í"SRename function "MakeFields" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(±’ı
+Upython:S112ú">Replace this generic exception class with a more specific one.(ªÑÂ}
+Upython:S112	">Replace this generic exception class with a more specific one.(ªÑÂ}
+tpython:S1542¬	"[Rename function "SchemaFromJSONData" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ø•¬
+lpython:S1542ß	"NRename function "Parse" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(© Äõøÿÿÿÿ

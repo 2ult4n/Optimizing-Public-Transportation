@@ -1,0 +1,4 @@
+
+vpython:S100"ZRename method "test_VonMises_range" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Õœ°ùÿÿÿÿ
+^python:S101†"FRename class "N" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(¼¼íÅ
+cpython:S101"FRename class "M" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(„ØÃøÿÿÿÿ

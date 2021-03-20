@@ -1,0 +1,28 @@
+
+epython:S1192î"LDefine a constant instead of duplicating this literal 'US/Eastern' 11 times.(íñ‹¶
+hpython:S1192ş"JDefine a constant instead of duplicating this literal 'Period[D]' 3 times.(Åµ×ùÿÿÿÿ
+mpython:S1192¿"ODefine a constant instead of duplicating this literal 'datetime64[ns]' 7 times.(ğí‚¢ÿÿÿÿÿ
+ypython:S1192ß"[Define a constant instead of duplicating this literal '2013-08-05 15:30:00.000001' 4 times.(’÷ŞÀüÿÿÿÿ
+apython:S1192·"HDefine a constant instead of duplicating this literal 'M8[ns]' 17 times.(Â™îË
+epython:S1192¨"GDefine a constant instead of duplicating this literal 'm8[ns]' 4 times.(‰…Äªúÿÿÿÿ
+ypython:S1192Š"[Define a constant instead of duplicating this literal 'datetime64[ns, US/Eastern]' 7 times.(Š‚Â‡ûÿÿÿÿ
+opython:S1192"QDefine a constant instead of duplicating this literal 'timedelta64[ns]' 14 times.(Ü¾û–ıÿÿÿÿ
+_python:S1192Ú"FDefine a constant instead of duplicating this literal '1 Day' 4 times.(±À
+ipython:S1192º"KDefine a constant instead of duplicating this literal 'US/Pacific' 4 times.(ÜŠ¸İüÿÿÿÿ
+@python:S2201–"'The return value of "str" must be used.(Ğ«¥
+Epython:S2201—"'The return value of "str" must be used.(ôæœ—øÿÿÿÿ
+@python:S2201 "'The return value of "str" must be used.(×ç‡¹
+@python:S2201¡"'The return value of "str" must be used.(Ïì…Í
+@python:S2201§"'The return value of "str" must be used.(×ç‡¹
+@python:S2201¨"'The return value of "str" must be used.(Ïì…Í
+@python:S2201²"'The return value of "str" must be used.(×ç‡¹
+@python:S2201³"'The return value of "str" must be used.(Ïì…Í
+Fpython:S2201ã"(The return value of "repr" must be used.(íŸÏäşÿÿÿÿ
+Epython:S2201ä"'The return value of "str" must be used.(×Ú¬ûÿÿÿÿ
+wpython:S117È"_Rename this local variable "data_Timestamp" to match the regular expression ^[_a-z][a-z0-9_]*$.(À…ó·
+~python:S117Î"aRename this local variable "result_Timestamp" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ï°æàùÿÿÿÿ
+qpython:S100ğ"TRename method "test_fromDict" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‚×¦şÿÿÿÿ
+mpython:S100‚"URename method "test_fromValue" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ƒÜ“
+npython:S100ì"VRename method "test_NaT_scalar" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ôã­„
+lpython:S100õ"TRename method "test_NaT_cast" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¼œ¿Ğ
+7python:S125œ	"Remove this commented out code.(Ï“Æ´

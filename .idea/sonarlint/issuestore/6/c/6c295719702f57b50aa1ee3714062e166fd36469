@@ -1,0 +1,10 @@
+
+gpython:S1192é"IDefine a constant instead of duplicating this literal '%Y-%m-%d' 4 times.(ıô³ßşÿÿÿÿ
+ppython:S1192À"RDefine a constant instead of duplicating this literal '0,True,1.0,42.0,a' 4 times.(ıšÉ–ûÿÿÿÿ
+}python:S1192¿"_Define a constant instead of duplicating this literal ',c_bool,c_float,c_int,c_string' 3 times.(Ô¬¼æıÿÿÿÿ
+7python:S125ñ"Remove this commented out code.(˜¼Ü“
+7python:S125õ"Remove this commented out code.(Üêœ
+mpython:S3776€"TRefactor this function to reduce its Cognitive Complexity from 57 to the 15 allowed.(ÕÍ±
+5python:S2772í"Remove this unneeded "pass".(ã‘Û¾
+<python:S125Á"Remove this commented out code.(ÿÇüÒûÿÿÿÿ
+<python:S125¯"Remove this commented out code.(Ò§úĞıÿÿÿÿ

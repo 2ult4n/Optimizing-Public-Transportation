@@ -1,0 +1,8 @@
+
+cpython:S1192y"KDefine a constant instead of duplicating this literal 'US/Eastern' 3 times.(Çý›Ÿ
+vpython:S117ê"YRename this local variable "groupedT" to match the regular expression ^[_a-z][a-z0-9_]*$.(áí°­üÿÿÿÿ
+opython:S117½"XRename this local variable "count_B" to match the regular expression ^[_a-z][a-z0-9_]*$.(É¥Ê'
+hpython:S1542µ"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Þ·Îºøÿÿÿÿ
+hpython:S1542Ñ"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(óŽÞ©þÿÿÿÿ
+hpython:S1542Õ"JRename function "g" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ìÓ§­ÿÿÿÿÿ
+cpython:S1542Ø"JRename function "h" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ƒ’€•

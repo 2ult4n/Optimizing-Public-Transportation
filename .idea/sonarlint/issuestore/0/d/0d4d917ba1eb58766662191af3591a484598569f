@@ -1,0 +1,9 @@
+
+Mpython:S1066ó"/Merge this if statement with the enclosing one.(»ğÒ½şÿÿÿÿ
+.python:S1700e"Rename field "grouper"(Ù¿«ó
+`python:S100l"IRename method "ax" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¶è„
+mpython:S3776„"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(°¹î˜
+hpython:S107ê"KMethod "__init__" has 9 parameters, which is greater than the 7 authorized.(ú©èÍùÿÿÿÿ
+rpython:S3776ê"TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(ú©èÍùÿÿÿÿ
+npython:S107“"QFunction "_get_grouper" has 8 parameters, which is greater than the 7 authorized.(œŠµ¥øÿÿÿÿ
+rpython:S3776“"TRefactor this function to reduce its Cognitive Complexity from 83 to the 15 allowed.(œŠµ¥øÿÿÿÿ

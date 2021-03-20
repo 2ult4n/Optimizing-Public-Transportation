@@ -1,0 +1,5 @@
+
+apython:S1854Î"HRemove this assignment to local variable 'scl'; the value is never used.(¥Ã±ì
+mpython:S3776–"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÎÛû˝
+cpython:S1542ê"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Â∫ÿ¿
+dpython:S1542ì"KRename function "f2" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÔÍ«Õ

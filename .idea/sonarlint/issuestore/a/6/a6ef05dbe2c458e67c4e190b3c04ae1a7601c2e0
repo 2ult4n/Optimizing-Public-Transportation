@@ -1,0 +1,8 @@
+
+hpython:S11922"KDefine a constant instead of duplicating this literal 'US/Eastern' 8 times.(÷Ü¼Èıÿÿÿÿ
+mpython:S1192Ş"ODefine a constant instead of duplicating this literal 'datetime64[ns]' 3 times.(–…­åıÿÿÿÿ
+mpython:S1192‡"TDefine a constant instead of duplicating this literal 'um... weasel noise?' 6 times.(Ÿ‘¨à
+lpython:S1192Î"NDefine a constant instead of duplicating this literal 'Europe/Madrid' 3 times.(îËÿşÿÿÿÿ
+dpython:S1854"KRemove this assignment to local variable 'result'; the value is never used.(·ÛÆÉ
+7python:S125€"Remove this commented out code.(š›¡Ş
+ipython:S1854È"KRemove this assignment to local variable 'result'; the value is never used.(è¡•ñùÿÿÿÿ

@@ -1,0 +1,20 @@
+
+ipython:S101b"RRename class "format_parser" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(İ£Ôø
+qpython:S100¢"TRename method "_parseFormats" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(±Šß°øÿÿÿÿ
+Apython:S108½")Either remove or fill this block of code.(ã‘Û¾
+hpython:S101é"KRename class "record" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(Öåşÿúÿÿÿÿ
+epython:S101¾"MRename class "recarray" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(¸ô„
+hpython:S107¬"KMethod "__new__" has 12 parameters, which is greater than the 7 authorized.(ÕĞ›ìùÿÿÿÿ
+rpython:S2710¬"TRename "subtype" to a valid class parameter name or add the missing class parameter.(ÕĞ›ìùÿÿÿÿ
+Hpython:S1656Á"/Remove or correct this useless self-assignment.(€¸‡Û
+rpython:S3776å"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(†²„®ıÿÿÿÿ
+python:S1542Ê"cRename function "_deprecate_shape_0_as_None" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÍĞùøÿÿÿÿ
+rpython:S117Ö"URename this parameter "arrayList" to match the regular expression ^[_a-z][a-z0-9_]*$.(Û™âÒùÿÿÿÿ
+lpython:S107Ö"OFunction "fromarrays" has 8 parameters, which is greater than the 7 authorized.(Û™âÒùÿÿÿÿ
+ppython:S117³"SRename this parameter "recList" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÚÈİÅüÿÿÿÿ
+mpython:S107³"PFunction "fromrecords" has 8 parameters, which is greater than the 7 authorized.(ÚÈİÅüÿÿÿÿ
+rpython:S3776³"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÚÈİÅüÿÿÿÿ
+gpython:S107‡"OFunction "fromstring" has 9 parameters, which is greater than the 7 authorized.(ää¹¬
+jpython:S107Ù"MFunction "fromfile" has 9 parameters, which is greater than the 7 authorized.(²¹±ñùÿÿÿÿ
+cpython:S107¼"KFunction "array" has 11 parameters, which is greater than the 7 authorized.(ñ²ÏÙ
+mpython:S3776¼"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(ñ²ÏÙ

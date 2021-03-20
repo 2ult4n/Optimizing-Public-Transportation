@@ -1,0 +1,4 @@
+
+[python:S54452"C'tempfile.mktemp' is insecure. Use 'tempfile.TemporaryFile' instead(è´úˆ
+[python:S5445G"C'tempfile.mktemp' is insecure. Use 'tempfile.TemporaryFile' instead(è´úˆ
+[python:S5445S"C'tempfile.mktemp' is insecure. Use 'tempfile.TemporaryFile' instead(è´úˆ

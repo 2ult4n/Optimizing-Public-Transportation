@@ -1,0 +1,6 @@
+
+=python:S1481"%Remove the unused local variable "i".(úÌÞÛ
+bpython:S15420"JRename function "p" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ú„Óª
+ipython:S1764O"LCorrect one of the identical sub-expressions on both sides of operator "==".(˜åž°ûÿÿÿÿ
+ipython:S1542Œ"KRename function "dp" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‰Ñ²¯øÿÿÿÿ
+cpython:S101í"FRename class "C" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(˜„é×ùÿÿÿÿ

@@ -1,0 +1,5 @@
+
+wpython:S1192E"ZDefine a constant instead of duplicating this literal 'slice step cannot be zero' 3 times.(óÈ‚ùıÿÿÿÿ
+rpython:S1192µ"TDefine a constant instead of duplicating this literal '2013-06-19 09:30:00' 3 times.(Ìñö½ùÿÿÿÿ
+python:S100_"eRename method "test_monotone_DTI_indexing_bug" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¯×ÿ¨úÿÿÿÿ
+hpython:S1542¿"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ

@@ -1,0 +1,7 @@
+
+Lpython:S1656z"/Remove or correct this useless self-assignment.(Ï“Êõıÿÿÿÿ
+Gpython:S1656¹"/Remove or correct this useless self-assignment.(õì“z
+hpython:S1542“"JRename function "u" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÚÏıøÿÿÿÿ
+Hpython:S1656¾"/Remove or correct this useless self-assignment.(í¢Ù
+hpython:S1542Ç"JRename function "u" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÚÏıøÿÿÿÿ
+Upython:S5754Í"<Specify an exception class to catch or reraise the exception(ˆÊÉ·

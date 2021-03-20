@@ -1,0 +1,18 @@
+
+ipython:S1764¾"KCorrect one of the identical sub-expressions on both sides of operator "-".(•íÀ€ùÿÿÿÿ
+cpython:S1542–"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åºØÀ
+Dpython:S1481ø"+Remove the unused local variable "indexer".(Ø‘†ñ
+Epython:S2201´"'The return value of "str" must be used.(¢½ì°ûÿÿÿÿ
+Epython:S2201¹"'The return value of "str" must be used.(¢½ì°ûÿÿÿÿ
+Epython:S2201Á"'The return value of "str" must be used.(¢½ì°ûÿÿÿÿ
+jpython:S1764ı"LCorrect one of the identical sub-expressions on both sides of operator "==".(ìˆ·‰øÿÿÿÿ
+jpython:S1764ş"LCorrect one of the identical sub-expressions on both sides of operator "!=".(áÅ˜òüÿÿÿÿ
+dpython:S1764ÿ"KCorrect one of the identical sub-expressions on both sides of operator ">".(ß»®¦
+dpython:S1764€"KCorrect one of the identical sub-expressions on both sides of operator "<".(¼çãº
+jpython:S1764"LCorrect one of the identical sub-expressions on both sides of operator "<=".(”ñÛÄûÿÿÿÿ
+jpython:S1764‚"LCorrect one of the identical sub-expressions on both sides of operator ">=".(¨èêøÿÿÿÿ
+Rpython:S905Š":Remove or refactor this statement; it has no side effects.(ıë˜ß
+lpython:S3776»"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ú´"
+7python:S125—"Remove this commented out code.(İ†ŠÔ
+7python:S125¯"Remove this commented out code.(İ†ŠÔ
+7python:S125Õ"Remove this commented out code.(İ†ŠÔ

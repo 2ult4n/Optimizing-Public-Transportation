@@ -1,0 +1,6 @@
+
+}python:S1871 "dEither merge this branch with the identical one on line "1694" or change one of the implementations.(³î
+}python:S1871¢"dEither merge this branch with the identical one on line "1694" or change one of the implementations.(³î
+upython:S5713Œ"WRemove this redundant Exception class; it derives from another which is already caught.(—Ëç’øÿÿÿÿ
+upython:S5713Û"WRemove this redundant Exception class; it derives from another which is already caught.(—Ëç’øÿÿÿÿ
+mpython:S3776ä"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(†Ëµï

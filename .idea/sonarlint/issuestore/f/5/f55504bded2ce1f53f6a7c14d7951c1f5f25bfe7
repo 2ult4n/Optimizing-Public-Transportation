@@ -1,0 +1,5 @@
+
+fpython:S1192þ"HDefine a constant instead of duplicating this literal '"{iso}"' 3 times.(³É½Èúÿÿÿÿ
+5python:S2772Ã"Remove this unneeded "pass".(ã‘Û¾
+5python:S2772Ç"Remove this unneeded "pass".(ã‘Û¾
+dpython:S100¥"MRename method "toDict" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(€üÍ@

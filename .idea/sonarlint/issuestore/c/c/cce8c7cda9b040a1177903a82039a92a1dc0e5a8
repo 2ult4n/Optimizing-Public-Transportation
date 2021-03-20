@@ -1,0 +1,21 @@
+
+spython:S1192²"UDefine a constant instead of duplicating this literal "display.float_format" 4 times.(Šâ–Äıÿÿÿÿ
+Mpython:S1066û
+"/Merge this if statement with the enclosing one.(¶Š·Şÿÿÿÿÿ
+ipython:S107¥"LMethod "__init__" has 11 parameters, which is greater than the 7 authorized.(¿¡ÿ¹ıÿÿÿÿ
+mpython:S3776Ê"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(³¯¯Ö
+dpython:S107ı"LMethod "__init__" has 21 parameters, which is greater than the 7 authorized.(ÌŸÍˆ
+rpython:S3776¯"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(èá”¬ùÿÿÿÿ
+mpython:S3776÷"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(ˆó¦Í
+Ipython:S1481ç"+Remove the unused local variable "counter".(¹…ÛÄşÿÿÿÿ
+Ipython:S1481é"+Remove the unused local variable "counter".(±Îšİüÿÿÿÿ
+npython:S117Ø"VRename this local variable "Klass" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿’„è
+7python:S125Š"Remove this commented out code.(ø´¯
+npython:S107Ğ"QFunction "format_array" has 9 parameters, which is greater than the 7 authorized.(çÿ”»øÿÿÿÿ
+ipython:S107"LMethod "__init__" has 12 parameters, which is greater than the 7 authorized.(Ë¢ßŒşÿÿÿÿ
+mpython:S3776£"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(ºóµº
+mpython:S3776ì"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(€“ĞÔ
+mpython:S3776•"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(§ÿ÷™
+Ipython:S5806Ô
+"+Rename this variable; it shadows a builtin.(¾î®øÿÿÿÿ
+Apython:S108À")Either remove or fill this block of code.(ã‘Û¾

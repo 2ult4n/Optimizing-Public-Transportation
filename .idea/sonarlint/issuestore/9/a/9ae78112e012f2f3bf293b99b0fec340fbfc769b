@@ -1,0 +1,10 @@
+
+hpython:S1192<"KDefine a constant instead of duplicating this literal 'US/Eastern' 4 times.(½Ôï®øÿÿÿÿ
+gpython:S1192º"NDefine a constant instead of duplicating this literal 'Europe/Paris' 12 times.(¦©¬
+lpython:S1192ß"TDefine a constant instead of duplicating this literal '2015-03-29 02:20:00' 3 times.(¯ªø
+cpython:S1192"KDefine a constant instead of duplicating this literal 'Asia/Tokyo' 5 times.(‘»—˜
+hpython:S1192."KDefine a constant instead of duplicating this literal 'US/Central' 5 times.(Ôµ»ùÿÿÿÿ
+cpython:S1192"KDefine a constant instead of duplicating this literal 'US/Pacific' 4 times.(ÌŠÞ©
+jpython:S1192º"QDefine a constant instead of duplicating this literal '2017-03-26 01:00' 3 times.(¦©¬
+fpython:S1192j"NDefine a constant instead of duplicating this literal 'Europe/Warsaw' 3 times.(ÄÑû¾
+‰python:S100å"qRename method "test_timestamp_tz_localize_nonexistent_NaT" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ó¨›

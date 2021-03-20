@@ -1,0 +1,4 @@
+
+bpython:S1192"JDefine a constant instead of duplicating this literal 'Period[D]' 4 times.(ÁÑ’Ó
+mpython:S100D"VRename method "test_NaT_scalar" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ôã­„
+kpython:S100N"TRename method "test_NaT_cast" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¼œ¿Ð

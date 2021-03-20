@@ -1,0 +1,34 @@
+
+ipython:S1192é"KDefine a constant instead of duplicating this literal 'US/Eastern' 3 times.(ÐÔ²Éþÿÿÿÿ
+_python:S1192ÿ"GDefine a constant instead of duplicating this literal '1 days' 5 times.(ˆ¼».
+ipython:S1192¾	"PDefine a constant instead of duplicating this literal 'timedelta64[ns]' 3 times.(ðëã×
+opython:S107"XFunction "assert_stat_op_calc" has 8 parameters, which is greater than the 7 authorized.(ÂÃˆÄ
+dpython:S1854â"KRemove this assignment to local variable 'result'; the value is never used.(é¸žò
+Bpython:S1481Ü"*Remove the unused local variable "result".(èí¥$
+<python:S125Ð"Remove this commented out code.(¡‰³ýÿÿÿÿ
+7python:S125Õ"Remove this commented out code.(Ö­Ýè
+Bpython:S1481ó"*Remove the unused local variable "result".(–¯ãQ
+<python:S125ç"Remove this commented out code.(¡‰³ýÿÿÿÿ
+7python:S125ì"Remove this commented out code.(Ö­Ýè
+Cpython:S1481Û"*Remove the unused local variable "result".(ŽÌÞ×
+<python:S125Ï"Remove this commented out code.(¡‰³ýÿÿÿÿ
+7python:S125Ô"Remove this commented out code.(Ö­Ýè
+<python:S125æ"Remove this commented out code.(¡‰³ýÿÿÿÿ
+7python:S125ë"Remove this commented out code.(Ö­Ýè
+kpython:S1854Ø	"MRemove this assignment to local variable 'expected'; the value is never used.(ÍÿµÙùÿÿÿÿ
+dpython:S1854×	"KRemove this assignment to local variable 'result'; the value is never used.(š•ƒ¡
+7python:S125Ú	"Remove this commented out code.(”˜’…
+<python:S125ß	"Remove this commented out code.(Õ‘º…ýÿÿÿÿ
+<python:S125€
+"Remove this commented out code.(Õ‘º…ýÿÿÿÿ
+7python:S125„
+"Remove this commented out code.(”˜’…
+Cpython:S1481Ç
+"*Remove the unused local variable "result".(Ñ¥ÚÀ
+xpython:S100ú"[Rename method "test_isin_multiIndex" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¡µ»¬úÿÿÿÿ
+~python:S117‚"aRename this local variable "nan_round_Series" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢ÄÀ«ùÿÿÿÿ
+‚python:S117ã"eRename this local variable "non_int_round_Series" to match the regular expression ^[_a-z][a-z0-9_]*$.(óó¸Ôÿÿÿÿÿ
+Npython:S1481…"6Remove the unused local variable "expected_nan_round".(²ŽÑ
+ipython:S1854Ê"KRemove this assignment to local variable 'result'; the value is never used.(Ý¯Û°ýÿÿÿÿ
+ipython:S1854¦"KRemove this assignment to local variable 'result'; the value is never used.(ú¾µ¯ùÿÿÿÿ
+=python:S1481Ç"%Remove the unused local variable "B".(ÈÆ

@@ -1,0 +1,14 @@
+
+opython:S1542Z"RRename function "test_Hour" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(«åŸıÿÿÿÿ
+qpython:S1542j"TRename function "test_Minute" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ßï¢şÿÿÿÿ
+lpython:S1542y"TRename function "test_Second" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÄşŒ
+rpython:S1542‹"YRename function "test_Millisecond" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ãİ¬†
+…python:S1542 "lRename function "test_MillisecondTimestampArithmetic" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ò‡õ»
+rpython:S1542©"YRename function "test_Microsecond" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(£Æêë
+xpython:S1542¼"_Rename function "test_NanosecondGeneric" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(£‘å»
+qpython:S1542Ç"XRename function "test_Nanosecond" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Œ¤¡æ
+epython:S1764©"LCorrect one of the identical sub-expressions on both sides of operator "==".(Ğ›ÁÙ
+Wpython:S905º":Remove or refactor this statement; it has no side effects.(–Ñ•‹şÿÿÿÿ
+Rpython:S905¼":Remove or refactor this statement; it has no side effects.(Øüÿ×
+Wpython:S905¾":Remove or refactor this statement; it has no side effects.( Ì÷“ıÿÿÿÿ
+Wpython:S905À":Remove or refactor this statement; it has no side effects.(ø‹õûûÿÿÿÿ

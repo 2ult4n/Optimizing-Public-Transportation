@@ -1,0 +1,16 @@
+
+vpython:S1192’	"]Define a constant instead of duplicating this literal "bias and ddof have no effect" 7 times.(ºçÔ¼
+ipython:S1192ö"PDefine a constant instead of duplicating this literal "shape mismatch" 11 times.(©¦™Á
+upython:S100§"XRename method "test_testAverage1" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(õ‰ÕÂıÿÿÿÿ
+ppython:S100º"XRename method "test_testAverage2" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÓœÃ˜
+ppython:S100Ü"XRename method "test_testAverage3" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‹Ğ£
+7python:S125£"Remove this commented out code.(ˆ³ŞÊ
+<python:S125¬"Remove this commented out code.(¡‰³ıÿÿÿÿ
+7python:S125·"Remove this commented out code.(Ö­İè
+<python:S125Ê"Remove this commented out code.(ˆ‘»Íüÿÿÿÿ
+7python:S125à"Remove this commented out code.(›Òß
+6python:S125ë"Remove this commented out code.(£…
+<python:S125ş"Remove this commented out code.(„ß‰îüÿÿÿÿ
+rpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Îç¢µøÿÿÿÿ
+|python:S100˜
+"dRename method "test_polyfit_with_masked_NaNs" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(´ÊÓ¦

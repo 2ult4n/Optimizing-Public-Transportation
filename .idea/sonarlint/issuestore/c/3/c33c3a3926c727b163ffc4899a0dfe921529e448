@@ -1,0 +1,17 @@
+
+Hpython:S1066Ì"/Merge this if statement with the enclosing one.(•™åÕ
+dpython:S107!"MFunction "to_json" has 11 parameters, which is greater than the 7 authorized.(”°œ
+lpython:S3776!"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(”°œ
+gpython:S107P"KMethod "__init__" has 9 parameters, which is greater than the 7 authorized.(’›ã—ıÿÿÿÿ
+epython:S107j"IMethod "_write" has 8 parameters, which is greater than the 7 authorized.(¬éŸêÿÿÿÿÿ
+epython:S107"IMethod "_write" has 8 parameters, which is greater than the 7 authorized.(¬éŸêÿÿÿÿÿ
+fpython:S107™"IMethod "_write" has 8 parameters, which is greater than the 7 authorized.(¬éŸêÿÿÿÿÿ
+hpython:S107§"KMethod "__init__" has 9 parameters, which is greater than the 7 authorized.(’›ã—ıÿÿÿÿ
+fpython:S107Ù"IMethod "_write" has 8 parameters, which is greater than the 7 authorized.(¬éŸêÿÿÿÿÿ
+gpython:S107å"OFunction "read_json" has 14 parameters, which is greater than the 7 authorized.(„éÙæ
+Upython:S5754¯"<Specify an exception class to catch or reraise the exception(ŸØÁ
+ipython:S107¼"LMethod "__init__" has 15 parameters, which is greater than the 7 authorized.(©ş”‚úÿÿÿÿ
+ipython:S107Û"LMethod "__init__" has 10 parameters, which is greater than the 7 authorized.(Ï†å÷ıÿÿÿÿ
+rpython:S3776£"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(À»Ù¥şÿÿÿÿ
+Apython:S108®")Either remove or fill this block of code.(ã‘Û¾
+{python:S1871ô"cEither merge this branch with the identical one on line "870" or change one of the implementations.(¨À

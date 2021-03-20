@@ -1,0 +1,6 @@
+
+ipython:S107‚"LMethod "__init__" has 10 parameters, which is greater than the 7 authorized.(ûŠŞÿøÿÿÿÿ
+Ipython:S5806½"+Rename this variable; it shadows a builtin.(Õ²¼éÿÿÿÿÿ
+Vpython:S112ı">Replace this generic exception class with a more specific one.(ÃµùÛ
+`python:S5799á"GMerge these implicitly concatenated strings; or did you forget a comma?(‚±³ö
+}python:S1542ı"_Rename function "HolidayCalendarFactory" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ãúÿÿÿÿ

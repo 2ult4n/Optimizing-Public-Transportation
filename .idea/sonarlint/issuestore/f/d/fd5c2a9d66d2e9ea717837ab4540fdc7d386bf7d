@@ -1,0 +1,6 @@
+
+jpython:S1192"LDefine a constant instead of duplicating this literal 'echo "$BBB"' 4 times.(νυ‚ωÿÿÿÿ
+dpython:S1192F"GDefine a constant instead of duplicating this literal "cd '.'" 4 times.(Γδόÿÿÿÿ
+kpython:S101"TRename class "redirect_stdout" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(Χ„Γ­
+kpython:S101"TRename class "redirect_stderr" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ίσνχ
+qpython:S101+"URename class "emulate_nonposix" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(—»™ϊωÿÿÿÿ

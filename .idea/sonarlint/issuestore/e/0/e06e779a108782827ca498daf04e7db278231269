@@ -1,0 +1,10 @@
+
+dpython:S1192¼"KDefine a constant instead of duplicating this literal 'US/Eastern' 3 times.(”í“
+ƒpython:S1192¾"eDefine a constant instead of duplicating this literal "codes need to be array-like integers" 5 times.(‰µÒ‚ÿÿÿÿÿ
+~python:S1192h"fDefine a constant instead of duplicating this literal "Categorical categories must be unique" 3 times.(Ğ‚å
+apython:S1854Ğ"HRemove this assignment to local variable 'cat'; the value is never used.(ôÍë†
+Bpython:S1481Æ")Remove the unused local variable "c_old".(ƒÕÁ
+Bpython:S1481Ê")Remove the unused local variable "c_old".(ô£‘
+Hpython:S1481Ï"*Remove the unused local variable "c_old2".(ş¡”Óùÿÿÿÿ
+>python:S1481Ô"%Remove the unused local variable "c".(ŸÒ—
+7python:S125«"Remove this commented out code.(ğ£ˆª

@@ -1,0 +1,9 @@
+
+epython:S1192ø"GDefine a constant instead of duplicating this literal '1 days' 3 times.(ÍÊÍŸþÿÿÿÿ
+rpython:S1192¶"TDefine a constant instead of duplicating this literal 'datetime64[ns, {0}]' 4 times.(åß¼õþÿÿÿÿ
+jpython:S1192¼"QDefine a constant instead of duplicating this literal '2011-01-01 00:00' 3 times.(ò‚Øô
+vpython:S117¬"YRename this local variable "numSlice" to match the regular expression ^[_a-z][a-z0-9_]*$.(ï˜Ù¾ýÿÿÿÿ
+spython:S117­"\Rename this local variable "numSliceEnd" to match the regular expression ^[_a-z][a-z0-9_]*$.(„ª‘x
+ppython:S117®"YRename this local variable "objSlice" to match the regular expression ^[_a-z][a-z0-9_]*$.(±¶µJ
+Hpython:S1481¦"*Remove the unused local variable "df_tmp".(¾ƒ”ßÿÿÿÿÿ
+Rpython:S905“":Remove or refactor this statement; it has no side effects.(žÒÙØ

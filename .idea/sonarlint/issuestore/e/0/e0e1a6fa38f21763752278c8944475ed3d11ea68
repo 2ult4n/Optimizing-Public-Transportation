@@ -1,0 +1,6 @@
+
+jpython:S1192ˆ"QDefine a constant instead of duplicating this literal '2013-01-01 08:00' 4 times.(§¦ìŒ
+opython:S1192‡"QDefine a constant instead of duplicating this literal '2013-01-01 09:00' 5 times.(îàäøÿÿÿÿ
+­python:S1515)"”Add a parameter to the parent lambda function and use variable "op" as its default value; The value of "op" might change at the next loop iteration.(º„’ˆ
+Fpython:S2201—"(The return value of "repr" must be used.(Ã¤ê§şÿÿÿÿ
+Fpython:S2201Í"(The return value of "repr" must be used.(Ã¤ê§şÿÿÿÿ

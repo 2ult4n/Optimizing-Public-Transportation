@@ -1,0 +1,10 @@
+
+`python:S5799‚"GMerge these implicitly concatenated strings; or did you forget a comma?(«ÔÒ 
+opython:S1542‰"VRename function "test_ms_vs_MS" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ñÂĞ®
+mpython:S117Ø"URename this local variable "Reso" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹Œõ
+mpython:S117ğ"URename this local variable "Reso" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹Œõ
+7python:S125«"Remove this commented out code.(á¢Ãó
+±python:S1515Ú"’Add a parameter to the parent lambda function and use variable "i" as its default value; The value of "i" might change at the next loop iteration.(ˆÁ¸ëıÿÿÿÿ
+±python:S1515à"’Add a parameter to the parent lambda function and use variable "i" as its default value; The value of "i" might change at the next loop iteration.(º›Ñùÿÿÿÿ
+±python:S1515ò"’Add a parameter to the parent lambda function and use variable "s" as its default value; The value of "s" might change at the next loop iteration.(¿Éñıÿÿÿÿ
+±python:S1515û"’Add a parameter to the parent lambda function and use variable "s" as its default value; The value of "s" might change at the next loop iteration.(¿Éñıÿÿÿÿ

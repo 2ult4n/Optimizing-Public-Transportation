@@ -1,0 +1,29 @@
+
+tpython:S1192‘"[Define a constant instead of duplicating this literal "tolerance must be positive" 3 times.(„òˆš
+gpython:S107'"KFunction "merge" has 13 parameters, which is greater than the 7 authorized.(ş¦í©ıÿÿÿÿ
+qpython:S37767"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(Ë†ä±úÿÿÿÿ
+kpython:S107„"SFunction "merge_ordered" has 10 parameters, which is greater than the 7 authorized.(šëèĞ
+hpython:S107æ"PFunction "merge_asof" has 14 parameters, which is greater than the 7 authorized.(¶Çºî
+ipython:S107Ú"LMethod "__init__" has 15 parameters, which is greater than the 7 authorized.(ÚÀ¸æÿÿÿÿÿ
+mpython:S3776‡"TRefactor this function to reduce its Cognitive Complexity from 79 to the 15 allowed.(¡öÙñ
+rpython:S3776á"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(š·òüÿÿÿÿ
+lpython:S3776‰"TRefactor this function to reduce its Cognitive Complexity from 72 to the 15 allowed.(ŒÃÉ-
+lpython:S3776ù"TRefactor this function to reduce its Cognitive Complexity from 70 to the 15 allowed.(¹Ğ}
+Apython:S108’")Either remove or fill this block of code.(ã‘Û¾
+Apython:S108À")Either remove or fill this block of code.(ã‘Û¾
+Apython:S108Í")Either remove or fill this block of code.(ã‘Û¾
+rpython:S3776ó"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.( òØàÿÿÿÿÿ
+mpython:S3776¤"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Á¯ ó
+Apython:S108Ê")Either remove or fill this block of code.(ã‘Û¾
+dpython:S107Ù	"LMethod "__init__" has 13 parameters, which is greater than the 7 authorized.(œñÀó
+dpython:S107¨
+"LMethod "__init__" has 19 parameters, which is greater than the 7 authorized.(œñÀó
+rpython:S3776¾
+"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.( òØàÿÿÿÿÿ
+lpython:S3776ñ
+"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(ŒÃÉ-
+rpython:S3776©"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(Û½¥«şÿÿÿÿ
+epython:S1764‘"LCorrect one of the identical sub-expressions on both sides of operator "!=".(®àî
+:python:S1110¬"!Remove those useless parentheses.(º¤Üã
+mpython:S3776Ñ"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(õ™Õ›
+}python:S1871ó"dEither merge this branch with the identical one on line "1645" or change one of the implementations.(®®Ó 

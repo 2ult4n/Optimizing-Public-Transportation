@@ -1,0 +1,25 @@
+
+gpython:S1192Ÿ"NDefine a constant instead of duplicating this literal '%s returns %d' 4 times.(ğœÄ¸
+mpython:S1542p"VRename function "isComplexType" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ô‰şZ
+jpython:S1542}"RRename function "_realType" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÉÊºê
+spython:S1542€"URename function "_complexType" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ºï¿úÿÿÿÿ
+qpython:S1542ƒ"XRename function "_linalgRealType" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ö‚ôƒ
+rpython:S1542‡"TRename function "_commonType" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ø„˜‹úÿÿÿÿ
+|python:S1542°"^Rename function "_fastCopyAndTranspose" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(›Ï€Şşÿÿÿÿ
+rpython:S3776ª"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÈıØ‡ùÿÿÿÿ
+cpython:S1542†"KRename function "qr" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¥Ü‡U
+lpython:S3776†"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(¥Ü‡U
+mpython:S117¸"PRename this parameter "UPLO" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ö­øøÿÿÿÿ
+gpython:S117½"PRename this parameter "UPLO" to match the regular expression ^[_a-z][a-z0-9_]*$.(…‘©
+mpython:S117¹
+"PRename this parameter "UPLO" to match the regular expression ^[_a-z][a-z0-9_]*$.(ü˜ƒèúÿÿÿÿ
+mpython:S3776Ë"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(ö’óŸ
+epython:S117ˆ"MRename this parameter "M" to match the regular expression ^[_a-z][a-z0-9_]*$.(âŒ£š
+epython:S117"MRename this parameter "M" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸‰êí
+Hpython:S1481æ"*Remove the unused local variable "real_t".(è‚é…úÿÿÿÿ
+jpython:S1134å"LTake the required action to fix the issue indicated by this "FIXME" comment.(Ôíâüÿÿÿÿ
+rpython:S3776»"TRefactor this function to reduce its Cognitive Complexity from 56 to the 15 allowed.(šŠûşÿÿÿÿ
+epython:S117µ"MRename this parameter "A" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿«Ğ•
+epython:S117µ"MRename this parameter "B" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿«Ğ•
+epython:S117µ"MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿«Ğ•
+7python:S125Á"Remove this commented out code.(¥Óÿü

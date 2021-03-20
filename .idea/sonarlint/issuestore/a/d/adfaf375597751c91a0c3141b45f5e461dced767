@@ -1,0 +1,36 @@
+
+spython:S1192"UDefine a constant instead of duplicating this literal 'class="foo" data-bar' 3 times.(«±äÙûÿÿÿÿ
+gpython:S1192ù"NDefine a constant instead of duplicating this literal ' height: 80%' 74 times.(Å×Ò
+|python:S1192¨"cDefine a constant instead of duplicating this literal 'background: linear-gradient(90deg,' 3 times.(™êÓš
+`python:S1192é"GDefine a constant instead of duplicating this literal 'val: 1' 6 times.(­Ü©£
+fpython:S1192Ÿ"MDefine a constant instead of duplicating this literal 'blank level0' 4 times.(‚ç«Ê
+rpython:S1192¹"YDefine a constant instead of duplicating this literal 'background-color: yellow' 8 times.(•†ˆú
+ipython:S1192!"LDefine a constant instead of duplicating this literal 'color: blue' 5 times.(ßàÖ¼ıÿÿÿÿ
+vpython:S1192¡"XDefine a constant instead of duplicating this literal 'col_heading level0 col0' 4 times.(ËáÊ­üÿÿÿÿ
+hpython:S1192Õ	"ODefine a constant instead of duplicating this literal 'color: #000000' 3 times.(Ò˜¥é
+}python:S1192½"dDefine a constant instead of duplicating this literal 'background: linear-gradient(90deg, ' 4 times.(™êÓš
+ppython:S1192Ö"RDefine a constant instead of duplicating this literal 'index_name level1' 3 times.(¾ñùçúÿÿÿÿ
+ppython:S1192Á"RDefine a constant instead of duplicating this literal 'index_name level0' 3 times.(·Ôşÿÿÿÿ
+python:S1192"qDefine a constant instead of duplicating this literal 'background: linear-gradient(90deg,#d65f5f 50.0%,' 4 times.(Ùª¯õşÿÿÿÿ
+hpython:S1192!"KDefine a constant instead of duplicating this literal 'color: red' 8 times.(ßàÖ¼ıÿÿÿÿ
+Špython:S1192¦"qDefine a constant instead of duplicating this literal 'background: linear-gradient(90deg,#d65f5f 100.0%' 6 times.(²ÅÊš
+bpython:S1192ˆ"IDefine a constant instead of duplicating this literal 'foo: bar' 5 times.(ŠÜÄ
+fpython:S1192ù"MDefine a constant instead of duplicating this literal 'width: 10em' 74 times.(Å×Ò
+apython:S1542"JRename function "h" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Õ…o
+Cpython:S1481ä"%Remove the unused local variable "v".(ÛÙ½Ùûÿÿÿÿ
+cpython:S1542‡"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åºØÀ
+cpython:S1542³"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åºØÀ
+cpython:S1542À"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åºØÀ
+cpython:S1542×"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åºØÀ
+hpython:S1542İ"JRename function "g" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ãÅåêüÿÿÿÿ
+cpython:S1542¡"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åºØÀ
+<python:S125©"Remove this commented out code.(ÅƒÍüıÿÿÿÿ
+fpython:S1854Ó"MRemove this assignment to local variable 'expected'; the value is never used.(©‹”
+ipython:S1854Ò"KRemove this assignment to local variable 'result'; the value is never used.(ÉıÎ¦ÿÿÿÿÿ
+fpython:S1854Ğ"MRemove this assignment to local variable 'expected'; the value is never used.(¥…Üâ
+cpython:S1854Ï"KRemove this assignment to local variable 'result'; the value is never used.(¸šæT
+<python:S125±"Remove this commented out code.(Ô•­ôşÿÿÿÿ
+|python:S3923Ø"^This conditional expression returns the same value whether the condition is "true" or "false".(¥¥¦”üÿÿÿÿ
+cpython:S1542·"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åºØÀ
+cpython:S1542¾"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åºØÀ
+hpython:S1542½	"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(”÷ÆÑÿÿÿÿÿ

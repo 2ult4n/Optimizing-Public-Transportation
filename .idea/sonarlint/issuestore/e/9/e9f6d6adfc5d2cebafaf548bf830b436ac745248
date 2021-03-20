@@ -1,0 +1,8 @@
+
+rpython:S1192‹"TDefine a constant instead of duplicating this literal '1970-01-01 00:00:02' 3 times.(ð®™Ñøÿÿÿÿ
+mpython:S1192ˆ"TDefine a constant instead of duplicating this literal '1970-01-01 00:00:00' 4 times.(Öö¸Ì
+kpython:S1192«
+"MDefine a constant instead of duplicating this literal 'Europe/Paris' 6 times.(†±àÝùÿÿÿÿ
+ipython:S1542Ñ"KRename function "fn" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(èýÄ–üÿÿÿÿ
+Cpython:S1481¤	"%Remove the unused local variable "t".(Ž…á‰úÿÿÿÿ
+hpython:S1542´"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(“–¸Àúÿÿÿÿ

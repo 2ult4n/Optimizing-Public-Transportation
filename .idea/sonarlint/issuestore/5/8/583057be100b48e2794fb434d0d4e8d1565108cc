@@ -1,0 +1,32 @@
+
+jpython:S1192½"QDefine a constant instead of duplicating this literal 'invalid type: %s' 3 times.(…¾ŠÓ
+Fpython:S1066q"/Merge this if statement with the enclosing one.(œ°²}
+Hpython:S1066‹"/Merge this if statement with the enclosing one.(½˜¿
+Mpython:S1066ë"/Merge this if statement with the enclosing one.(¶°¤†øÿÿÿÿ
+hpython:S1072"LMethod "__init__" has 10 parameters, which is greater than the 7 authorized.(Œ—Ú´ùÿÿÿÿ
+Apython:S108Ó")Either remove or fill this block of code.(ã‘Û¾
+hpython:S1542ª"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(±‰¥óüÿÿÿÿ
+¹python:S1515­"ŸAdd a parameter to function "f" and use variable "additional_nans" as its default value;The value of "additional_nans" might change at the next loop iteration.(‡¸ƒÏ
+Cpython:S1481„"*Remove the unused local variable "parent".(â¶Å¨
+cpython:S1542˜"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÄÅú¶
+rpython:S3776©"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(îðú§ýÿÿÿÿ
+spython:S101ú"[Rename class "_Rolling_and_Expanding" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ï±
+Hpython:S1481Û"*Remove the unused local variable "_level".(Ö÷ŸÛÿÿÿÿÿ
+{python:S5717×"]Change this default value to "None" and initialize this parameter inside the function/method.(ÏÇÉ›üÿÿÿÿ
+cpython:S1542ë"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÈÐ¨á
+hpython:S1542—	"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(±‰¥óüÿÿÿÿ
+hpython:S1542È
+"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(±‰¥óüÿÿÿÿ
+epython:S117û
+"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚àï„
+epython:S117û
+"MRename this parameter "Y" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚àï„
+ipython:S107 "LMethod "__init__" has 10 parameters, which is greater than the 7 authorized.(”öê·úÿÿÿÿ
+¨python:S1515‚"ŽAdd a parameter to function "func" and use variable "cfunc" as its default value;The value of "cfunc" might change at the next loop iteration.(Â§ŽÒ
+hpython:S1542¬"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ØóÑÐûÿÿÿÿ
+epython:S117À"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚àï„
+epython:S117À"MRename this parameter "Y" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚àï„
+jpython:S117Ù"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(Í¾Òºþÿÿÿÿ
+jpython:S117Ù"MRename this parameter "Y" to match the regular expression ^[_a-z][a-z0-9_]*$.(Í¾Òºþÿÿÿÿ
+mpython:S3776ò"TRefactor this function to reduce its Cognitive Complexity from 77 to the 15 allowed.(‹õ«
+Vpython:S112¯">Replace this generic exception class with a more specific one.(ôªÌé

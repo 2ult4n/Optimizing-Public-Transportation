@@ -1,0 +1,20 @@
+
+Hpython:S1066‹
+"/Merge this if statement with the enclosing one.(ŸâÃÆ
+6python:S3626ƒ"Remove this redundant return.(ÙãŞŸ
+rpython:S1186…"YAdd a nested comment explaining why this method is empty, or complete the implementation.(Û´ı–
+spython:S101‰"[Rename class "_fromnxfunction_single" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(¬ó
+upython:S101›"XRename class "_fromnxfunction_seq" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ûËë´ùÿÿÿÿ
+qpython:S101¨"YRename class "_fromnxfunction_args" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(™éàŠ
+tpython:S101Á"\Rename class "_fromnxfunction_allargs" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(é£íú
+rpython:S117’"URename this local variable "Ntot" to match the regular expression ^[_a-z][a-z0-9_]*$.(²Ì¡©úÿÿÿÿ
+mpython:S3776ô"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(§Æğ
+rpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÂğÄøÿÿÿÿ
+ipython:S1854ë"KRemove this assignment to local variable 'counts'; the value is never used.(¦¶Ô¼şÿÿÿÿ
+rpython:S3776Ì"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(æ¸Ä¥şÿÿÿÿ
+7python:S125ö"Remove this commented out code.(ÑöÅ¤
+7python:S125ø"Remove this commented out code.(œ¬â©
+rpython:S3776í	"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(é¾·üÿÿÿÿ
+rpython:S3776á
+"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(¦¼“ˆÿÿÿÿÿ
+dpython:S101Ù"MRename class "mr_class" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(°©ÀK

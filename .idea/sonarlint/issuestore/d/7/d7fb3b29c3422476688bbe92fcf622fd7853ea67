@@ -1,0 +1,32 @@
+
+bpython:S1854C"JRemove this assignment to local variable 'agged'; the value is never used.(¸Ò­à
+gpython:S1854?"JRemove this assignment to local variable 'agged'; the value is never used.(¿Ïãíÿÿÿÿÿ
+cpython:S1542"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ù•‚ò
+cpython:S1542—"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ù•‚ò
+cpython:S1542¡"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ù•‚ò
+cpython:S1542¬"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ù•‚ò
+cpython:S1542·"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ù•‚ò
+hpython:S1542Å"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(õîûæúÿÿÿÿ
+cpython:S1542›"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åºØÀ
+<python:S125˜"Remove this commented out code.(ª‹à˜ùÿÿÿÿ
+dpython:S1542©"KRename function "f1" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(½Û‚Ò
+dpython:S1542´"KRename function "f2" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ïêÇÍ
+ipython:S1542¼"KRename function "f3" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(×Ñ´şÿÿÿÿ
+kpython:S1854ì"MRemove this assignment to local variable 'expected'; the value is never used.(˜®À¸üÿÿÿÿ
+dpython:S1854ë"KRemove this assignment to local variable 'result'; the value is never used.(âûŠ 
+qpython:S117¨"YRename this local variable "groupedT" to match the regular expression ^[_a-z][a-z0-9_]*$.(“·Ä
+hpython:S1226®"JIntroduce a new variable or use its initial value before reassigning 'df'.(ÉİÓ“ùÿÿÿÿ
+upython:S117ÿ"XRename this local variable "agged_A" to match the regular expression ^[_a-z][a-z0-9_]*$.(œ©°øÿÿÿÿ
+vpython:S117é"YRename this local variable "testFunc" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÂÌ·Äúÿÿÿÿ
+>python:S1481”"%Remove the unused local variable "x".(æö´
+fpython:S1854ô"MRemove this assignment to local variable 'expected'; the value is never used.(åìÄæ
+dpython:S1854ó"KRemove this assignment to local variable 'result'; the value is never used.(¡ÈÓ¦
+Fpython:S2201Ï	"(The return value of "dict" must be used.(ñëÁŞûÿÿÿÿ
+cpython:S1542å
+"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(£ä­’
+cpython:S1542è
+"JRename function "g" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(šÔ‹Ã
+cpython:S1542ô
+"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(£ä­’
+cpython:S1542“"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(£ä­’
+Apython:S5603Ğ"(Remove this unused function declaration.(„èã»

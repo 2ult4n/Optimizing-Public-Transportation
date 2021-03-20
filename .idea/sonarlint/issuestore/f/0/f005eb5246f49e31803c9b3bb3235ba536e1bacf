@@ -1,0 +1,11 @@
+
+Mpython:S1066Ù"/Merge this if statement with the enclosing one.(¯¶®ïúÿÿÿÿ
+Gpython:S1066¤"/Merge this if statement with the enclosing one.(¿„C
+mpython:S107"QFunction "frame_apply" has 10 parameters, which is greater than the 7 authorized.(µÏ¬©ıÿÿÿÿ
+cpython:S107$"LMethod "__init__" has 10 parameters, which is greater than the 7 authorized.(£ô«‰
+lpython:S3776$"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(£ô«‰
+bpython:S1542M"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åºØÀ
+gpython:S930"JAdd 1 missing arguments; 'apply_broadcast' expects 1 positional arguments.(·Ù¨øûÿÿÿÿ
+mpython:S3776†"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(¹©×
+<python:S2638À"Add missing parameters target.(¸²«üÿÿÿÿ
+<python:S2638ç"Add missing parameters target.(¸²«üÿÿÿÿ

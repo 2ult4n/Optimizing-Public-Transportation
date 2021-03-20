@@ -1,0 +1,30 @@
+
+cpython:S1192-"KDefine a constant instead of duplicating this literal "Name: test" 3 times.(ËˆÛƒ
+opython:S1192¹"QDefine a constant instead of duplicating this literal '2011-01-01 09:00' 6 times.(×·‰‰þÿÿÿÿ
+?python:S2201?"'The return value of "str" must be used.(ªÝÓ¤
+?python:S2201@"'The return value of "str" must be used.(ºÎËî
+?python:S2201A"'The return value of "str" must be used.(¶¬ùÿ
+Dpython:S2201B"'The return value of "str" must be used.(ÈýŸÄúÿÿÿÿ
+?python:S2201D"'The return value of "str" must be used.(×³†»
+Dpython:S2201E"'The return value of "str" must be used.(Ž¡’Üþÿÿÿÿ
+Dpython:S2201H"'The return value of "str" must be used.( êëþÿÿÿÿ
+?python:S2201L"'The return value of "str" must be used.(ºÎËî
+Epython:S2201Q"(The return value of "repr" must be used.(‹Òžêýÿÿÿÿ
+Epython:S2201Z"(The return value of "repr" must be used.(ÔÁ„¡ùÿÿÿÿ
+@python:S2201^"(The return value of "repr" must be used.(Àû¸Œ
+@python:S2201y"(The return value of "repr" must be used.(ßõ«Ò
+=python:S1481|"%Remove the unused local variable "i".(øñËÂ
+Epython:S2201"(The return value of "repr" must be used.(Š¦·¦üÿÿÿÿ
+Fpython:S2201ˆ"(The return value of "repr" must be used.(Š¦·¦üÿÿÿÿ
+Fpython:S2201‹"(The return value of "repr" must be used.(Š¦·¦üÿÿÿÿ
+Epython:S2201›"'The return value of "str" must be used.(µöÛ¿ýÿÿÿÿ
+@python:S2201 "'The return value of "str" must be used.(Ïì…Í
+Bpython:S2201§")The return value of "bytes" must be used.(ßìžø
+@python:S2201©"'The return value of "str" must be used.(Ïì…Í
+Apython:S2201¯"(The return value of "repr" must be used.(–³Á
+Hpython:S2201µ"/The return value of "__getitem__" must be used.(Ð¹Åƒ
+>python:S1481à"%Remove the unused local variable "n".(¡È¹Õ
+Fpython:S2201ç"(The return value of "repr" must be used.(ªë¯¯úÿÿÿÿ
+Epython:S2201è"'The return value of "str" must be used.(ñû€˜øÿÿÿÿ
+Fpython:S2201î"(The return value of "repr" must be used.(ªë¯¯úÿÿÿÿ
+Epython:S2201ï"'The return value of "str" must be used.(ñû€˜øÿÿÿÿ

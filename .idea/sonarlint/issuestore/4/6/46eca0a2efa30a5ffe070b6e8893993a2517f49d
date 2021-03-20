@@ -1,0 +1,8 @@
+
+dpython:S1192*"GDefine a constant instead of duplicating this literal 'm8[ns]' 3 times.(Ô‡ë¬úÿÿÿÿ
+qpython:S3776a"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(Ý´å÷ùÿÿÿÿ
+npython:S107œ"QMethod "check_fun_data" has 9 parameters, which is greater than the 7 authorized.(àÅ¸ëøÿÿÿÿ
+rpython:S3776œ"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(àÅ¸ëøÿÿÿÿ
+dpython:S107Ê"LMethod "check_fun" has 8 parameters, which is greater than the 7 authorized.(’ØÝÂ
+fpython:S107Ü"NMethod "check_funs" has 10 parameters, which is greater than the 7 authorized.(´‰†Ð
+mpython:S3776Ü"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(´‰†Ð

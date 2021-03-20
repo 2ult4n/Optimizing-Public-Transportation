@@ -1,0 +1,5 @@
+
+Lpython:S1066c"/Merge this if statement with the enclosing one.(ä®ú¯üÿÿÿÿ
+³python:S1515X"šAdd a parameter to the parent lambda function and use variable "arith" as its default value; The value of "arith" might change at the next loop iteration.(êÀ”ú
+³python:S1515~"šAdd a parameter to the parent lambda function and use variable "arith" as its default value; The value of "arith" might change at the next loop iteration.(êÀ”ú
+mpython:S3776Œ"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(”¾àÉ

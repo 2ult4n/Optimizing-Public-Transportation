@@ -1,0 +1,16 @@
+
+mpython:S1192³
+"ODefine a constant instead of duplicating this literal 'datetime64[ns]' 8 times.(²Ñüåùÿÿÿÿ
+Mpython:S1066ä"/Merge this if statement with the enclosing one.(ÎŒú ùÿÿÿÿ
+Hpython:S1066ò"/Merge this if statement with the enclosing one.(®ø¦À
+Gpython:S1066İ"/Merge this if statement with the enclosing one.(ŞÅù
+kpython:S3776&"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ííl
+rpython:S3776Ç"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.( Ê×€úÿÿÿÿ
+kpython:S1226Ç"MIntroduce a new variable or use its initial value before reassigning 'order'.( Ê×€úÿÿÿÿ
+rpython:S3776†"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¢¶üêøÿÿÿÿ
+rpython:S3776‰"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ü´ÿåıÿÿÿÿ
+mpython:S3776ˆ"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(×ôä¹
+‚python:S1871³"dEither merge this branch with the identical one on line "1585" or change one of the implementations.(Í‹Öıüÿÿÿÿ
+‚python:S1871µ"dEither merge this branch with the identical one on line "1585" or change one of the implementations.(Í‹Öıüÿÿÿÿ
+rpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 41 to the 15 allowed.(½‘ñ›ÿÿÿÿÿ
+rpython:S3776Ó"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(²Ö—ğşÿÿÿÿ

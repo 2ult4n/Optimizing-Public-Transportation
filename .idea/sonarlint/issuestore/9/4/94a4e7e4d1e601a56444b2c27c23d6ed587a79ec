@@ -1,0 +1,34 @@
+
+Mpython:S1066ø"/Merge this if statement with the enclosing one.(ı‹É¿øÿÿÿÿ
+Hpython:S1066°"/Merge this if statement with the enclosing one.(¸®ß§
+epython:S1134è"LTake the required action to fix the issue indicated by this "FIXME" comment.(úÆ­û
+hpython:S1542í
+"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(©Ò…ùÿÿÿÿ
+{python:S1542§"]Rename function "_align_method_SERIES" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‹Íï½ûÿÿÿÿ
+{python:S1542Ò"]Rename function "_arith_method_SERIES" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ë¸°³şÿÿÿÿ
+rpython:S3776Ò"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ë¸°³şÿÿÿÿ
+€python:S1542·"bRename function "_comp_method_OBJECT_ARRAY" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Æ«üÿÿÿÿ
+upython:S1542Ç"\Rename function "_comp_method_SERIES" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(•Â£½
+mpython:S3776Ç"TRefactor this function to reduce its Cognitive Complexity from 61 to the 15 allowed.(•Â£½
+upython:S1542ô"\Rename function "_bool_method_SERIES" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(—†Õ°
+mpython:S3776ô"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(—†Õ°
+upython:S1542Ä"\Rename function "_flex_method_SERIES" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(´ûÑÍ
+upython:S1542"\Rename function "_align_method_FRAME" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ï€–”
+mpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ï€–”
+zpython:S1542Æ"\Rename function "_arith_method_FRAME" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ö’‘çûÿÿÿÿ
+rpython:S3776Æ"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ö’‘çûÿÿÿÿ
+bpython:S1542à"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(»éª*
+~python:S1542û"`Rename function "_flex_comp_method_FRAME" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¢ÙÈïøÿÿÿÿ
+hpython:S1542Œ"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ê˜îüÿÿÿÿ
+tpython:S1542¤"[Rename function "_comp_method_FRAME" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¸©Ö£
+hpython:S1542©"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(©Ò…ùÿÿÿÿ
+upython:S1542Ç"\Rename function "_arith_method_PANEL" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ßæÓ†
+hpython:S1542Ë"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(©Ò…ùÿÿÿÿ
+tpython:S1542×"[Rename function "_comp_method_PANEL" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(áœ½
+cpython:S1542å"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(é¹â„
+[python:S112î">Replace this generic exception class with a more specific one.(åßîÄÿÿÿÿÿ
+tpython:S1542ø"[Rename function "_flex_method_PANEL" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(×¢ì÷
+cpython:S1542•"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ˆÚ„Î
+}python:S1871º"dEither merge this branch with the identical one on line "2231" or change one of the implementations.(‹Ãßº
+}python:S1542À"dRename function "_arith_method_SPARSE_SERIES" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(è½Ï©
+python:S1542ç"cRename function "_arith_method_SPARSE_ARRAY" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(³îƒ£üÿÿÿÿ

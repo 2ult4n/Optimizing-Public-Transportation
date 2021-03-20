@@ -1,0 +1,12 @@
+
+ipython:S1192â"KDefine a constant instead of duplicating this literal 'US/Eastern' 3 times.(£ã§Ëúÿÿÿÿ
+npython:S1192‚"PDefine a constant instead of duplicating this literal 'timedelta64[ns]' 3 times.(‚Œ‡Óüÿÿÿÿ
+dpython:S1192Š	"KDefine a constant instead of duplicating this literal b'E\xc9, 17' 3 times.(åØÀ
+tpython:S1192™"VDefine a constant instead of duplicating this literal '{"a_float":{"0":1.0}}' 4 times.(µÿ² ùÿÿÿÿ
+Hpython:S1066¼"/Merge this if statement with the enclosing one.(°È†¼
+hpython:S1165"QRename this field "objSeries" to match the regular expression ^[_a-z][_a-z0-9]*$.(°²àÁ
+mpython:S3776œ"TRefactor this function to reduce its Cognitive Complexity from 48 to the 15 allowed.(ûïâû
+kpython:S107"SFunction "_check_orient" has 11 parameters, which is greater than the 7 authorized.(ííó…
+7python:S125î"Remove this commented out code.(™¥¿
+}python:S100ù"`Rename method "test_blocks_compat_GH9037" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(€·õ²üÿÿÿÿ
+wpython:S117‚"ZRename this local variable "objSeries" to match the regular expression ^[_a-z][a-z0-9_]*$.(õ“¬ÿÿÿÿÿ

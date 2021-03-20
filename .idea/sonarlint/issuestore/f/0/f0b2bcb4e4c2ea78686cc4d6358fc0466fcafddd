@@ -1,0 +1,53 @@
+
+Mpython:S1066Ì"/Merge this if statement with the enclosing one.(ˆ­ó¹ûÿÿÿÿ
+cpython:S101A"LRename class "weekday" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(–ª¦ý
+jpython:S101\"NRename class "rrulebase" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(­ÅèŒÿÿÿÿÿ
+>python:S1481†"%Remove the unused local variable "j".(ø—™ê
+Cpython:S1481¡"%Remove the unused local variable "i".(ÄÏªæûÿÿÿÿ
+>python:S1481¹"%Remove the unused local variable "x".(öêëÏ
+Apython:S108º")Either remove or fill this block of code.(ã‘Û¾
+mpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(¦ŽÒ»
+bpython:S101¯"JRename class "rrule" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(•¢žÒ
+ipython:S107ª"LMethod "__init__" has 18 parameters, which is greater than the 7 authorized.(¢Ê…öúÿÿÿÿ
+spython:S3776ª"URefactor this function to reduce its Cognitive Complexity from 132 to the 15 allowed.(¢Ê…öúÿÿÿÿ
+?python:S1110š"!Remove those useless parentheses.(ïÏ‘½üÿÿÿÿ
+mpython:S3776º"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ŒüÂ¶
+=python:S1481¹"%Remove the unused local variable "j".(÷œŒ3
+>python:S1481Ù"%Remove the unused local variable "j".(ˆŸÜŸ
+spython:S3776†"URefactor this function to reduce its Cognitive Complexity from 215 to the 15 allowed.(†€¶ûÿÿÿÿ
+>python:S1481Î"&Remove the unused local variable "ii".(à±Ü7
+Cpython:S1481•	"%Remove the unused local variable "j".(ŒáÎÀûÿÿÿÿ
+Cpython:S1481£	"%Remove the unused local variable "j".(ŒáÎÀûÿÿÿÿ
+npython:S3776á"URefactor this function to reduce its Cognitive Complexity from 123 to the 15 allowed.(çé¤Ý
+<python:S125ý"Remove this commented out code.(åþ×þÿÿÿÿ
+Cpython:S1481ò	"%Remove the unused local variable "j".(ŒáÎÀûÿÿÿÿ
+gpython:S1226‚
+"NIntroduce a new variable or use its initial value before reassigning 'minute'.(øÆ§¿
+gpython:S1226‚
+"NIntroduce a new variable or use its initial value before reassigning 'second'.(øÆ§¿
+gpython:S1226Œ
+"NIntroduce a new variable or use its initial value before reassigning 'second'.(ðŒ²í
+epython:S101™
+"MRename class "rruleset" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(·ÖïÓ
+rpython:S3776å
+"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(†€¶ûÿÿÿÿ
+spython:S116Î"VRename this field "_handle_BYHOUR" to match the regular expression ^[_a-z][_a-z0-9]*$.(¬ñÊáøÿÿÿÿ
+ppython:S116Ï"XRename this field "_handle_BYMINUTE" to match the regular expression ^[_a-z][_a-z0-9]*$.(¸ ”Ž
+ppython:S116Æ"XRename this field "_handle_INTERVAL" to match the regular expression ^[_a-z][_a-z0-9]*$.(Âô´§
+upython:S116È"XRename this field "_handle_BYSETPOS" to match the regular expression ^[_a-z][_a-z0-9]*$.(Â‰ùëýÿÿÿÿ
+mpython:S116Ç"URename this field "_handle_COUNT" to match the regular expression ^[_a-z][_a-z0-9]*$.(·ä×Ö
+upython:S116Ì"XRename this field "_handle_BYEASTER" to match the regular expression ^[_a-z][_a-z0-9]*$.(¥žŸ¼ÿÿÿÿÿ
+ppython:S116Ð"XRename this field "_handle_BYSECOND" to match the regular expression ^[_a-z][_a-z0-9]*$.(½™ ü
+ppython:S116Í"XRename this field "_handle_BYWEEKNO" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÔÇù
+rpython:S116ý"URename this field "_handle_BYDAY" to match the regular expression ^[_a-z][_a-z0-9]*$.(œ¤×›ûÿÿÿÿ
+opython:S116É"WRename this field "_handle_BYMONTH" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ç˜¸õ
+vpython:S116Ë"YRename this field "_handle_BYYEARDAY" to match the regular expression ^[_a-z][_a-z0-9]*$.(€ýÈòøÿÿÿÿ
+wpython:S116Ê"ZRename this field "_handle_BYMONTHDAY" to match the regular expression ^[_a-z][_a-z0-9]*$.(ïÛ‡ñøÿÿÿÿ
+kpython:S100Ò"SRename method "_handle_FREQ" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(õì…ï
+qpython:S100Õ"TRename method "_handle_UNTIL" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¶°˜žÿÿÿÿÿ
+ppython:S100à"SRename method "_handle_WKST" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åµ†¦ÿÿÿÿÿ
+upython:S100ã"XRename method "_handle_BYWEEKDAY" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‰—Ííùÿÿÿÿ
+rpython:S3776ã"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(‰—Ííùÿÿÿÿ
+mpython:S3776™"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(“è«¾
+fpython:S107Í"NMethod "_parse_rfc" has 10 parameters, which is greater than the 7 authorized.(ÐÒñ¸
+mpython:S3776Í"TRefactor this function to reduce its Cognitive Complexity from 86 to the 15 allowed.(ÐÒñ¸

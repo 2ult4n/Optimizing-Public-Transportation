@@ -1,0 +1,8 @@
+
+Mpython:S1066å"/Merge this if statement with the enclosing one.(§î’Æýÿÿÿÿ
+vpython:S1542-"YRename function "_new_PeriodIndex" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¼ñÔªüÿÿÿÿ
+hpython:S107´"KMethod "__new__" has 12 parameters, which is greater than the 7 authorized.(¬ÞÌóÿÿÿÿÿ
+rpython:S3776´"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(¬ÞÌóÿÿÿÿÿ
+mpython:S3776Ï"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(²ûä­
+Apython:S108Ù")Either remove or fill this block of code.(ã‘Û¾
+[python:S112×">Replace this generic exception class with a more specific one.(š›ßÁøÿÿÿÿ

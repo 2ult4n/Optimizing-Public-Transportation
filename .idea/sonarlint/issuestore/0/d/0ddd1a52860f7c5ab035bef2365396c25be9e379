@@ -1,0 +1,11 @@
+
+jpython:S1192]"RDefine a constant instead of duplicating this literal 'no warning raised' 4 times.(±à§¬
+spython:S101&"\Rename class "TestNanFunctions_MinMax" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(¸ñ´
+python:S101¬"bRename class "TestNanFunctions_ArgminArgmax" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ü’Šúÿÿÿÿ
+{python:S101ê"^Rename class "TestNanFunctions_IntTypes" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(Ô–Ô¿ùÿÿÿÿ
+zpython:S101"]Rename class "TestNanFunctions_SumProd" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(Ò¼ºÕùÿÿÿÿ
+xpython:S101À"`Rename class "TestNanFunctions_CumSumProd" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(¿§ĞË
+}python:S101‡"`Rename class "TestNanFunctions_MeanVarStd" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(¤“Œœùÿÿÿÿ
+ypython:S101Ï"\Rename class "TestNanFunctions_Median" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(´°øÿÿÿÿ
+}python:S101ó"`Rename class "TestNanFunctions_Percentile" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(£şøÿÿÿÿ
+{python:S101ş"^Rename class "TestNanFunctions_Quantile" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(¨Ÿ˜ şÿÿÿÿ

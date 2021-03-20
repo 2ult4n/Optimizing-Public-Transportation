@@ -1,0 +1,24 @@
+
+´python:S1192“"šDefine a constant instead of duplicating this literal '\t{\"#name#\",-1,{{-1}},0,(char *)#fortranname#,(f2py_init_func)#apiname#,doc_#apiname#},' 3 times.(ËâÚÜ
+mpython:S1192ö"ODefine a constant instead of duplicating this literal '#pydocsignout#' 3 times.(ï½‰†üÿÿÿÿ
+upython:S1192É"WDefine a constant instead of duplicating this literal '\tPy_END_ALLOW_THREADS' 3 times.(çÏú’øÿÿÿÿ
+rpython:S1192Ä"YDefine a constant instead of duplicating this literal '\tPy_BEGIN_ALLOW_THREADS' 3 times.(«òÀç
+dpython:S1192ß"KDefine a constant instead of duplicating this literal '#varname#,' 6 times.(ÿãØ
+dpython:S1192€"KDefine a constant instead of duplicating this literal '--- #note#' 4 times.(Ş¼’É
+cpython:S1192ÿ"KDefine a constant instead of duplicating this literal ',#varname#' 3 times.(®§•
+¨python:S1192”"‰Define a constant instead of duplicating this literal '\t{\"#name#\",-1,{{-1}},0,NULL,(f2py_init_func)#apiname#,doc_#apiname#},' 4 times.(ò„ô’şÿÿÿÿ
+opython:S1192Í"QDefine a constant instead of duplicating this literal ',&#varname#_capi' 8 times.(µÅ¾ûÿÿÿÿ
+lpython:S1192ó"SDefine a constant instead of duplicating this literal '#ctype#_from_pyobj' 3 times.(”«Ì
+˜python:S1192À"Define a constant instead of duplicating this literal """\
+\tif (#setjmpbuf#) {
+\t\tf2py_success = 0;
+\t} else {""" 3 times.(œ¢ÈŸ
+dpython:S1192"FDefine a constant instead of duplicating this literal 'len..' 6 times.(¤‹æúÿÿÿÿ
+Ñpython:S1192’"²Define a constant instead of duplicating this literal '\t{\"#name#\",-1,{{-1}},0,(char *)#F_FUNC#(#fortranname#,#FORTRANNAME#),(f2py_init_func)#apiname#,doc_#apiname#},' 3 times.(Ø£İ€ùÿÿÿÿ
+bpython:S1192ô"IDefine a constant instead of duplicating this literal '#ctype#' 12 times.(äûÎ 
+python:S1192Ê"fDefine a constant instead of duplicating this literal '\tPyObject *#varname#_capi = Py_None;' 5 times.(ÚĞ¨°
+ppython:S1192Ó"WDefine a constant instead of duplicating this literal 'try_pyarr_from_#ctype#' 3 times.(Òğ˜µ
+;python:S125["Remove this commented out code.(ñ ´îúÿÿÿÿ
+rpython:S3776ƒ	"TRefactor this function to reduce its Cognitive Complexity from 86 to the 15 allowed.(Ò©Âøÿÿÿÿ
+rpython:S3776Á
+"TRefactor this function to reduce its Cognitive Complexity from 73 to the 15 allowed.(ÙŠêìşÿÿÿÿ

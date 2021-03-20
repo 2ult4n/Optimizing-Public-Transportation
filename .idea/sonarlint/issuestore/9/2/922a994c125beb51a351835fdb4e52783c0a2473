@@ -1,0 +1,4 @@
+
+hpython:S1542Ô"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
+python:S1515×"ƒAdd a parameter to function "f" and use variable "f" as its default value;The value of "f" might change at the next loop iteration.(–¿ı½
+¢python:S1515Õ"ƒAdd a parameter to function "f" and use variable "t" as its default value;The value of "t" might change at the next loop iteration.(Àüïÿÿÿÿÿ

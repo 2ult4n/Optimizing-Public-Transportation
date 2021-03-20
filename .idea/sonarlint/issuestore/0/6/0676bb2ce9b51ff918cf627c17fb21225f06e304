@@ -1,0 +1,30 @@
+
+Qpython:S905)":Remove or refactor this statement; it has no side effects.(İáÌŸ
+Vpython:S905+":Remove or refactor this statement; it has no side effects.(¥ì†»úÿÿÿÿ
+Qpython:S905-":Remove or refactor this statement; it has no side effects.(Äç‘
+Qpython:S905/":Remove or refactor this statement; it has no side effects.(âÄıœ
+Vpython:S905s":Remove or refactor this statement; it has no side effects.(”‘ƒÿøÿÿÿÿ
+Vpython:S905v":Remove or refactor this statement; it has no side effects.(ÑÈğıÿÿÿÿ
+Rpython:S905£":Remove or refactor this statement; it has no side effects.(ü®ˆˆ
+Wpython:S905±":Remove or refactor this statement; it has no side effects.(¤ÿ¢òÿÿÿÿÿ
+Wpython:S905³":Remove or refactor this statement; it has no side effects.(Ë¤€üÿÿÿÿ
+Rpython:S905µ":Remove or refactor this statement; it has no side effects.(ëÈÂ
+Wpython:S905·":Remove or refactor this statement; it has no side effects.(„—å´øÿÿÿÿ
+dpython:S1764©"KCorrect one of the identical sub-expressions on both sides of operator "/".(²ƒğ„
+ipython:S1764â"KCorrect one of the identical sub-expressions on both sides of operator "%".(îÀõ¡ÿÿÿÿÿ
+ipython:S1764ñ"KCorrect one of the identical sub-expressions on both sides of operator "%".(÷È—´ùÿÿÿÿ
+Rpython:S905ô":Remove or refactor this statement; it has no side effects.(¤œÏÍ
+Wpython:S905ù":Remove or refactor this statement; it has no side effects.(ˆ®†¥ùÿÿÿÿ
+Rpython:S905û":Remove or refactor this statement; it has no side effects.(³ã”¦
+ipython:S1764Ğ"KCorrect one of the identical sub-expressions on both sides of operator "<".(óÆæ¼øÿÿÿÿ
+dpython:S1764Ò"KCorrect one of the identical sub-expressions on both sides of operator "/".(¨ÇºÄ
+Rpython:S905±":Remove or refactor this statement; it has no side effects.(˜³øä
+Rpython:S905´":Remove or refactor this statement; it has no side effects.(ú¶ƒÔ
+ipython:S1854È"KRemove this assignment to local variable 'result'; the value is never used.(ˆ†¾Ãøÿÿÿÿ
+wpython:S117Ø"ZRename this local variable "colSeries" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÍÌíÿÿÿÿÿ
+spython:S117Ú"VRename this local variable "idSum" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÚÂµµşÿÿÿÿ
+ppython:S117ß"XRename this local variable "origVal" to match the regular expression ^[_a-z][a-z0-9_]*$.(§·ÌŒ
+rpython:S117Û"ZRename this local variable "seriesSum" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ğ‚úÎ
+rpython:S3776Ò"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÙùÒŸüÿÿÿÿ
+ipython:S1764³"KCorrect one of the identical sub-expressions on both sides of operator "-".(¤£Œıøÿÿÿÿ
+ipython:S1764´"KCorrect one of the identical sub-expressions on both sides of operator "-".(•°Ëûÿÿÿÿ

@@ -1,0 +1,7 @@
+
+Fpython:S1066R"/Merge this if statement with the enclosing one.(÷Ó¥\
+ipython:S117 "RRename this parameter "nanRep" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢¬ü›
+cpython:S107"LMethod "__init__" has 23 parameters, which is greater than the 7 authorized.(³Ÿ¥§
+lpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(³Ÿ¥§
+rpython:S3776‚"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(®Çè‰ùÿÿÿÿ
+rpython:S3776¿"TRefactor this function to reduce its Cognitive Complexity from 53 to the 15 allowed.(òïžÅøÿÿÿÿ

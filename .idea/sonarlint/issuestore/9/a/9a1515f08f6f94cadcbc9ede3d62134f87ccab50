@@ -1,0 +1,36 @@
+
+epython:S1192²"LDefine a constant instead of duplicating this literal "(i),(i)->()" 3 times.(•¬§Î
+cpython:S1192"FDefine a constant instead of duplicating this literal 'ii->i' 8 times.(´Ùşÿÿÿÿ
+bpython:S1192Ğ"IDefine a constant instead of duplicating this literal 'u8,u8,u8' 3 times.(ŞçÍ™
+Ppython:S5720m"9Rename "x" to "self" or add the missing "self" parameter.(Ø¦‚
+upython:S100g"YRename method "test_unary_PyUFunc" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(èûììùÿÿÿÿ
+_python:S100m"IRename method "f2" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ø¦‚
+vpython:S100q"ZRename method "test_binary_PyUFunc" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ô©£ßùÿÿÿÿ
+dpython:S101x"HRename class "foo" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ÿÃÊøúÿÿÿÿ
+tpython:S100"]Rename method "test_unary_PyUFunc_O_O" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ÿõ
+ƒpython:S100ƒ"kRename method "test_unary_PyUFunc_O_O_method_simple" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Üô®
+wpython:S100‡"_Rename method "test_binary_PyUFunc_OO_O" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(õğĞÄ
+~python:S100‹"fRename method "test_binary_PyUFunc_OO_O_method" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‰Ãèğ
+~python:S100"gRename method "test_binary_PyUFunc_On_Om_method" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(±Ä¼{
+python:S100œ"iRename method "test_unary_PyUFunc_O_O_method_full" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‘É²
+tpython:S1186µ"[Add a nested comment explaining why this function is empty, or complete the implementation.(¨¦ ›
+fpython:S1854¶"HRemove this assignment to local variable 'tgt'; the value is never used.(Çåœÿûÿÿÿÿ
+mpython:S3776³"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(…é§È
+ppython:S117¤"SRename this local variable "Ba" to match the regular expression ^[_a-z][a-z0-9_]*$.(óö›ÿÿÿÿÿ
+kpython:S117¥"SRename this local variable "La" to match the regular expression ^[_a-z][a-z0-9_]*$.(Õæÿ 
+mpython:S3776®"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(ÿ„Ò
+epython:S1764“	"LCorrect one of the identical sub-expressions on both sides of operator "==".(ƒ¸À
+jpython:S1764—	"LCorrect one of the identical sub-expressions on both sides of operator "==".(ÅÂšìùÿÿÿÿ
+Cpython:S1481±	"%Remove the unused local variable "i".(º¢ä©ÿÿÿÿÿ
+Cpython:S1481»	"%Remove the unused local variable "i".( Åş®úÿÿÿÿ
+Cpython:S1481Å	"%Remove the unused local variable "i".(º¢ä©ÿÿÿÿÿ
+>python:S1481Ç	"%Remove the unused local variable "i".(¢Û¶î
+Cpython:S1481Î	"%Remove the unused local variable "i".( Åş®úÿÿÿÿ
+>python:S1481Ğ	"%Remove the unused local variable "i".(³ßôµ
+Bpython:S1481À"*Remove the unused local variable "a_copy".(¿šŞ'
+ipython:S1542é"KRename function "ok" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ô¯âØşÿÿÿÿ
+cpython:S1542ï"JRename function "t" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ğ™¼
+=python:S1481¨"%Remove the unused local variable "a".(üú{
+Wpython:S905Œ":Remove or refactor this statement; it has no side effects.(–™º³üÿÿÿÿ
+6python:S125 "Remove this commented out code.(ß“á
+python:S100ò"gRename method "test_NotImplemented_not_returned" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‘Ş Á

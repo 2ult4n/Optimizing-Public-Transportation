@@ -1,0 +1,17 @@
+
+vpython:S100»"_Rename method "test_apply_reduce_Series" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(íŒ
+Apython:S5603ì"(Remove this unused function declaration.(¸ê•Š
+hpython:S1542"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÇÂÏãıÿÿÿÿ
+upython:S117È"XRename this local variable "A_dicts" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷Ô šúÿÿÿÿ
+ppython:S117Ë"XRename this local variable "B_dicts" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ğê‹«
+>python:S1481×"%Remove the unused local variable "t".(—Àº¶
+Cpython:S1481¨"%Remove the unused local variable "t".(İáõÄøÿÿÿÿ
+>python:S1481¬"%Remove the unused local variable "t".(ÿšå›
+>python:S1481³"%Remove the unused local variable "t".(õ¤Ñ
+Cpython:S1481¸"%Remove the unused local variable "t".(±¶ıüÿÿÿÿ
+>python:S1481É"%Remove the unused local variable "t".(×Ï£
+Cpython:S1481Ò"%Remove the unused local variable "t".(İáõÄøÿÿÿÿ
+>python:S1481Ö"%Remove the unused local variable "t".(ÿšå›
+Cpython:S1481£"%Remove the unused local variable "t".(±¯œ şÿÿÿÿ
+hpython:S1542"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
+Fpython:S5603"(Remove this unused function declaration.(÷‘õàúÿÿÿÿ

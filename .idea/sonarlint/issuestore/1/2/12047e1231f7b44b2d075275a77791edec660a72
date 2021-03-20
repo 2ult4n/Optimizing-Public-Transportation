@@ -1,0 +1,36 @@
+
+npython:S1192–"UDefine a constant instead of duplicating this literal 'Sparse[float64, nan]' 3 times.(¡ª²ý
+Apython:S2638:")Move parameter float_frame to position 1.(µïæõ
+Epython:S2201|"(The return value of "repr" must be used.(›»¹×ûÿÿÿÿ
+_python:S1854Œ"GRemove this assignment to local variable 'sp'; the value is never used.(Üï·A
+Jpython:S1481½",Remove the unused local variable "x_sparse".(Þáëúÿÿÿÿ
+Epython:S1481Ä",Remove the unused local variable "y_sparse".(ÿêÃþ
+>python:S2201¦"'The return value of "str" must be used.(žÃ
+kpython:S107­"NMethod "test_pickle" has 8 parameters, which is greater than the 7 authorized.(åùø…þÿÿÿÿ
+rpython:S1186Ù"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ªÚî•
+Cpython:S1481œ"*Remove the unused local variable "result".(“ëÙ¢
+wpython:S1186©"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ÁÄç“ùÿÿÿÿ
+<python:S125ã"Remove this commented out code.(¡‰³ýÿÿÿÿ
+7python:S125è"Remove this commented out code.(Ö­Ýè
+lpython:S107ý"OMethod "test_setitem" has 8 parameters, which is greater than the 7 authorized.(¶ñ¸Üýÿÿÿÿ
+Mpython:S1656ó"/Remove or correct this useless self-assignment.(ƒÃÄ«ùÿÿÿÿ
+Hpython:S1656ø"/Remove or correct this useless self-assignment.(‰ãÖŒ
+dpython:S1854ü"KRemove this assignment to local variable 'result'; the value is never used.(½ãÈÆ
+Fpython:S1481Û"(Remove the unused local variable "desc".(Ïèëüÿÿÿÿ
+@python:S2201Ú"'The return value of "str" must be used.(¬€€Ä
+Bpython:S1481ð")Remove the unused local variable "sidx2".(„ßûó
+<python:S125Å"Remove this commented out code.(–ò¦¶üÿÿÿÿ
+7python:S125Ò"Remove this commented out code.(—è±á
+<python:S125ë"Remove this commented out code.(–ò¦¶üÿÿÿÿ
+7python:S125ï"Remove this commented out code.(—è±á
+hpython:S107ø"PMethod "test_to_dense" has 8 parameters, which is greater than the 7 authorized.(¨«áˆ
+Mpython:S1481‹"/Remove the unused local variable "dense_frame".(ý»ô…ýÿÿÿÿ
+Xpython:S2638œ"?Remove parameter float_frame_int_kind or provide default value.(ª‚€§
+Upython:S2638"<Remove parameter float_frame_dense or provide default value.(‚åã¨
+Upython:S2638ž"<Remove parameter float_frame_fill0 or provide default value.(€Ù‡è
+[python:S2638ž"BRemove parameter float_frame_fill0_dense or provide default value.(€Ù‡è
+Zpython:S2638Ÿ"<Remove parameter float_frame_fill2 or provide default value.(ï“Ý¾øÿÿÿÿ
+`python:S2638Ÿ"BRemove parameter float_frame_fill2_dense or provide default value.(ï“Ý¾øÿÿÿÿ
+ipython:S107œ"QMethod "test_transpose" has 8 parameters, which is greater than the 7 authorized.(ª‚€§
+epython:S107¯"MMethod "test_shift" has 8 parameters, which is greater than the 7 authorized.(ÔÂƒ²
+`python:S1854•	"GRemove this assignment to local variable 'df'; the value is never used.(±·É°

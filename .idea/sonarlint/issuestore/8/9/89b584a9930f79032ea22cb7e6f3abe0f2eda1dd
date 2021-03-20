@@ -1,0 +1,21 @@
+
+`python:S1192·"HDefine a constant instead of duplicating this literal 'M8[us]' 50 times.(Ñ Å8
+_python:S1192Ó"GDefine a constant instead of duplicating this literal 'M8[ns]' 9 times.(å¢¾7
+jpython:S1192×"QDefine a constant instead of duplicating this literal '2010-03-15T06:30' 4 times.(Á£Œ‰
+ipython:S1192¯"PDefine a constant instead of duplicating this literal 'timedelta64[ns]' 6 times.(™¶­­
+dpython:S1192ã"KDefine a constant instead of duplicating this literal 'US/Central' 3 times.(–åşË
+`python:S1192ì"GDefine a constant instead of duplicating this literal 'M8[as]' 4 times.(ˆçÖ˜
+dpython:S1192ç"KDefine a constant instead of duplicating this literal 'US/Pacific' 4 times.(ı”¤ß
+xpython:S1192È"ZDefine a constant instead of duplicating this literal "[     -1   'NaT' 1234567]" 3 times.(åì™ıÿÿÿÿ
+‘python:S1192ß"sDefine a constant instead of duplicating this literal b"cnumpy\ndtype\np0\n(S'M8'\np1\nI0\nI1\ntp2\nRp3\n" 3 times.(İ÷€ûùÿÿÿÿ
+_python:S1192Ú"GDefine a constant instead of duplicating this literal 'M8[ps]' 4 times.(ŞÆ‰
+tpython:S1192"[Define a constant instead of duplicating this literal '2032-07-18T12:23:34.123456' 4 times.(üŞ¹–
+mpython:S1192Ğ"TDefine a constant instead of duplicating this literal '2038-01-19T03:14:07' 3 times.(›“øâ
+lpython:S1192ª"TDefine a constant instead of duplicating this literal '2032-07-18T12:23:34' 3 times.(‰È‹f
+fpython:S1192ê"HDefine a constant instead of duplicating this literal '>M8[us]' 4 times.(¿õ¡€ùÿÿÿÿ
+ppython:S117÷"SRename this local variable "mM" to match the regular expression ^[_a-z][a-z0-9_]*$.(Š€Çÿıÿÿÿÿ
+Rpython:S905Ç":Remove or refactor this statement; it has no side effects.(éÀîõ
+Rpython:S905à	":Remove or refactor this statement; it has no side effects.(•Ê¦
+<python:S125¬"Remove this commented out code.(‘ñŸûÿÿÿÿ
+Wpython:S905ì":Remove or refactor this statement; it has no side effects.(éàƒùÿÿÿÿ
+Wpython:S905€":Remove or refactor this statement; it has no side effects.(éàƒùÿÿÿÿ

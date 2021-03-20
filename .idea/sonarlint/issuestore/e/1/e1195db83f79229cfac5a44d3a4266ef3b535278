@@ -1,0 +1,5 @@
+
+hpython:S101Z"QRename class "_system_info" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ÂÁÍ²
+ypython:S117ã"\Rename this local variable "previousDir" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬ß‡Ïüÿÿÿÿ
+ypython:S117ö"\Rename this local variable "previousDir" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬ß‡Ïüÿÿÿÿ
+ypython:S117‚"\Rename this local variable "previousDir" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬ß‡Ïüÿÿÿÿ

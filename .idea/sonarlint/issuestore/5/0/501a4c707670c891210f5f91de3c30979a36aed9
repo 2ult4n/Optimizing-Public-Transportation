@@ -1,0 +1,7 @@
+
+Gpython:S1066M"/Merge this if statement with the enclosing one.(²¨αΦ
+}python:S1179"aRename this local variable "internetSettings" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ζƒϋÿÿÿÿ
+spython:S117<"\Rename this local variable "proxyEnable" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ύδ»¥
+zpython:S117?"^Rename this local variable "proxyOverride" to match the regular expression ^[_a-z][a-z0-9_]*$.(Έα‰ύÿÿÿÿ
+lpython:S3776k"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(ζ®
+rpython:S3776¶"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(†φυκόÿÿÿÿ

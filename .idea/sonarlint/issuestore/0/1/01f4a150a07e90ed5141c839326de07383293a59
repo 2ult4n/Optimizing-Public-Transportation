@@ -1,0 +1,8 @@
+
+ppython:S1192"RDefine a constant instead of duplicating this literal 'info.last_updated' 3 times.(¹Š¿óùÿÿÿÿ
+ipython:S11925"LDefine a constant instead of duplicating this literal 'John Kasich' 3 times.(À’ùØúÿÿÿÿ
+ipython:S1192"PDefine a constant instead of duplicating this literal 'info.created_at' 3 times.(˜Ùÿë
+kpython:S1192"RDefine a constant instead of duplicating this literal 'author_name.first' 4 times.(¿ÕÛ»
+hpython:S1192/"KDefine a constant instead of duplicating this literal 'Palm Beach' 5 times.(åš‡şıÿÿÿÿ
+cpython:S11920"KDefine a constant instead of duplicating this literal 'Rick Scott' 4 times.(‘…«ı
+opython:S1192"VDefine a constant instead of duplicating this literal 'author_name.last_name' 4 times.(’î•¹

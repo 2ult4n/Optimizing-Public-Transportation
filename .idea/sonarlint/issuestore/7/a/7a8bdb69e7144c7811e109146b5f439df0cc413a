@@ -1,0 +1,24 @@
+
+ipython:S1542t"QRename function "Validate" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(éª¢¾
+rpython:S1186ë"YAdd a nested comment explaining why this method is empty, or complete the implementation.(°»Ãç
+hpython:S100¤"PRename method "WriteByte" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ñÆãÇ
+lpython:S3776ù"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÀâP
+|python:S1871€"cEither merge this branch with the identical one on line "381" or change one of the implementations.(³îŽ
+|python:S1871„"cEither merge this branch with the identical one on line "381" or change one of the implementations.(³îŽ
+|python:S1871ˆ"cEither merge this branch with the identical one on line "381" or change one of the implementations.(³îŽ
+|python:S1871Š"cEither merge this branch with the identical one on line "381" or change one of the implementations.(³îŽ
+|python:S1871Ž"cEither merge this branch with the identical one on line "381" or change one of the implementations.(³îŽ
+|python:S1871’"cEither merge this branch with the identical one on line "381" or change one of the implementations.(³îŽ
+|python:S1871–"cEither merge this branch with the identical one on line "381" or change one of the implementations.(³îŽ
+|python:S1871š"cEither merge this branch with the identical one on line "381" or change one of the implementations.(³îŽ
+|python:S1871 "cEither merge this branch with the identical one on line "414" or change one of the implementations.(³îŽ
+|python:S1871¢"cEither merge this branch with the identical one on line "414" or change one of the implementations.(³îŽ
+rpython:S3776½"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(Æäìôÿÿÿÿÿ
+Cpython:S1481Ä"%Remove the unused local variable "i".(ÛÐ«ûÿÿÿÿ
+Fpython:S1481Ã".Remove the unused local variable "block_size".(–ó¨G
+Cpython:S1481Ñ"%Remove the unused local variable "i".(ÛÐ«ûÿÿÿÿ
+Fpython:S1481é".Remove the unused local variable "block_size".(–ó¨G
+Cpython:S1481ê"%Remove the unused local variable "i".(ÛÐ«ûÿÿÿÿ
+Cpython:S1481ø"%Remove the unused local variable "i".(ÛÐ«ûÿÿÿÿ
+rpython:S3776Ç"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(äÙôƒúÿÿÿÿ
+[python:S112€">Replace this generic exception class with a more specific one.(‘–´éûÿÿÿÿ

@@ -1,0 +1,17 @@
+
+Hpython:S1066"/Merge this if statement with the enclosing one.(èîàÏ
+Hpython:S1066¯"/Merge this if statement with the enclosing one.(‹¬º
+Vpython:S57220">Add 1 parameters. Method __getitem__ should have 2 parameters.(¯æé
+>python:S1481Ô"%Remove the unused local variable "i".(»°èë
+Cpython:S1481ü"%Remove the unused local variable "e".(¡¹‰áûÿÿÿÿ
+Cpython:S1481Õ"%Remove the unused local variable "i".(×‚îğùÿÿÿÿ
+Cpython:S1481û"%Remove the unused local variable "i".(×‚îğùÿÿÿÿ
+hpython:S101Â"KRename class "mylist" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(¢‰­²øÿÿÿÿ
+hpython:S101Ó"KRename class "mylist" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(¢‰­²øÿÿÿÿ
+ipython:S101à"LRename class "baditem" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(®Ñ¸ûÿÿÿÿ
+Wpython:S5722å">Add 1 parameters. Method __getitem__ should have 2 parameters.(¯æé
+wpython:S1186¡"YAdd a nested comment explaining why this method is empty, or complete the implementation.(úÆÖûÿÿÿÿ
+wpython:S1186¥"YAdd a nested comment explaining why this method is empty, or complete the implementation.(É…¯áøÿÿÿÿ
+rpython:S1186¨"YAdd a nested comment explaining why this method is empty, or complete the implementation.(¢ÄŞ‰
+Cpython:S1481¸"%Remove the unused local variable "i".(Ïµõ¢ıÿÿÿÿ
+Wpython:S5722×">Add 1 parameters. Method __getitem__ should have 2 parameters.(¯æé

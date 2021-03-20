@@ -1,0 +1,7 @@
+
+ppython:S117£"SRename this parameter "from_Dt" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŠòÍ¤şÿÿÿÿ
+spython:S117¤"VRename this local variable "to_Dt" to match the regular expression ^[_a-z][a-z0-9_]*$.(¡çõ´úÿÿÿÿ
+rpython:S3776£"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ŠòÍ¤şÿÿÿÿ
+lpython:S117Ë"TRename this parameter "other_DT" to match the regular expression ^[_a-z][a-z0-9_]*$.(—Œç‰
+wpython:S117Î"ZRename this local variable "string_DT" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰¸şÿÿÿÿ
+wpython:S117ú"ZRename this local variable "string_DT" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰¸şÿÿÿÿ

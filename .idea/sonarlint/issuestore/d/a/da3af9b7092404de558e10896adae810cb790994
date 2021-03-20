@@ -1,0 +1,18 @@
+
+qpython:S1192¿"XDefine a constant instead of duplicating this literal 'no implementation found' 3 times.(ôëúĞ
+bpython:S101o"FRename class "A" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ˆŒî—üÿÿÿÿ
+bpython:S101r"FRename class "B" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(å¢—Şùÿÿÿÿ
+]python:S101u"FRename class "C" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(¤Ûš©
+]python:S101x"FRename class "D" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(´˜ê
+hpython:S1542‘"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ã÷ì‰ÿÿÿÿÿ
+hpython:S1542–"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ã÷ì‰ÿÿÿÿÿ
+ypython:S1186–"[Add a nested comment explaining why this function is empty, or complete the implementation.(Ã÷ì‰ÿÿÿÿÿ
+ppython:S117´"XRename this local variable "MyArray" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ûˆ£
+hpython:S1542·"JRename function "_" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(µ›Å²şÿÿÿÿ
+ppython:S117¾"XRename this local variable "MyArray" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ûˆ£
+ppython:S117×"XRename this local variable "MyArray" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ûˆ£
+ppython:S117ƒ"XRename this local variable "MyArray" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ûˆ£
+hpython:S1542†"JRename function "_" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(µ›Å²şÿÿÿÿ
+fpython:S116½"ORename this field "MyArray" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ìäâ`
+{python:S116Ã"^Rename this field "MyNoArrayFunctionArray" to match the regular expression ^[_a-z][_a-z0-9]*$.(³›’Àıÿÿÿÿ
+Lpython:S1481Ú".Remove the unused local variable "array_like".(öïúáüÿÿÿÿ

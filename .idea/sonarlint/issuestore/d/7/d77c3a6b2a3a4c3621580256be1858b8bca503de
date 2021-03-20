@@ -1,0 +1,3 @@
+
+tpython:S5713"WRemove this redundant Exception class; it derives from another which is already caught.(убмны€€€€
+hpython:S1542#"KRename function "df" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¬•чт€€€€€

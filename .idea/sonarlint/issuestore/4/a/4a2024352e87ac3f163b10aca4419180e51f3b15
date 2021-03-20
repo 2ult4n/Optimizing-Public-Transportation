@@ -1,0 +1,6 @@
+
+Mpython:S1066¢"/Merge this if statement with the enclosing one.(í»¿¯ýÿÿÿÿ
+9python:S3457t"Remove this unused argument.(×ÐÅ•ûÿÿÿÿ
+?python:S2275t""Provide a value for field "kwarg".(×ÐÅ•ûÿÿÿÿ
+kpython:S101ù"SRename class "option_context" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ÄŠ€«
+dpython:S1542˜"KRename function "pp" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¢…¡„

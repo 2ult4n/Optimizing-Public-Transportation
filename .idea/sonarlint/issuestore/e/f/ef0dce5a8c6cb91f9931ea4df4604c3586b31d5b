@@ -1,0 +1,14 @@
+
+Mpython:S1066ô"/Merge this if statement with the enclosing one.(ÿíàúşÿÿÿÿ
+kpython:S107û"NMethod "interpolate" has 9 parameters, which is greater than the 7 authorized.(Ö²Ôûÿÿÿÿ
+Epython:S930§"-Remove this unexpected named argument 'ddof'.(ÚîÍù
+Jpython:S930³"-Remove this unexpected named argument 'ddof'.(•ÙÙÊÿÿÿÿÿ
+cpython:S1542Ô"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(„å‹›
+hpython:S1542ß"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(°áµÈøÿÿÿÿ
+bpython:S1542ç"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ßÑÍ
+bpython:S1542î"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ßÑÍ
+dpython:S107Š
+"LMethod "__init__" has 13 parameters, which is greater than the 7 authorized.(ë£öÜ
+mpython:S3776Š
+"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ë£öÜ
+rpython:S3776“"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(³ö¸‘úÿÿÿÿ

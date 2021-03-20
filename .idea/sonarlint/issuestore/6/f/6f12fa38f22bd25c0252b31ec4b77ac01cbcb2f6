@@ -1,0 +1,18 @@
+
+ipython:S1192–"KDefine a constant instead of duplicating this literal 'US/Eastern' 3 times.(´Áä¹şÿÿÿÿ
+hpython:S1192—"ODefine a constant instead of duplicating this literal 'datetime64[ns]' 5 times.(Ì•şÙ
+_python:S1192c"GDefine a constant instead of duplicating this literal 'M8[ns]' 3 times.(»ŠŠü
+ipython:S1192“"KDefine a constant instead of duplicating this literal 'US/Pacific' 4 times.(†¿¹ıÿÿÿÿ
+_python:S1192Õ"FDefine a constant instead of duplicating this literal '%b %y' 6 times.(ñ“­¯
+mpython:S1192¢"TDefine a constant instead of duplicating this literal '2015-05-27 22:33:20' 3 times.(¤ĞÒÕ
+lpython:S1192«"TDefine a constant instead of duplicating this literal 'datetime64[ns, UTC]' 3 times.(¨½É%
+fpython:S1192ƒ"HDefine a constant instead of duplicating this literal "%I:%M%p" 3 times.(ğåìµúÿÿÿÿ
+bpython:S1192€"IDefine a constant instead of duplicating this literal "%Y-%m-%d" 9 times.(Ÿ®â
+rpython:S1192¡"TDefine a constant instead of duplicating this literal '2015-06-19 05:33:20' 3 times.(µ¬âùúÿÿÿÿ
+ƒpython:S100>"gRename method "test_to_datetime_format_YYYYMMDD" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¦ô—µÿÿÿÿÿ
+Hpython:S5806~"+Rename this variable; it shadows a builtin.(Äº•úÿÿÿÿ
+}python:S100Š"`Rename method "test_to_datetime_YYYYMMDD" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ô¡úøÿÿÿÿ
+7python:S125³"Remove this commented out code.(íŒöÿ
+<python:S125ı"Remove this commented out code.(­Àµ¡üÿÿÿÿ
+Åpython:S1515µ
+"¦Add a parameter to the parent lambda function and use variable "test_format" as its default value; The value of "test_format" might change at the next loop iteration.(¨ óºÿÿÿÿÿ

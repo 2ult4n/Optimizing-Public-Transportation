@@ -1,0 +1,15 @@
+
+Hpython:S1066–"/Merge this if statement with the enclosing one.(¿‚Éò
+hpython:S1542¬"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ò•àÃüÿÿÿÿ
+hpython:S1542³"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ò•àÃüÿÿÿÿ
+cpython:S107Ç"LMethod "__init__" has 14 parameters, which is greater than the 7 authorized.(˜é„}
+rpython:S3776•"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(°‡å‰ýÿÿÿÿ
+rpython:S3776³"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(êúÿ¡ÿÿÿÿÿ
+cpython:S1542¥"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(äÆ“Þ
+rpython:S3776ë"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(°»öÍþÿÿÿÿ
+cpython:S1542‚	"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åºØÀ
+rpython:S3776Ò	"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(¯¬÷æûÿÿÿÿ
+cpython:S1542à	"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ë°‡¾
+rpython:S3776û"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(ç¡Î„þÿÿÿÿ
+wpython:S107è"ZMethod "_get_cythonized_result" has 12 parameters, which is greater than the 7 authorized.(…˜ë©úÿÿÿÿ
+rpython:S3776è"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(…˜ë©úÿÿÿÿ

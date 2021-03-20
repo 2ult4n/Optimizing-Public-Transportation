@@ -1,0 +1,18 @@
+
+epython:S1192·	"MDefine a constant instead of duplicating this literal 'Invalid side' 4 times.(¼üøC
+qpython:S3776>"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(îÇ…ãÿÿÿÿÿ
+gpython:S1542W"JRename function "g" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ãÅåêüÿÿÿÿ
+mpython:S3776¬"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(óÜ•Û
+cpython:S1542³"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åºØÀ
+mpython:S3776Ö"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(›êÌ‰
+µpython:S1515ö"–Add a parameter to the parent lambda function and use variable "pat" as its default value; The value of "pat" might change at the next loop iteration.(Íàƒ‡ûÿÿÿÿ
+mpython:S3776¡
+"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(±÷„š
+}python:S1871©
+"dEither merge this branch with the identical one on line "1316" or change one of the implementations.(ÕÚŞº
+cpython:S1542Ğ"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åºØÀ
+cpython:S1542"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åºØÀ
+gpython:S3358ã"IExtract this nested conditional expression into an independent statement.(Åı£Úúÿÿÿÿ
+rpython:S3776¾"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(Ôæş×øÿÿÿÿ
+mpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 44 to the 15 allowed.(·è²ï
+rpython:S3776ÿ"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(ôŸ»şşÿÿÿÿ

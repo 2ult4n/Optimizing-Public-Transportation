@@ -1,0 +1,7 @@
+
+]python:S101	"FRename class "D" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(´˜ê
+]python:S101"FRename class "C" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(¬åÊÿ
+]python:S101"FRename class "B" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(¡¸ß
+bpython:S101"FRename class "A" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ˆŒî—üÿÿÿÿ
+Vpython:S905H":Remove or refactor this statement; it has no side effects.(öÚ­şÿÿÿÿ
+Qpython:S905I":Remove or refactor this statement; it has no side effects.(…ˆ¶‚

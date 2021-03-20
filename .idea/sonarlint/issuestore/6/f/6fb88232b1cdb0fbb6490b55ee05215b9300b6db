@@ -1,0 +1,7 @@
+
+Qpython:S905*":Remove or refactor this statement; it has no side effects.(œÃŠ‚
+Vpython:S905-":Remove or refactor this statement; it has no side effects.(İèİışÿÿÿÿ
+Qpython:S9050":Remove or refactor this statement; it has no side effects.(Éâú
+Qpython:S9059":Remove or refactor this statement; it has no side effects.(œÃŠ‚
+Vpython:S905<":Remove or refactor this statement; it has no side effects.(İèİışÿÿÿÿ
+Qpython:S905?":Remove or refactor this statement; it has no side effects.(Éâú

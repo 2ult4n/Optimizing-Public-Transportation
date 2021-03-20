@@ -1,0 +1,25 @@
+
+lpython:S1192º"SDefine a constant instead of duplicating this literal 'mutually exclusive' 5 times.(»ìø¤
+ypython:S1192Ü"[Define a constant instead of duplicating this literal "Cannot specify both 'axis'" 8 times.(ŽïëŸþÿÿÿÿ
+cpython:S1192²"JDefine a constant instead of duplicating this literal 'Must pass' 3 times.(¾Ë×â
+6python:S125,"Remove this commented out code.(Åôÿà
+6python:S125\"Remove this commented out code.(Åôÿà
+spython:S117Ý"[Rename this local variable "emptyFrame" to match the regular expression ^[_a-z][a-z0-9_]*$.(ã¢—Ù
+qpython:S117Ï"YRename this local variable "newFrame" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÄºÐ“
+|python:S117á"_Rename this local variable "nonContigFrame" to match the regular expression ^[_a-z][a-z0-9_]*$.(²²Á²ýÿÿÿÿ
+mpython:S3776Î"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(¾Ð¯¿
+7python:S125á"Remove this commented out code.(—è±á
+<python:S125ë"Remove this commented out code.(–ò¦¶üÿÿÿÿ
+<python:S125‰"Remove this commented out code.(¡‰³ýÿÿÿÿ
+7python:S125‘"Remove this commented out code.(Ö­Ýè
+Gpython:S1481³"/Remove the unused local variable "diff_b_vals".(ŒÑ˜O
+Mpython:S1481È"/Remove the unused local variable "diff_b_vals".(øïØŒþÿÿÿÿ
+<python:S125¨"Remove this commented out code.(¡‰³ýÿÿÿÿ
+7python:S125»"Remove this commented out code.(Ö­Ýè
+gpython:S107‰"OMethod "_check_align" has 8 parameters, which is greater than the 7 authorized.(ÌŒ„Ç
+7python:S125«"Remove this commented out code.(Ö­Ýè
+7python:S125À"Remove this commented out code.(Ö­Ýè
+7python:S125Ó"Remove this commented out code.(Ö­Ýè
+7python:S125à"Remove this commented out code.(Ö­Ýè
+7python:S125í"Remove this commented out code.(Ö­Ýè
+qpython:S117¤"YRename this local variable "newFrame" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÊÆç‡
