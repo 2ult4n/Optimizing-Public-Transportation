@@ -3259,3 +3259,6 @@ Y
 -producers/models/schemas/turnstile_value.json,3\9\39bfc527ca05e233d2001de45c8f983602dc2f93
 L
 producers/models/producer.py,2\8\288df32b34b5d0acce106762ec480b360f218f0a
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
