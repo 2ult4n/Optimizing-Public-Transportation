@@ -1,12 +1,0 @@
-
-ipython:S1192""LDefine a constant instead of duplicating this literal 'US/Eastern' 26 times.(Û®øøşÿÿÿÿ
-ipython:S1192ş"QDefine a constant instead of duplicating this literal 'Australia/Sydney' 4 times.(…ÒÄ
-mpython:S1192³"ODefine a constant instead of duplicating this literal 'datetime64[ns]' 4 times.(ëÖ ¯üÿÿÿÿ
-opython:S1192›"QDefine a constant instead of duplicating this literal '2014-07-04 16:00' 5 times.(­ò°Ïûÿÿÿÿ
-ipython:S1192è"KDefine a constant instead of duplicating this literal 'US/Pacific' 4 times.(½²“‰øÿÿÿÿ
-mpython:S1192"TDefine a constant instead of duplicating this literal 'Sun Mon Tue Wed Thu' 4 times.( ‘‡¡
-‘python:S1192”"xDefine a constant instead of duplicating this literal 'a custom frequency string is required when holidays or ' 3 times.(ËÃó¹
-jpython:S1192—"QDefine a constant instead of duplicating this literal '2014-07-04 09:00' 4 times.(³Ú°
-opython:S1192¡"QDefine a constant instead of duplicating this literal '2014-07-07 09:00' 3 times.(Åñ­úúÿÿÿÿ
-wpython:S117½"ZRename this local variable "firstDate" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜—Š‘üÿÿÿÿ
-rpython:S117ù"ZRename this local variable "firstDate" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÜÛÓÇ

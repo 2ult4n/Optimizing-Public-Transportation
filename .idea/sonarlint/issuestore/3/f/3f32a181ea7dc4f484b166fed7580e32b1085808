@@ -1,31 +1,0 @@
-
-fpython:S1192P"IDefine a constant instead of duplicating this literal 'skip me!' 4 times.(™é¬ðýÿÿÿÿ
-xpython:S1186!"[Add a nested comment explaining why this function is empty, or complete the implementation.(”ÕÏ‰üÿÿÿÿ
-spython:S1186("[Add a nested comment explaining why this function is empty, or complete the implementation.(½Ë¯¯
-xpython:S1186,"[Add a nested comment explaining why this function is empty, or complete the implementation.(ºƒ¶äüÿÿÿÿ
-spython:S11860"[Add a nested comment explaining why this function is empty, or complete the implementation.(ö€ñþ
-cpython:S15429"KRename function "f1" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(½Û‚Ò
-Zpython:S112?">Replace this generic exception class with a more specific one.(Ÿ¾¤‡ùÿÿÿÿ
-cpython:S1542D"KRename function "f2" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ïêÇÍ
-Upython:S112L">Replace this generic exception class with a more specific one.(êøŠ–
-cpython:S1542S"KRename function "f1" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(½Û‚Ò
-Zpython:S112Z">Replace this generic exception class with a more specific one.(Ÿ¾¤‡ùÿÿÿÿ
-cpython:S1542_"KRename function "f2" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ïêÇÍ
-Upython:S112h">Replace this generic exception class with a more specific one.(êøŠ–
-=python:S1481p"%Remove the unused local variable "j".(¸è¨‰
-=python:S1481}"%Remove the unused local variable "j".(ÚÁ–¼
-hpython:S1542l"KRename function "g1" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ª‚£æúÿÿÿÿ
-@python:S108q")Either remove or fill this block of code.(ã‘Û¾
-Upython:S112u">Replace this generic exception class with a more specific one.(äÀ¢å
-hpython:S1542x"KRename function "g2" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÊêžÎýÿÿÿÿ
-@python:S108~")Either remove or fill this block of code.(ã‘Û¾
-Vpython:S112€">Replace this generic exception class with a more specific one.(£Øßñ
->python:S1481Ž"%Remove the unused local variable "j".(¸è¨‰
->python:S1481œ"%Remove the unused local variable "j".(ÚÁ–¼
-ipython:S1542‰"KRename function "g1" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ª‚£æúÿÿÿÿ
-Apython:S108")Either remove or fill this block of code.(ã‘Û¾
-Vpython:S112“">Replace this generic exception class with a more specific one.(äÀ¢å
-ipython:S1542–"KRename function "g2" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÊêžÎýÿÿÿÿ
-Apython:S108")Either remove or fill this block of code.(ã‘Û¾
-Vpython:S112Ÿ">Replace this generic exception class with a more specific one.(£Øßñ
-tpython:S1186¥"[Add a nested comment explaining why this function is empty, or complete the implementation.(¤¤¯¹

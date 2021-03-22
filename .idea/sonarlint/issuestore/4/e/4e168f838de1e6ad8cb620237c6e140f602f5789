@@ -1,7 +1,0 @@
-
-kpython:S107"TFunction "scatter_matrix" has 11 parameters, which is greater than the 7 authorized.(‹—¼
-lpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(‹—¼
-hpython:S1542¸"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¥ÂÓÏûÿÿÿÿ
-wpython:S107È"ZFunction "parallel_coordinates" has 12 parameters, which is greater than the 7 authorized.(˜½•íùÿÿÿÿ
-rpython:S3776È"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(˜½•íùÿÿÿÿ
-hpython:S1542î"JRename function "r" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(çÈ¼×üÿÿÿÿ

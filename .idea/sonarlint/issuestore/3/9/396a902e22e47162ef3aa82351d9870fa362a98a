@@ -1,61 +1,0 @@
-
-|python:S1192ü
-"^Define a constant instead of duplicating this literal ".*(empty slice|0 for slice).*" 3 times.(á›Øïşÿÿÿÿ
-‘python:S1192"sDefine a constant instead of duplicating this literal "numpy operations are not valid with window objects" 4 times.(ÒãŞ½üÿÿÿÿ
-hpython:S1542Ü"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-hpython:S1542«"JRename function "a" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(µöæşÿÿÿÿ
-hpython:S1542®"JRename function "b" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(²ƒÜÃûÿÿÿÿ
-Rpython:S905­":Remove or refactor this statement; it has no side effects.(ÒÙØ
-<python:S125ë"Remove this commented out code.(ß‘ûışÿÿÿÿ
-Rpython:S905¨":Remove or refactor this statement; it has no side effects.(ÒÙØ
-<python:S125è"Remove this commented out code.(ß‘ûışÿÿÿÿ
-Rpython:S905‘":Remove or refactor this statement; it has no side effects.(ÒÙØ
-2python:S1700¡"Rename field "dtype"(êş¶»øÿÿÿÿ
-mpython:S101³"URename class "TestDtype_object" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(öÛ¶
-jpython:S101·"RRename class "Dtype_integer" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ƒúÅÊ
-jpython:S101»"SRename class "TestDtype_int8" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(¬Ä÷
-lpython:S101¿"TRename class "TestDtype_int16" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(®È¼‡
-qpython:S101Ã"TRename class "TestDtype_int32" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ˆí‘€ÿÿÿÿÿ
-qpython:S101Ç"TRename class "TestDtype_int64" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(Àï×éùÿÿÿÿ
-ppython:S101Ë"SRename class "Dtype_uinteger" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ˆŒíÍøÿÿÿÿ
-qpython:S101Ï"TRename class "TestDtype_uint8" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(¨«ôëşÿÿÿÿ
-rpython:S101Ó"URename class "TestDtype_uint16" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(’ºÉØıÿÿÿÿ
-mpython:S101×"URename class "TestDtype_uint32" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ÈúÖ¤
-rpython:S101Û"URename class "TestDtype_uint64" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(„ü¡­ûÿÿÿÿ
-mpython:S101ß"PRename class "Dtype_float" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(‚½Ñÿÿÿÿÿ
-npython:S101ã"VRename class "TestDtype_float16" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(¤´’¡
-spython:S101ç"VRename class "TestDtype_float32" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ì‘²›üÿÿÿÿ
-npython:S101ë"VRename class "TestDtype_float64" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(û«‘Ó
-opython:S101ï"WRename class "TestDtype_category" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(’°êª
-upython:S101"XRename class "TestDtype_timedelta" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ã›¸äûÿÿÿÿ
-opython:S101”"WRename class "TestDtype_datetime" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(¸‡àÎ
-tpython:S101˜"\Rename class "TestDtype_datetime64UTC" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(º›«
-cpython:S1542ÿ
-"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åºØÀ
-cpython:S1542°"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åºØÀ
-lpython:S107ğ"UMethod "_check_moment_func" has 9 parameters, which is greater than the 7 authorized.(ğ°
-lpython:S3776ğ"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ğ°
-†python:S4144»"mUpdate this function so that its implementation is not identical to test_expanding_cov_pairwise on line 2739.(Å¶Ò
-upython:S107ğ"]Method "_test_moments_consistency" has 13 parameters, which is greater than the 7 authorized.(®Ûˆì
-mpython:S3776ğ"TRefactor this function to reduce its Cognitive Complexity from 49 to the 15 allowed.(®Ûˆì
-Apython:S5603õ"(Remove this unused function declaration.(Ÿô“Ö
-rpython:S3776ç"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÀÇ—Íşÿÿÿÿ
-jpython:S1764û"LCorrect one of the identical sub-expressions on both sides of operator "==".(ÑÕŞøÿÿÿÿ
-jpython:S1764"LCorrect one of the identical sub-expressions on both sides of operator "==".(ÑÕŞøÿÿÿÿ
-mpython:S3776É"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(áà­
-rpython:S3776”"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(àÍ–…úÿÿÿÿ
-epython:S117ß"MRename this parameter "A" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ÿˆ‹Ñ
-epython:S117ß"MRename this parameter "B" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ÿˆ‹Ñ
-jpython:S1854"QRemove this assignment to local variable 'df1_expected'; the value is never used.(£«ı®
-7python:S125È"Remove this commented out code.(³ÖÅè
-hpython:S1542Å"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-«python:S1515õ"’Add a parameter to the parent lambda function and use variable "f" as its default value; The value of "f" might change at the next loop iteration.(½Ùûc
-¬python:S1515ú"’Add a parameter to the parent lambda function and use variable "f" as its default value; The value of "f" might change at the next loop iteration.(æÍ€ã
-¥python:S1515‰"†Add a parameter to function "func" and use variable "f" as its default value;The value of "f" might change at the next loop iteration.(Ü»¹“ÿÿÿÿÿ
-¥python:S1515"†Add a parameter to function "func" and use variable "f" as its default value;The value of "f" might change at the next loop iteration.(Ïßö†úÿÿÿÿ
-±python:S1515»"’Add a parameter to the parent lambda function and use variable "f" as its default value; The value of "f" might change at the next loop iteration.(ƒâïäÿÿÿÿÿ
-¬python:S1515À"’Add a parameter to the parent lambda function and use variable "f" as its default value; The value of "f" might change at the next loop iteration.(Ö¢‘î
-¥python:S1515Ï"†Add a parameter to function "func" and use variable "f" as its default value;The value of "f" might change at the next loop iteration.(Ã‡°àşÿÿÿÿ
-¥python:S1515Ö"†Add a parameter to function "func" and use variable "f" as its default value;The value of "f" might change at the next loop iteration.(Êè‡êüÿÿÿÿ
-Rpython:S905€":Remove or refactor this statement; it has no side effects.(ÒÙØ
-¦python:S1515«"ŒAdd a parameter to function "agg_by_day" and use variable "f" as its default value;The value of "f" might change at the next loop iteration.(¾ÄÔ

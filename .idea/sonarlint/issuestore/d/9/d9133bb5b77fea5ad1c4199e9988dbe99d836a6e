@@ -1,43 +1,0 @@
-
-ypython:S1192®"[Define a constant instead of duplicating this literal "{0} only contains one item" 3 times.(ó‰›Ôúÿÿÿÿ
-Hpython:S1066Š"/Merge this if statement with the enclosing one.(¨Ûò
-Mpython:S1066µ"/Merge this if statement with the enclosing one.(±‰Úïÿÿÿÿÿ
-Hpython:S1066î"/Merge this if statement with the enclosing one.(£Æö†
-Mpython:S1066×"/Merge this if statement with the enclosing one.(ª¸ÑÍùÿÿÿÿ
-Gpython:S1066é"/Merge this if statement with the enclosing one.(ı¶µF
-Mpython:S1066ˆ	"/Merge this if statement with the enclosing one.(´â¨ÿÿÿÿÿ
-Mpython:S1066«	"/Merge this if statement with the enclosing one.(‚è„¶ùÿÿÿÿ
-rpython:S3776ì"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(åÚÎ¾ÿÿÿÿÿ
-hpython:S1542‘"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(İÂùÿÿÿÿ
-mpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(ƒ˜â
-python:S1871ä"cEither merge this branch with the identical one on line "482" or change one of the implementations.(ßƒÿ¦ûÿÿÿÿ
-hpython:S1542‡"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(İÂùÿÿÿÿ
-Lpython:S5727"3Remove this identity check; it will always be True.(µ·ÙÔ
-mpython:S3776˜"TRefactor this function to reduce its Cognitive Complexity from 44 to the 15 allowed.(ÛÊğ˜
-lpython:S3776¤"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(¼şÑ
-Apython:S108¬")Either remove or fill this block of code.(ã‘Û¾
-mpython:S3776 "TRefactor this function to reduce its Cognitive Complexity from 44 to the 15 allowed.(Ê…ˆ¶
-Apython:S108ƒ")Either remove or fill this block of code.(ã‘Û¾
-rpython:S3776Ÿ"TRefactor this function to reduce its Cognitive Complexity from 41 to the 15 allowed.(ììÓùúÿÿÿÿ
-?python:S1110Ó"!Remove those useless parentheses.(Æ¾¹§ûÿÿÿÿ
-hpython:S1542ï"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(İÂùÿÿÿÿ
-mpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(±áÆ
-fpython:S107Ì"OMethod "interpolate" has 13 parameters, which is greater than the 7 authorized.(Öíªd
-lpython:S3776Ì"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Öíªd
-vpython:S107ş"YMethod "_interpolate_with_fill" has 8 parameters, which is greater than the 7 authorized.(Æ¾ü½ùÿÿÿÿ
-hpython:S107˜	"PMethod "_interpolate" has 12 parameters, which is greater than the 7 authorized.(é¤£€
-`python:S107Š
-"HMethod "where" has 8 parameters, which is greater than the 7 authorized.(ø ‡Œ
-mpython:S3776Š
-"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(ø ‡Œ
-`python:S107Æ"HMethod "where" has 8 parameters, which is greater than the 7 authorized.(ø ‡Œ
-;python:S2638»"Add missing parameters dtype.(şµ æøÿÿÿÿ
-jpython:S1134–"LTake the required action to fix the issue indicated by this "FIXME" comment.(µòĞşÿÿÿÿ
-hpython:S1542í"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(İÂùÿÿÿÿ
-mpython:S3776¹"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(‚Ãä¤
-opython:S107æ"RMethod "_replace_single" has 8 parameters, which is greater than the 7 authorized.(®ôÊ²ÿÿÿÿÿ
-rpython:S3776æ"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(®ôÊ²ÿÿÿÿÿ
-`python:S107»"HMethod "where" has 8 parameters, which is greater than the 7 authorized.(ø ‡Œ
-hpython:S1854Å"JRemove this assignment to local variable 'dtype'; the value is never used.(æÓ–—úÿÿÿÿ
-jpython:S1134Ç"LTake the required action to fix the issue indicated by this "FIXME" comment.(øãœ‡ûÿÿÿÿ
-rpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(—¸¼ùÿÿÿÿ

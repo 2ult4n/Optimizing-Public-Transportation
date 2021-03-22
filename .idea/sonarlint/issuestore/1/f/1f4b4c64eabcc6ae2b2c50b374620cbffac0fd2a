@@ -1,5 +1,0 @@
-
-kpython:S1192"RDefine a constant instead of duplicating this literal 'io.parquet.engine' 6 times.(‹ά¶’
-hpython:S1542/"KRename function "pa" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(άφΐ”όÿÿÿÿ
-hpython:S15426"KRename function "fp" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(δ‘ΐ’ώÿÿÿÿ
-qpython:S107c"UFunction "check_round_trip" has 8 parameters, which is greater than the 7 authorized.(»Χ»³ώÿÿÿÿ

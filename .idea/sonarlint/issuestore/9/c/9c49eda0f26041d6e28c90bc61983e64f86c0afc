@@ -1,13 +1,0 @@
-
-cpython:S1192s"KDefine a constant instead of duplicating this literal 'US/Eastern' 8 times.(›•ˆı
-jpython:S1192ÿ"QDefine a constant instead of duplicating this literal '2000-01-01 09:00' 5 times.(ŞŒ•
-jpython:S1192ÿ"QDefine a constant instead of duplicating this literal '2000-01-01 10:00' 4 times.(ŞŒ•
-hpython:S1192"KDefine a constant instead of duplicating this literal 'Asia/Tokyo' 6 times.(š‰§‚şÿÿÿÿ
-`python:S1192À"GDefine a constant instead of duplicating this literal '1 hour' 5 times.(åÈâ
-ipython:S1192ğ"KDefine a constant instead of duplicating this literal 'US/Pacific' 3 times.(€‹šıÿÿÿÿ
-dpython:S1854"GRemove this assignment to local variable 'i2'; the value is never used.(›¬ËÀùÿÿÿÿ
-dpython:S1854z"GRemove this assignment to local variable 'i2'; the value is never used.(›¬ËÀùÿÿÿÿ
-Dpython:S1481u"'Remove the unused local variable "arr".(˜ÌÚ–ıÿÿÿÿ
-epython:S1854Š"GRemove this assignment to local variable 'i2'; the value is never used.(›¬ËÀùÿÿÿÿ
-7python:S125ğ"Remove this commented out code.(İ†ŠÔ
-7python:S125"Remove this commented out code.(İ†ŠÔ

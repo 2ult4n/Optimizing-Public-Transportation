@@ -1,7 +1,0 @@
-
-gpython:S1542:"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-gpython:S1542?"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-gpython:S1542D"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-Cpython:S5806_"+Rename this variable; it shadows a builtin.(¾¥ÎÖ
-7python:S125½"Remove this commented out code.(áÇƒ§
-<python:S125ü"Remove this commented out code.(Ýß‡úÿÿÿÿ

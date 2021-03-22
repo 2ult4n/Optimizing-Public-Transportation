@@ -1,11 +1,0 @@
-
-Mpython:S1066ê"/Merge this if statement with the enclosing one.(Ù×ŸÌüÿÿÿÿ
-Hpython:S1066Â"/Merge this if statement with the enclosing one.(®»‘È
-hpython:S107¸"KMethod "__new__" has 12 parameters, which is greater than the 7 authorized.(°Õ£¼şÿÿÿÿ
-[python:S112ƒ">Replace this generic exception class with a more specific one.(š›ßÁøÿÿÿÿ
-5python:S2638Ë"Add missing parameters sort.(òÚÊ¯
-5python:S2638º"Add missing parameters sort.(È”Ç
-Epython:S2638Õ"'Add missing parameters use_lhs use_rhs.(¿é™şüÿÿÿÿ
-rpython:S3776ø"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ã¾ÄËùÿÿÿÿ
-|python:S1871š"cEither merge this branch with the identical one on line "664" or change one of the implementations.(ì¯™ 
-|python:S1871×"cEither merge this branch with the identical one on line "723" or change one of the implementations.(³î

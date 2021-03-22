@@ -1,22 +1,0 @@
-
-?python:S2201B"(The return value of "repr" must be used.(Ÿ¿º9
-Fpython:S1481Å"(Remove the unused local variable "item".(“àÖ¸ıÿÿÿÿ
-Fpython:S1481Í"(Remove the unused local variable "item".(¯Šìùÿÿÿÿ
-Fpython:S1481Ô"(Remove the unused local variable "item".(¯Šìùÿÿÿÿ
-Apython:S108¨")Either remove or fill this block of code.(ã‘Û¾
-ppython:S100¬"XRename method "test_combineFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åöÎ
-upython:S100Û"XRename method "test_combinePanel" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¨âˆ½ùÿÿÿÿ
-spython:S117Ã"VRename this local variable "itemA" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚—ªåÿÿÿÿÿ
-rpython:S117È"[Rename this local variable "itemA_view" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ø»ı%
-wpython:S1186ñ"YAdd a nested comment explaining why this method is empty, or complete the implementation.(“ Àùÿÿÿÿ
-Epython:S1481“"'Remove the unused local variable "wp3".(ó¨ÚÇøÿÿÿÿ
-@python:S1481¥"'Remove the unused local variable "wp4".(çğ‘í
-7python:S125Œ"Remove this commented out code.(—è±á
-<python:S125“"Remove this commented out code.(–ò¦¶üÿÿÿÿ
-wpython:S1186Ş"YAdd a nested comment explaining why this method is empty, or complete the implementation.(…ö™ñùÿÿÿÿ
-7python:S125·"Remove this commented out code.(ùïñ…
-Fpython:S2201¯"(The return value of "repr" must be used.(»â½Âøÿÿÿÿ
-7python:S125´"Remove this commented out code.(Åôÿà
-ppython:S100û"XRename method "test_combineFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åöÎ
-dpython:S1854‡"KRemove this assignment to local variable 'result'; the value is never used.(¼ïµƒ
-upython:S100€"XRename method "test_combinePanel" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¨âˆ½ùÿÿÿÿ

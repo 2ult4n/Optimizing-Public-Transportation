@@ -1,8 +1,0 @@
-
-mpython:S1192Ν"ODefine a constant instead of duplicating this literal 'something.test' 3 times.(Α„άψÿÿÿÿ
-‚python:S4144¥"dUpdate this function so that its implementation is not identical to test_path_path_lib on line 2076.( “αÒόÿÿÿÿ
-qpython:S1226κ"SIntroduce a new variable or use its initial value before reassigning 'merge_cells'.(µ‰Υϋÿÿÿÿ
-}python:S100¥"`Rename method "test_ExcelWriter_dispatch" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‘Ψ†Δÿÿÿÿÿ
-python:S100®"gRename method "test_ExcelWriter_dispatch_raises" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ό³΄Ò
-mpython:S3776δ"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(–΄
-Apython:S108Β")Either remove or fill this block of code.(γ‘ΫΎ

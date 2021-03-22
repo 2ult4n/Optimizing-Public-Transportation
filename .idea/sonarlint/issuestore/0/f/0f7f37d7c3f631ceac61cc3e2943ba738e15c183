@@ -1,14 +1,0 @@
-
-apython:S1192€"HDefine a constant instead of duplicating this literal 'sin > 5' 4 times.(® Êµ
-ypython:S1192Œ"[Define a constant instead of duplicating this literal 'dates1 < 20130101 < dates3' 3 times.(‰Ç†™ıÿÿÿÿ
-dpython:S1192"FDefine a constant instead of duplicating this literal 'a + b' 3 times.(¿›şÿÿÿÿÿ
-spython:S1192¦"ZDefine a constant instead of duplicating this literal 'index < 20130101 < dates3' 3 times.(›š”ú
-rpython:S1009"VRename method "test_query_None" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(«¦áşÿÿÿÿÿ
-Epython:S1481k"(Remove the unused local variable "base".(Ûí“Íÿÿÿÿÿ
-wpython:S100‘"_Rename method "test_date_query_with_NaT" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Õ‘ó
-}python:S100«"eRename method "test_date_index_query_with_NaT" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¾ÎÂÂ
-python:S100¸"pRename method "test_date_index_query_with_NaT_duplicates" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(™ĞüÔÿÿÿÿÿ
-Cpython:S1481…"%Remove the unused local variable "c".(œÆºÙÿÿÿÿÿ
->python:S1481—"%Remove the unused local variable "n".(¥èÖ‰
->python:S1481Š"%Remove the unused local variable "x".(ìÈ©©
-Fpython:S1481ó"(Remove the unused local variable "symb".(…Öòûùÿÿÿÿ

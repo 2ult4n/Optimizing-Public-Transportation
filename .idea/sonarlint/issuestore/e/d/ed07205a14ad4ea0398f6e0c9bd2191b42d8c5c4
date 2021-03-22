@@ -1,7 +1,0 @@
-
-Ppython:S905*":Remove or refactor this statement; it has no side effects.(Úìûz
-Vpython:S905,":Remove or refactor this statement; it has no side effects.(”à¨Çÿÿÿÿÿ
-Qpython:S905.":Remove or refactor this statement; it has no side effects.(­ß’
-Qpython:S9050":Remove or refactor this statement; it has no side effects.(ôÆÛº
-7python:S125ø"Remove this commented out code.(Ûáå
-hpython:S1542Ê"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(æ§›øùÿÿÿÿ

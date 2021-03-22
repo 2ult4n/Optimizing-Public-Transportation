@@ -1,7 +1,0 @@
-
-Mpython:S1066²"/Merge this if statement with the enclosing one.(ŠêşÄşÿÿÿÿ
-?python:S1481ı"&Remove the unused local variable "dt".(åîåÆ
-rpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 50 to the 15 allowed.(²ìÈ³ÿÿÿÿÿ
-jpython:S107©"MMethod "_aggregate" has 9 parameters, which is greater than the 7 authorized.(Ô÷‡®şÿÿÿÿ
-jpython:S107º"MMethod "_transform" has 8 parameters, which is greater than the 7 authorized.(İ¸ˆøøÿÿÿÿ
-npython:S1226º"PIntroduce a new variable or use its initial value before reassigning 'comp_ids'.(İ¸ˆøøÿÿÿÿ

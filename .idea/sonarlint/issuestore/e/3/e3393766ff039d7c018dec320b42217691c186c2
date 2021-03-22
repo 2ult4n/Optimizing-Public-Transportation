@@ -1,35 +1,0 @@
-
-ˆpython:S1192Â"oDefine a constant instead of duplicating this literal "other must be a MultiIndex or a list of tuples" 4 times.(Œà 
-python:S1192¸"pDefine a constant instead of duplicating this literal "can only call with other PeriodIndex-ed objects" 4 times.(§¾Ù×ûÿÿÿÿ
-lpython:S1192„"SDefine a constant instead of duplicating this literal "Lengths must match" 4 times.(şÿß°
-Qpython:S905|":Remove or refactor this statement; it has no side effects.(Ì­ü
-Vpython:S905~":Remove or refactor this statement; it has no side effects.(à¯ó›úÿÿÿÿ
-Wpython:S905ƒ":Remove or refactor this statement; it has no side effects.(ÌÇ™®şÿÿÿÿ
-Rpython:S905‡":Remove or refactor this statement; it has no side effects.(‹–é²
-Wpython:S905‰":Remove or refactor this statement; it has no side effects.(Ñ§»øÿÿÿÿ
-Rpython:S905‹":Remove or refactor this statement; it has no side effects.(º‘
-Apython:S108›")Either remove or fill this block of code.(ã‘Û¾
-Fpython:S2201Ù"(The return value of "repr" must be used.(„´Ë¹ûÿÿÿÿ
-Apython:S108¯")Either remove or fill this block of code.(ã‘Û¾
-Apython:S108¼")Either remove or fill this block of code.(ã‘Û¾
-Apython:S108×")Either remove or fill this block of code.(ã‘Û¾
-Apython:S108ê")Either remove or fill this block of code.(ã‘Û¾
-Apython:S108÷")Either remove or fill this block of code.(ã‘Û¾
-Apython:S108Š")Either remove or fill this block of code.(ã‘Û¾
-Apython:S108™")Either remove or fill this block of code.(ã‘Û¾
-Qpython:S905è":Remove or refactor this statement; it has no side effects.(âä—p
-epython:S1764ë"LCorrect one of the identical sub-expressions on both sides of operator "==".(û„›‹
-Rpython:S905ô":Remove or refactor this statement; it has no side effects.(Õ½•î
-Rpython:S905ş":Remove or refactor this statement; it has no side effects.(Æ“Šô
-Wpython:S905…":Remove or refactor this statement; it has no side effects.(âÎ²Îÿÿÿÿÿ
-Rpython:S905‡":Remove or refactor this statement; it has no side effects.(ì–›“
-Wpython:S905‰":Remove or refactor this statement; it has no side effects.(¨×ïÿüÿÿÿÿ
-Wpython:S905Œ":Remove or refactor this statement; it has no side effects.(¶¹í¾úÿÿÿÿ
-Wpython:S905":Remove or refactor this statement; it has no side effects.(ùÃİ†øÿÿÿÿ
-lpython:S3776›"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÖüÃs
-{python:S1871¸"cEither merge this branch with the identical one on line "680" or change one of the implementations.(‘Çö$
-<python:S125´"Remove this commented out code.(äâºÀûÿÿÿÿ
-{python:S1871Ê"cEither merge this branch with the identical one on line "703" or change one of the implementations.(‘Çö$
-7python:S125¾"Remove this commented out code.(Ú¢¯Ş
-Apython:S108Ñ")Either remove or fill this block of code.(ã‘Û¾
-Apython:S108ô")Either remove or fill this block of code.(ã‘Û¾

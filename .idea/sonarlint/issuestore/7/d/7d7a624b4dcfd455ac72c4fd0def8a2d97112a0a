@@ -1,24 +1,0 @@
-
-wpython:S1192¹"YDefine a constant instead of duplicating this literal 'must have the same shape' 5 times.(’Û·úÿÿÿÿÿ
-ppython:S100"TRename method "test_0D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(º…± úÿÿÿÿ
-kpython:S100"TRename method "test_1D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Êæ£–
-kpython:S100"TRename method "test_2D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Œúà¶
-kpython:S100%"TRename method "test_3D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(­¤±
-ppython:S1008"TRename method "test_0D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(º…± úÿÿÿÿ
-kpython:S100?"TRename method "test_1D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Êæ£–
-kpython:S100F"TRename method "test_2D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Œúà¶
-kpython:S100M"TRename method "test_3D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(­¤±
-ppython:S100_"TRename method "test_0D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(º…± úÿÿÿÿ
-kpython:S100f"TRename method "test_1D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Êæ£–
-kpython:S100m"TRename method "test_2D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Œúà¶
-kpython:S100t"TRename method "test_3D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(­¤±
-qpython:S100…"TRename method "test_0D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(º…± úÿÿÿÿ
-lpython:S100Œ"TRename method "test_1D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Êæ£–
-lpython:S100“"TRename method "test_2D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Œúà¶
-qpython:S100¨"TRename method "test_0D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(º…± úÿÿÿÿ
-lpython:S100¯"TRename method "test_1D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Êæ£–
-lpython:S100¶"TRename method "test_2D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Œúà¶
-rpython:S100½"URename method "test_2D_array2" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¶üõ½şÿÿÿÿ
-~python:S100ù"aRename method "test_concatenate_axis_None" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(İâµşûÿÿÿÿ
-python:S100"gRename method "test_large_concatenate_axis_None" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¼Ùºú
-@python:S1481É"'Remove the unused local variable "res".(åÆÇ

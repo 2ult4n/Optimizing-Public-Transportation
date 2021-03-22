@@ -1,7 +1,0 @@
-
-ipython:S1192$"LDefine a constant instead of duplicating this literal 'US/Eastern' 16 times.(•ıÿÿÿÿ
-fpython:S1192y"NDefine a constant instead of duplicating this literal 'Europe/Berlin' 3 times.(£š¦
-ipython:S1192:"LDefine a constant instead of duplicating this literal 'US/Central' 10 times.(Ôµ»ùÿÿÿÿ
-Fpython:S2201ë"(The return value of "repr" must be used.(ÍéÓşÿÿÿÿ
-Wpython:S905¦":Remove or refactor this statement; it has no side effects.(¾µ÷Ãüÿÿÿÿ
-Rpython:S905©":Remove or refactor this statement; it has no side effects.(œÄç

@@ -1,18 +1,0 @@
-
-fpython:S1192º"HDefine a constant instead of duplicating this literal 'linux.*' 4 times.(§Üç‰üÿÿÿÿ
-€python:S1542c"cRename function "CCompiler_find_executables" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¸øŸüÿÿÿÿ
-upython:S1542q"XRename function "CCompiler_spawn" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¨ÏÌªÿÿÿÿÿ
-Dpython:S5806ˆ"+Rename this variable; it shadows a builtin.(àïÜ
-|python:S1542²"cRename function "CCompiler_object_filenames" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‡­•Å
-spython:S1542á"ZRename function "CCompiler_compile" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¹”Ğ†
-npython:S107á"VFunction "CCompiler_compile" has 9 parameters, which is greater than the 7 authorized.(¹”Ğ†
-mpython:S3776á"TRefactor this function to reduce its Cognitive Complexity from 41 to the 15 allowed.(¹”Ğ†
-Ipython:S5806™"+Rename this variable; it shadows a builtin.(ºáÅ—üÿÿÿÿ
-~python:S1542ğ"`Rename function "CCompiler_customize_cmd" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(é†Ñšøÿÿÿÿ
-~python:S1542­"eRename function "CCompiler_show_customization" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Á×ûÆ
-6python:S3626™"Remove this redundant return.(ÙãŞŸ
-zpython:S1542Ê"\Rename function "CCompiler_customize" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(®‚€€şÿÿÿÿ
-rpython:S3776Ê"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(®‚€€şÿÿÿÿ
-|python:S1542Ì"^Rename function "CCompiler_get_version" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÛÅªûşÿÿÿÿ
-rpython:S3776Ì"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÛÅªûşÿÿÿÿ
-}python:S1542‘"_Rename function "CCompiler_cxx_compiler" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(²ìëéúÿÿÿÿ

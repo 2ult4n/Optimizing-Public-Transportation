@@ -1,4 +1,0 @@
-
-lpython:S1854q"ORemove this assignment to local variable 'curr_train'; the value is never used.(¥ó½õÿÿÿÿÿ
-lpython:S1854s"ORemove this assignment to local variable 'curr_train'; the value is never used.(§ðø°ùÿÿÿÿ
-qpython:S3776Q"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(éñ¹Øýÿÿÿÿ

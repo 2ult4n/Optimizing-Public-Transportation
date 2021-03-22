@@ -1,12 +1,0 @@
-
-apython:S1854â"HRemove this assignment to local variable 'res'; the value is never used.(Ÿ•×
-Epython:S1481˜"'Remove the unused local variable "box".(…®âïüÿÿÿÿ
-?python:S1481"'Remove the unused local variable "box".(Ş«â@
-Epython:S1481¤"'Remove the unused local variable "box".(öıèİûÿÿÿÿ
-Epython:S1481³"'Remove the unused local variable "box".(âÄªùşÿÿÿÿ
-?python:S1481¸"'Remove the unused local variable "box".(Ş«â@
-?python:S1481½"'Remove the unused local variable "box".(Ş«â@
-@python:S1481Â"'Remove the unused local variable "box".(€–Šä
-@python:S1481Æ"'Remove the unused local variable "box".(€–Šä
-Epython:S1481Ê"'Remove the unused local variable "box".(âÄªùşÿÿÿÿ
-Epython:S1481Ï"'Remove the unused local variable "box".(Ã¸úÿÿÿÿ

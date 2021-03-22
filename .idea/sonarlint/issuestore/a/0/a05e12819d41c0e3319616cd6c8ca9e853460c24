@@ -1,12 +1,0 @@
-
-`python:S1192ë"GDefine a constant instead of duplicating this literal "\\n.ix" 9 times.(Ü–Ü©
-cpython:S1192©"JDefine a constant instead of duplicating this literal 'array int' 3 times.(Í«ë»
-bpython:S1192"IDefine a constant instead of duplicating this literal 'list int' 3 times.(ÛÒÎÄ
-_python:S1192À"FDefine a constant instead of duplicating this literal '.iloc' 4 times.(¬±¬ª
-Dpython:S2201b"'The return value of "str" must be used.(×Ú¬ûÿÿÿÿ
-7python:S125†"Remove this commented out code.(Ö­İè
-<python:S125’"Remove this commented out code.(¡‰³ıÿÿÿÿ
-Hpython:S1656Û"/Remove or correct this useless self-assignment.(Óä™Ò
-Epython:S2201Ë"'The return value of "str" must be used.(×Ú¬ûÿÿÿÿ
-Epython:S2201Õ"'The return value of "str" must be used.(×Ú¬ûÿÿÿÿ
-Epython:S2201ä"'The return value of "str" must be used.(×Ú¬ûÿÿÿÿ

@@ -1,18 +1,0 @@
-
-|python:S1192ù"^Define a constant instead of duplicating this literal "invalid slicing for a 1-ndim " 3 times.(¶å×þüÿÿÿÿ
-Lpython:S1066D"/Merge this if statement with the enclosing one.(á¥ãÇûÿÿÿÿ
-Hpython:S1066Ô"/Merge this if statement with the enclosing one.(ÿœÁž
-lpython:S37767"TRefactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.(ä¹¡ó
-gpython:S15428"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(©Ò…ùÿÿÿÿ
-mpython:S3776½"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(èîØÓ
-jpython:S1134ñ"LTake the required action to fix the issue indicated by this "FIXME" comment.(õÏŸ‰ÿÿÿÿÿ
-5python:S2638Ð"Add missing parameters deep.(éëªì
-Gpython:S2638×	")Add a default value to parameter periods.(èŽ‰¤øÿÿÿÿ
-Vpython:S112–
-">Replace this generic exception class with a more specific one.(ÁÊ¥„
-rpython:S3776¸"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(òªˆœýÿÿÿÿ
-mpython:S3776Ž"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.( ÚŽ½
-Apython:S108µ")Either remove or fill this block of code.(ã‘Û¾
-Apython:S108È")Either remove or fill this block of code.(ã‘Û¾
-jpython:S2710Ù"QRename "self" to a valid class parameter name or add the missing class parameter.(ŽØÓŸ
-|python:S1871À"dEither merge this branch with the identical one on line "2621" or change one of the implementations.(›ª¨)

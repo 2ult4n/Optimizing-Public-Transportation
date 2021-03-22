@@ -1,10 +1,0 @@
-
-lpython:S3776S"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÎÙäÆ
-qpython:S3776n"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(‰á‚ëùÿÿÿÿ
-ipython:S107â"LMethod "__init__" has 11 parameters, which is greater than the 7 authorized.(ÄÁšÃþÿÿÿÿ
-hpython:S107³"KMethod "prepare" has 11 parameters, which is greater than the 7 authorized.(—„îžùÿÿÿÿ
-rpython:S3776ã"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(…ôÍ³üÿÿÿÿ
-mpython:S3776Ä"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(ÿ…‡¾
-apython:S100µ"IRename method "ok" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Œ×“ó
-rpython:S3776Ù"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÑžÛˆûÿÿÿÿ
-<python:S125‰"Remove this commented out code.(•ØŒ¸ýÿÿÿÿ

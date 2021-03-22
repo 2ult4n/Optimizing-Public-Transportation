@@ -1,43 +1,0 @@
-
-dpython:S1192¸"KDefine a constant instead of duplicating this literal 'US/Eastern' 6 times.(”Ží“
-jpython:S1192ü"QDefine a constant instead of duplicating this literal '2012-04-02 09:00' 4 times.(‡Éº¸
-opython:S1192û"QDefine a constant instead of duplicating this literal '2012-04-01 09:00' 4 times.(á‰Íëùÿÿÿÿ
-hpython:S1192K"KDefine a constant instead of duplicating this literal 'Asia/Tokyo' 7 times.(Ü‹ß”üÿÿÿÿ
-gpython:S1192Ž
-"NDefine a constant instead of duplicating this literal 'Europe/Berlin' 3 times.(À”µª
-lpython:S1192á"TDefine a constant instead of duplicating this literal '2011-07-19 09:00:00' 6 times.(þ¯âb
-ipython:S1192Ð"KDefine a constant instead of duplicating this literal 'US/Pacific' 3 times.(þë®’üÿÿÿÿ
-mpython:S1192à"TDefine a constant instead of duplicating this literal '2011-07-19 08:00:00' 6 times.(ŒË—Î
-mpython:S1192à"TDefine a constant instead of duplicating this literal '2011-07-19 07:00:00' 6 times.(ŒË—Î
-<python:S125ˆ"Remove this commented out code.(¡‰³ýÿÿÿÿ
-7python:S125”"Remove this commented out code.(Ö­Ýè
-rpython:S117Ó"URename this local variable "ymdT" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ãö×Øÿÿÿÿÿ
-Apython:S2201Û"(The return value of "repr" must be used.(ã¿¦Ó
-@python:S2201Ü"(The return value of "repr" must be used.(·¿¸]
-@python:S2201Ý"(The return value of "repr" must be used.(Øž÷)
-@python:S2201Þ"(The return value of "repr" must be used.(Ú¯Ó6
-kpython:S1854"MRemove this assignment to local variable 'expected'; the value is never used.(ÉÜÐÕýÿÿÿÿ
-dpython:S1854Ž"KRemove this assignment to local variable 'result'; the value is never used.(é¨°ß
-7python:S125"Remove this commented out code.(ðÊ¢Ë
-·python:S1515Ù"˜Add a parameter to the parent lambda function and use variable "meth" as its default value; The value of "meth" might change at the next loop iteration.(ÉžÌþÿÿÿÿ
-·python:S1515Ù"˜Add a parameter to the parent lambda function and use variable "ddof" as its default value; The value of "ddof" might change at the next loop iteration.(ÉžÌþÿÿÿÿ
-wpython:S1186û"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ÜœÊ¹ûÿÿÿÿ
-kpython:S1854£	"MRemove this assignment to local variable 'expected'; the value is never used.(ÜÃªàýÿÿÿÿ
-kpython:S1854¢	"MRemove this assignment to local variable 'expected'; the value is never used.(é«³¥ùÿÿÿÿ
-Fpython:S2201¨
-"(The return value of "repr" must be used.(ª¤™¤øÿÿÿÿ
-Fpython:S2201³
-"(The return value of "repr" must be used.(Š¦·¦üÿÿÿÿ
-Fpython:S2201´
-"(The return value of "repr" must be used.(ˆŽÿþøÿÿÿÿ
-Fpython:S2201Û
-"(The return value of "repr" must be used.(ŠÃ‰€ýÿÿÿÿ
-Fpython:S2201å
-"(The return value of "repr" must be used.(ˆŽÿþøÿÿÿÿ
-Fpython:S2201ê
-"(The return value of "repr" must be used.(ˆŽÿþøÿÿÿÿ
-³python:S1515©"”Add a parameter to the parent lambda function and use variable "tz" as its default value; The value of "tz" might change at the next loop iteration.(â§Õâþÿÿÿÿ
-³python:S1515Ã"”Add a parameter to the parent lambda function and use variable "tz" as its default value; The value of "tz" might change at the next loop iteration.(â§Õâþÿÿÿÿ
-®python:S1515×"”Add a parameter to the parent lambda function and use variable "tz" as its default value; The value of "tz" might change at the next loop iteration.(ÍäÀð
-7python:S125ó"Remove this commented out code.(Ö­Ýè
-Cpython:S5806¶"+Rename this variable; it shadows a builtin.(õëÔ

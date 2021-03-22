@@ -1,7 +1,0 @@
-
-Gpython:S1656–"/Remove or correct this useless self-assignment.(¢‰ï
-7python:S125»"Remove this commented out code.(Ý†ŠÔ
-Rpython:S905Ü":Remove or refactor this statement; it has no side effects.(¢äê‹
-Rpython:S905Þ":Remove or refactor this statement; it has no side effects.(÷ôñð
-Wpython:S905à":Remove or refactor this statement; it has no side effects.(°ÒˆÙùÿÿÿÿ
-Wpython:S905â":Remove or refactor this statement; it has no side effects.(ƒ¦”“ùÿÿÿÿ

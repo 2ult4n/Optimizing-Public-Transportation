@@ -1,11 +1,0 @@
-
-xpython:S1192ï"ZDefine a constant instead of duplicating this literal 'slice step cannot be zero' 3 times.(óÈ‚ùıÿÿÿÿ
-Bpython:S1481”")Remove the unused local variable "res_v".(Äù‰î
-Fpython:S1481“"(Remove the unused local variable "df_v".(Ç¶Ñ·øÿÿÿÿ
-@python:S2201"'The return value of "str" must be used.(Ïì…Í
-zpython:S4143‘"\Verify this is the key that was intended; a value has already been saved for it on line 400.(á¤ìşÿÿÿÿ
-upython:S4143¯"\Verify this is the key that was intended; a value has already been saved for it on line 430.(àĞÆï
-zpython:S4143½"\Verify this is the key that was intended; a value has already been saved for it on line 444.(æ¿Åúıÿÿÿÿ
-Mpython:S1656‡"/Remove or correct this useless self-assignment.(­èÜşÿÿÿÿ
-fpython:S1854¿"MRemove this assignment to local variable 'expected'; the value is never used.(ï«›ü
-dpython:S1854¾"KRemove this assignment to local variable 'result'; the value is never used.(äÄôø

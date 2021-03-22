@@ -1,6 +1,0 @@
-
-rpython:S1192Ò."YDefine a constant instead of duplicating this literal 'numpy.core.numerictypes' 75 times.(«ÌÒ
-vpython:S1192“"XDefine a constant instead of duplicating this literal 'numpy.core.multiarray' 132 times.(¡òåªşÿÿÿÿ
-ppython:S1192‡"WDefine a constant instead of duplicating this literal "${ARRAY_FUNCTION_LIKE}" 8 times.(şöÎŒ
-jpython:S1192ƒ!"QDefine a constant instead of duplicating this literal 'numpy.core.umath' 4 times.(´‹€
-ipython:S1192"LDefine a constant instead of duplicating this literal 'numpy.core' 40 times.(£‰ıÿÿÿÿ

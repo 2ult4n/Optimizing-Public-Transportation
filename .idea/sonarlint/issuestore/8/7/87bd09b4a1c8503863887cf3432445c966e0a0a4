@@ -1,26 +1,0 @@
-
-Lpython:S1066E"/Merge this if statement with the enclosing one.(Ğâ÷‚üÿÿÿÿ
-Hpython:S1066Æ"/Merge this if statement with the enclosing one.(Ÿô¬ı
-Mpython:S1066ñ""/Merge this if statement with the enclosing one.(÷üÈòşÿÿÿÿ
-qpython:S1542˜"SRename function "_new_Index" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ºæ½şÿÿÿÿ
-gpython:S107ı"JMethod "__new__" has 8 parameters, which is greater than the 7 authorized.(‡ı£÷øÿÿÿÿ
-spython:S3776ı"URefactor this function to reduce its Cognitive Complexity from 137 to the 15 allowed.(‡ı£÷øÿÿÿÿ
-Apython:S108ü")Either remove or fill this block of code.(ã‘Û¾
-Apython:S108‚")Either remove or fill this block of code.(ã‘Û¾
-<python:S125´"Remove this commented out code.(Ñ•¤ëúÿÿÿÿ
-[python:S112ï">Replace this generic exception class with a more specific one.(š›ßÁøÿÿÿÿ
-=python:S2638Õ"Add missing parameters inplace.(ß˜Ø‘øÿÿÿÿ
-rpython:S3776Î"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ş½Ïúÿÿÿÿ
-mpython:S3776µ"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(‰£ñ˜
-rpython:S3776¢"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(îÇİÖûÿÿÿÿ
-mpython:S3776Ò"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(ôèµ
-rpython:S3776‘"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(“ìÄùÿÿÿÿ
-mpython:S3776 "TRefactor this function to reduce its Cognitive Complexity from 48 to the 15 allowed.(üìœ½
-Apython:S108«")Either remove or fill this block of code.(ã‘Û¾
-rpython:S3776à"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(‘ú¼œúÿÿÿÿ
-rpython:S3776ä"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(òï·úûÿÿÿÿ
-rpython:S3776ö!"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(Ñ¢™îüÿÿÿÿ
-Apython:S108â$")Either remove or fill this block of code.(ã‘Û¾
-Apython:S108ä$")Either remove or fill this block of code.(ã‘Û¾
-mpython:S3776¦%"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Øíˆ
-mpython:S3776Ã'"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(—ò¦™

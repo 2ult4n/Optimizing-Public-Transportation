@@ -1,6 +1,0 @@
-
-bpython:S101"FRename class "A" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ˆŒî—üÿÿÿÿ
-]python:S101"FRename class "B" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(µ‚‹¶
-bpython:S101"FRename class "C" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(É¬”Öúÿÿÿÿ
-\python:S101"FRename class "D" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(‹ÉˆX
-`python:S1854S"HRemove this assignment to local variable 'ret'; the value is never used.(Ê˜¼È

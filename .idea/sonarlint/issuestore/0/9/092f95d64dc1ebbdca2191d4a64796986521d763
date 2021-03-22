@@ -1,21 +1,0 @@
-
-cpython:S1192œ"KDefine a constant instead of duplicating this literal 'US/Eastern' 5 times.(âî¡o
-tpython:S1192“"[Define a constant instead of duplicating this literal '2013-08-05 15:30:00.000001' 4 times.( •±Š
-epython:S1192–"GDefine a constant instead of duplicating this literal 'M8[ns]' 3 times.(øœÖ¬ûÿÿÿÿ
-kpython:S1192"RDefine a constant instead of duplicating this literal '2011-01-01 10:00' 19 times.(†•ƒ
-cpython:S1192œ"KDefine a constant instead of duplicating this literal 'Asia/Tokyo' 4 times.(âî¡o
-jpython:S1192»"QDefine a constant instead of duplicating this literal '2011-01-04 10:00' 8 times.(öŞğÌ
-dpython:S1192"KDefine a constant instead of duplicating this literal 'US/Pacific' 3 times.(ší®à
-kpython:S1192Ÿ"RDefine a constant instead of duplicating this literal '2011-01-03 10:00' 19 times.(Û§Ñ‰
-spython:S1192˜"ZDefine a constant instead of duplicating this literal '2012-11-11 00:00:00+01:00' 6 times.(ôÓÅÔ
-zpython:S1192¤"aDefine a constant instead of duplicating this literal "fill value must be in categories" 3 times.(éÃßÖ
-ppython:S1192¢"RDefine a constant instead of duplicating this literal '2011-01-02 10:00' 23 times.(º˜¹ºúÿÿÿÿ
-jpython:S1764‚"LCorrect one of the identical sub-expressions on both sides of operator "==".(©š¶ÿÿÿÿÿ
-<python:S125‹"Remove this commented out code.(ÙŞ¦Ôıÿÿÿÿ
-dpython:S1854„	"KRemove this assignment to local variable 'result'; the value is never used.(‰ú²ı
-fpython:S1854ƒ	"MRemove this assignment to local variable 'expected'; the value is never used.(Ä»èÂ
-dpython:S1854û"KRemove this assignment to local variable 'result'; the value is never used.(‰ú²ı
-kpython:S1854ú"MRemove this assignment to local variable 'expected'; the value is never used.(«§‰œüÿÿÿÿ
-ipython:S1854î"KRemove this assignment to local variable 'result'; the value is never used.(£»î¶úÿÿÿÿ
-fpython:S1854í"MRemove this assignment to local variable 'expected'; the value is never used.(™øÀ°
-zpython:S100Ø	"]Rename method "test_interp_multiIndex" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ãƒ‚²üÿÿÿÿ

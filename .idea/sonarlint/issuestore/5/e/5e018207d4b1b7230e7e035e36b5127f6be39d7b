@@ -1,8 +1,0 @@
-
-Gpython:S1066â"/Merge this if statement with the enclosing one.(Ò®Ês
-rpython:S3776Ç"TRefactor this function to reduce its Cognitive Complexity from 79 to the 15 allowed.(­ÕŠÄúÿÿÿÿ
-<python:S125Š"Remove this commented out code.(²–Äùýÿÿÿÿ
-rpython:S3776º"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(¼×Öéøÿÿÿÿ
-qpython:S2737Õ"XAdd logic to this except clause or eliminate it and rethrow the exception automatically.(€³¢»
-qpython:S2737å"XAdd logic to this except clause or eliminate it and rethrow the exception automatically.(€³¢»
-bpython:S107ô"JMethod "_reduce" has 8 parameters, which is greater than the 7 authorized.(–èÓé

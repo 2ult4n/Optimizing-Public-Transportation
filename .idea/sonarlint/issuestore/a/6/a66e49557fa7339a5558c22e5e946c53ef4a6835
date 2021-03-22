@@ -1,39 +1,0 @@
-
-Mpython:S1066‹"/Merge this if statement with the enclosing one.(ÇÌ’ûÿÿÿÿ
-Hpython:S1066¡"/Merge this if statement with the enclosing one.(¤Ãæ
-Mpython:S1066Ç"/Merge this if statement with the enclosing one.(ä…¦¦şÿÿÿÿ
-Mpython:S1066ñ"/Merge this if statement with the enclosing one.(ÜÕ¥˜ÿÿÿÿÿ
-Hpython:S1066³"/Merge this if statement with the enclosing one.(¥“…¢
-Mpython:S1066Š"/Merge this if statement with the enclosing one.(ÒŞ°áûÿÿÿÿ
-Mpython:S1066¯"/Merge this if statement with the enclosing one.(ÒèôÊÿÿÿÿÿ
-rpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(°áùÿÿÿÿ
-kpython:S107˜"NFunction "parser_f" has 49 parameters, which is greater than the 7 authorized.(±¬Š¯ûÿÿÿÿ
-rpython:S3776­"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(íÜÉßÿÿÿÿÿ
-mpython:S3776„"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(şÆ…“
-Apython:S108š")Either remove or fill this block of code.(ã‘Û¾
-Apython:S108œ")Either remove or fill this block of code.(ã‘Û¾
-mpython:S3776¼"TRefactor this function to reduce its Cognitive Complexity from 65 to the 15 allowed.(Üòßâ
-<python:S125¨"Remove this commented out code.(ƒ¼™Ìşÿÿÿÿ
-lpython:S3776È
-"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¥á„8
-dpython:S1542"KRename function "ix" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(É¢ó
-rpython:S3776í"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(±š—ñüÿÿÿÿ
-mpython:S3776°"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(şÈÆè
-mpython:S3776¦"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(ªšó
-rpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(£…‹üÿÿÿÿ
-rpython:S3776É"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(©‹Êüÿÿÿÿ
-lpython:S1542µ"SRename function "TextParser" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ØÊ¤½
-rpython:S3776õ"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(æÈ‚’üÿÿÿÿ
-mpython:S3776é"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(ü¹’Û
-rpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(…÷ïŞşÿÿÿÿ
-rpython:S3776‘"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(•ÅÂêûÿÿÿÿ
-spython:S3776¹"URefactor this function to reduce its Cognitive Complexity from 120 to the 15 allowed.(ë¿éßúÿÿÿÿ
-rpython:S3776Û"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(õÏÓûÿÿÿÿ
-rpython:S3776Ï"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(ÿç§²ÿÿÿÿÿ
-rpython:S3776Œ"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ê¤ªñÿÿÿÿÿ
-rpython:S3776Ì"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(õ»óüÿÿÿÿ
-rpython:S3776‹"TRefactor this function to reduce its Cognitive Complexity from 49 to the 15 allowed.(…õé“ùÿÿÿÿ
-Vpython:S112ì">Replace this generic exception class with a more specific one.(øºî
-rpython:S3776û"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(¤Ñ‚æÿÿÿÿÿ
-rpython:S3776Î"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(¹ğÍ•ıÿÿÿÿ
-mpython:S3776ó"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ğõ¾

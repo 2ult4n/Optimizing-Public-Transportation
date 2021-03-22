@@ -1,24 +1,0 @@
-
-epython:S1192á"GDefine a constant instead of duplicating this literal 'm8[ns]' 5 times.(≈„„Ë¸ˇˇˇˇ
-epython:S1192£"GDefine a constant instead of duplicating this literal '1 days' 3 times.(©‡∆Í˝ˇˇˇˇ
-npython:S1192Î"PDefine a constant instead of duplicating this literal 'timedelta64[ns]' 9 times.(Ö—∞á˘ˇˇˇˇ
-ppython:S1192Ü"RDefine a constant instead of duplicating this literal '-1 days, 10:11:12' 3 times.(ˇ˙ÆÄ˙ˇˇˇˇ
-apython:S1192§"HDefine a constant instead of duplicating this literal '-1 days' 7 times.(¶◊≥ã
-Vpython:S905":Remove or refactor this statement; it has no side effects.(ÆÌÏë¯ˇˇˇˇ
-Vpython:S905":Remove or refactor this statement; it has no side effects.(©ˆùÕ¸ˇˇˇˇ
-Vpython:S905,":Remove or refactor this statement; it has no side effects.(úê©¢˚ˇˇˇˇ
-Vpython:S905/":Remove or refactor this statement; it has no side effects.(†Ã˜ì˝ˇˇˇˇ
-Rpython:S905®":Remove or refactor this statement; it has no side effects.(ß€Î˝
-Rpython:S905™":Remove or refactor this statement; it has no side effects.(‹À÷ı
-Wpython:S905¨":Remove or refactor this statement; it has no side effects.(Éâì…˝ˇˇˇˇ
-Rpython:S905Æ":Remove or refactor this statement; it has no side effects.(áﬁ⁄÷
-∑python:S1515¨"òAdd a parameter to the parent lambda function and use variable "freq" as its default value; The value of "freq" might change at the next loop iteration.(«¶¶®˙ˇˇˇˇ
-∑python:S1515›"òAdd a parameter to the parent lambda function and use variable "freq" as its default value; The value of "freq" might change at the next loop iteration.(«¶¶®˙ˇˇˇˇ
-ipython:S1854œ"KRemove this assignment to local variable 'result'; the value is never used.(æ∫©Î˝ˇˇˇˇ
-Wpython:S905Ù":Remove or refactor this statement; it has no side effects.(≠¿…û˙ˇˇˇˇ
-Qpython:S905˜":Remove or refactor this statement; it has no side effects.(ª™óK
-{python:S117£"^Rename this local variable "timedelta_NaT" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÙåÀÑ˝ˇˇˇˇ
-Cpython:S1481¶"%Remove the unused local variable "a".(À˙èÚ˛ˇˇˇˇ
->python:S1481Æ"%Remove the unused local variable "a".(çÓÏ®
-Cpython:S1481ß"%Remove the unused local variable "b".(¯ÀŸÃ¯ˇˇˇˇ
->python:S1481Ø"%Remove the unused local variable "b".(√ßç¨

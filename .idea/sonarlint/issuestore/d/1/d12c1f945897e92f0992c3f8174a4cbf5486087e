@@ -1,4 +1,0 @@
-
-ppython:S1542¨"WRename function "raiseException" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¢˛ØÂ
-dpython:S1542÷"KRename function "P1" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(≥‘è‚
-epython:S101Ó"MRename class "fn_class" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(„≠ßú

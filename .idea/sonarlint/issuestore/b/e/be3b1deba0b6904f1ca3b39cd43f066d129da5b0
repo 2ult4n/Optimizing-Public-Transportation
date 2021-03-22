@@ -1,8 +1,0 @@
-
-dpython:S101"NRename class "build_ext" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(óšœU
-lpython:S3776`"TRefactor this function to reduce its Cognitive Complexity from 93 to the 15 allowed.(¯Œåò
-<python:S125ñ"Remove this commented out code.(òÜõáþÿÿÿÿ
-epython:S1134¸"LTake the required action to fix the issue indicated by this "FIXME" comment.(áÞÛ
-mpython:S3776Ð"TRefactor this function to reduce its Cognitive Complexity from 76 to the 15 allowed.(†›á¾
-rpython:S3776Ø"TRefactor this function to reduce its Cognitive Complexity from 44 to the 15 allowed.(ÑÂ¢ùÿÿÿÿ
-Dpython:S5806"+Rename this variable; it shadows a builtin.(ß…èÌ

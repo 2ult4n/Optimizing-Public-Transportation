@@ -1,6 +1,0 @@
-
-gpython:S1542""JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ò•àÃüÿÿÿÿ
-qpython:S3776,"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Î‹¸æüÿÿÿÿ
-mpython:S3776ß"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(«Ç›Ï
-opython:S107‹"WFunction "_range_from_fields" has 8 parameters, which is greater than the 7 authorized.(èïÌ×
-mpython:S3776‹"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(èïÌ×

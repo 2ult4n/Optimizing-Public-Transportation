@@ -1,5 +1,0 @@
-
-kpython:S1542Š"MRename function "_UTC" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ó‹Âıÿÿÿÿÿ
-ipython:S1542­"KRename function "_p" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ô°Ìûÿÿÿÿ
-rpython:S1542¶"TRename function "FixedOffset" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(²æØÒşÿÿÿÿ
-{python:S5717¶"]Change this default value to "None" and initialize this parameter inside the function/method.(²æØÒşÿÿÿÿ

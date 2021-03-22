@@ -1,15 +1,0 @@
-
-[python:S3827†"BError is not defined. Change its name or define it before using it(ÂÀ«
-lpython:S1542'"URename function "LoadResource" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(°ö|
-<python:S125£"Remove this commented out code.(±†Åşÿÿÿÿÿ
-Npython:S1481‡"5Remove the unused local variable "response_metadata".(õÃô³
-Mpython:S1481æ"4Remove the unused local variable "request_metadata".(¡„˜¿
-cpython:S100á"KRename method "Read" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.( ŞŞ
-Apython:S108é")Either remove or fill this block of code.(Öç§
-ipython:S100ì"QRename method "_ReadFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ŸşÌ
-ipython:S100"QRename method "_ReadInt32" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÀîÓ
-dpython:S100"LRename method "Write" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¨È‹ú
-kpython:S100Ÿ"SRename method "_WriteBuffer" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ò£ş
-wpython:S100£"ZRename method "_WriteUnsignedInt32" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(øéæúÿÿÿÿ
-spython:S1542‹"ZRename function "_MakeHandlerClass" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(äÖº¿
-[python:S112º">Replace this generic exception class with a more specific one.(‘–´éûÿÿÿÿ

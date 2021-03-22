@@ -1,20 +1,0 @@
-
-cpython:S1192="KDefine a constant instead of duplicating this literal 'US/Eastern' 7 times.(áÅ¯•
-hpython:S1192Ì"JDefine a constant instead of duplicating this literal 'same name' 3 times.(Ø¡şËıÿÿÿÿ
-epython:S1192Ï"GDefine a constant instead of duplicating this literal 'M8[ns]' 3 times.(±œêıÿÿÿÿ
-dpython:S1192B"GDefine a constant instead of duplicating this literal '2 days' 6 times.(ÁĞê¢ùÿÿÿÿ
-_python:S1192A"GDefine a constant instead of duplicating this literal '1 days' 6 times.(ôØ¼º
-xpython:S1192O"[Define a constant instead of duplicating this literal 'datetime64[ns, US/Eastern]' 5 times.(ÙÏ½†üÿÿÿÿ
-hpython:S1192P"PDefine a constant instead of duplicating this literal 'timedelta64[ns]' 3 times.(¼ôô®
-lpython:S1192Œ"NDefine a constant instead of duplicating this literal 'Europe/London' 6 times.(Ï¡Îúÿÿÿÿ
-wpython:S1192’"^Define a constant instead of duplicating this literal 'datetime64[ns, Europe/London]' 3 times.(ˆìùÆ
-dpython:S1192ú"KDefine a constant instead of duplicating this literal 'US/Pacific' 6 times.(ÔÚÊ“
-mpython:S3776Ö"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ŒÁøà
-|python:S1871æ"cEither merge this branch with the identical one on line "227" or change one of the implementations.(À–¬ˆ
-fpython:S1854‚"HRemove this assignment to local variable 'res'; the value is never used.( Üù¿şÿÿÿÿ
-fpython:S1854º"HRemove this assignment to local variable 'df2'; the value is never used.(õ«ßñøÿÿÿÿ
-epython:S1854¹"GRemove this assignment to local variable 'df'; the value is never used.(İ¨Øåÿÿÿÿÿ
-<python:S125¼"Remove this commented out code.(¡‰³ıÿÿÿÿ
-7python:S125Î"Remove this commented out code.(Ö­İè
-ipython:S1542¯"KRename function "df" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(§Æ¿Éùÿÿÿÿ
-=python:S1481À"%Remove the unused local variable "i".(é¨e

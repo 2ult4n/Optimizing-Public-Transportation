@@ -1,11 +1,0 @@
-
-Hpython:S1066Ÿ"/Merge this if statement with the enclosing one.(‚³İ
-Mpython:S1066ª"/Merge this if statement with the enclosing one.(Îúêúÿÿÿÿ
-bpython:S3827×"Dkeyword is not defined. Change its name or define it before using it(…á„¿üÿÿÿÿ
-hpython:S1542Ô"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(°ı‰åÿÿÿÿÿ
-hpython:S1542õ"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ï¼¡¤ûÿÿÿÿ
-bpython:S1542†"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÂÌüG
-rpython:S3776¨"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(¤»öÚøÿÿÿÿ
-qpython:S2737¹"XAdd logic to this except clause or eliminate it and rethrow the exception automatically.(€³¢»
-mpython:S3776Û"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(¦çÃ
-qpython:S2737ë"XAdd logic to this except clause or eliminate it and rethrow the exception automatically.(€³¢»

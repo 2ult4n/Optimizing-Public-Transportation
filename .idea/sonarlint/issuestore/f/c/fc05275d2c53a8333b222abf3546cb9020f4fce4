@@ -1,9 +1,0 @@
-
-^python:S1192›"FDefine a constant instead of duplicating this literal 'd.dep' 6 times.(Ö“åP
-epython:S1192Â"GDefine a constant instead of duplicating this literal 'base.b' 3 times.(±Ú÷§øÿÿÿÿ
-`python:S1192Á"GDefine a constant instead of duplicating this literal 'base.a' 3 times.(íÔÏÉ
-{python:S100æ"^Rename method "test_set_ContextManager" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ïû•ùÿÿÿÿ
-ipython:S1542ç"KRename function "eq" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ØÂÔåûÿÿÿÿ
-hpython:S1542ù"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-dpython:S1542ü"KRename function "f2" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¬÷ˆÅ
-ipython:S1542ÿ"KRename function "f3" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(õÇÛÍûÿÿÿÿ

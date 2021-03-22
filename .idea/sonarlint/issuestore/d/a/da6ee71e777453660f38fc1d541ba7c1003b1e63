@@ -1,8 +1,0 @@
-
-Cpython:S1481ù"%Remove the unused local variable "i".(ËŒºÙýÿÿÿÿ
-kpython:S100ñ"NRename method "setSeed" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Õ¤ˆÔúÿÿÿÿ
-mpython:S116Ö"PRename this field "tgtShape" to match the regular expression ^[_a-z][_a-z0-9]*$.(÷èº»øÿÿÿÿ
-mpython:S116Õ"PRename this field "argThree" to match the regular expression ^[_a-z][_a-z0-9]*$.(¡Ñ…Ìüÿÿÿÿ
-fpython:S116Ô"NRename this field "argTwo" to match the regular expression ^[_a-z][_a-z0-9]*$.(ï€ðæ
-kpython:S116Ó"NRename this field "argOne" to match the regular expression ^[_a-z][_a-z0-9]*$.(ˆÜ¶¢üÿÿÿÿ
-opython:S117ø"WRename this local variable "argTwo" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÕÇðÍ

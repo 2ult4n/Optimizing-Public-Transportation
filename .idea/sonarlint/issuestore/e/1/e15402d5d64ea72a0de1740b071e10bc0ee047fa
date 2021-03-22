@@ -1,5 +1,0 @@
-
-fpython:S1192D"IDefine a constant instead of duplicating this literal '15 hours' 3 times.(žö«¡ùÿÿÿÿ
-wpython:S1192P"ZDefine a constant instead of duplicating this literal 'slice step cannot be zero' 3 times.(óÈ‚ùýÿÿÿÿ
-gpython:S1192"ODefine a constant instead of duplicating this literal '1 day 10:11:12' 3 times.(ÒŠ„È
-`python:S1192?"HDefine a constant instead of duplicating this literal '7 hours' 5 times.(í·ì”

@@ -1,10 +1,0 @@
-
-cpython:S1854y"KRemove this assignment to local variable 'p_orig'; the value is never used.(™°½–
-hpython:S1542à"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-hpython:S1542ç"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-hpython:S1542î"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-hpython:S1542ø"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-hpython:S1542ÿ"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-hpython:S1542†"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-@python:S2201Ÿ"'The return value of "str" must be used.(Ïì…Í
-@python:S2201¥"'The return value of "str" must be used.(Ïì…Í

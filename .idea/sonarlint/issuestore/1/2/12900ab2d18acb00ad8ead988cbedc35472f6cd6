@@ -1,27 +1,0 @@
-
-rpython:S1192ù"TDefine a constant instead of duplicating this literal 'a,b,c\n1,2,3\n4,5,6' 3 times.(Æ¢»Ûıÿÿÿÿ
-cpython:S1192İ	"JDefine a constant instead of duplicating this literal '{other}%s' 3 times.(Ä¿¥˜
-°python:S1515ó"–Add a parameter to the parent lambda function and use variable "ind" as its default value; The value of "ind" might change at the next loop iteration.(ğ¸–„
-rpython:S117‡"ZRename this local variable "boolIndex" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘ŸêÒ
-vpython:S117Š"YRename this local variable "subIndex" to match the regular expression ^[_a-z][a-z0-9_]*$.(’ÿğæşÿÿÿÿ
-7python:S125´"Remove this commented out code.(Çëœ
-<python:S125¹"Remove this commented out code.(Şâœàÿÿÿÿÿ
-7python:S125Â"Remove this commented out code.(Çëœ
-7python:S125Ò"Remove this commented out code.(Ê¿öê
-<python:S125×"Remove this commented out code.(Şâœàÿÿÿÿÿ
-qpython:S117™"YRename this local variable "firstCat" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢‹ü
-rpython:S117š"ZRename this local variable "secondCat" to match the regular expression ^[_a-z][a-z0-9_]*$.(İú¼
-}python:S1871î"dEither merge this branch with the identical one on line "1003" or change one of the implementations.(À–¬ˆ
-Rpython:S905¾":Remove or refactor this statement; it has no side effects.(”ÈûÉ
-Rpython:S905Ç":Remove or refactor this statement; it has no side effects.(”ÈûÉ
-<python:S125ù"Remove this commented out code.(Şâœàÿÿÿÿÿ
-7python:S125õ"Remove this commented out code.(Åôÿà
-}python:S1871ğ"dEither merge this branch with the identical one on line "1772" or change one of the implementations.(®ÛâÅ
-7python:S125¯"Remove this commented out code.(İ†ŠÔ
-jpython:S1764"LCorrect one of the identical sub-expressions on both sides of operator "==".(Ø”…¥øÿÿÿÿ
-Wpython:S905Œ":Remove or refactor this statement; it has no side effects.(¬©ã‡ıÿÿÿÿ
-dpython:S1854ã"KRemove this assignment to local variable 'result'; the value is never used.(ã¸äÉ
-dpython:S1854æ"KRemove this assignment to local variable 'result'; the value is never used.(ã¸äÉ
-dpython:S1854ğ"KRemove this assignment to local variable 'result'; the value is never used.(¾ÛÖş
-dpython:S1854ó"KRemove this assignment to local variable 'result'; the value is never used.(¾ÛÖş
-Fpython:S2201Á"(The return value of "repr" must be used.(Éá€³ûÿÿÿÿ

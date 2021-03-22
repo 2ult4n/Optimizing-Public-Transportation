@@ -1,13 +1,0 @@
-
-ipython:S1192w"LDefine a constant instead of duplicating this literal 'label range' 6 times.(êø“Ãÿÿÿÿÿ
-bpython:S1192^"JDefine a constant instead of duplicating this literal 'int label' 4 times.(¤Œ¢Ø
-epython:S1192É"LDefine a constant instead of duplicating this literal 'mixed slice' 4 times.(ô®¨š
-hpython:S1192®"JDefine a constant instead of duplicating this literal 'lab slice' 4 times.(ô€øƒøÿÿÿÿ
-hpython:S1192ˆ"JDefine a constant instead of duplicating this literal 'list lbl' 15 times.(ê…ÙÉşÿÿÿÿ
-dpython:S1192Ê"KDefine a constant instead of duplicating this literal 'array like' 3 times.(áå‡Ø
-cpython:S1192»"JDefine a constant instead of duplicating this literal 'ts  slice' 3 times.(ÒÊÈÇ
-dpython:S1192İ"KDefine a constant instead of duplicating this literal 'int slice2' 3 times.(Ş£®š
-hpython:S1542‡"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-hpython:S1542"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-hpython:S1542•"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-ipython:S1854É"KRemove this assignment to local variable 'result'; the value is never used.(îİ¤Æúÿÿÿÿ

@@ -1,4 +1,0 @@
-
-fpython:S1192+"IDefine a constant instead of duplicating this literal '%Y-%m-%d' 4 times.(Ўькшџџџџџ
-upython:S117E"YRename this local variable "USFedCal" to match the regular expression ^[_a-z][a-z0-9_]*$.(рдїЮўџџџџ
-upython:S117Q"YRename this local variable "USFedCal" to match the regular expression ^[_a-z][a-z0-9_]*$.(рдїЮўџџџџ

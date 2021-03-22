@@ -1,17 +1,0 @@
-
-mpython:S1192Œ"TDefine a constant instead of duplicating this literal '2013-01-01 00:00:00' 3 times.(ù™ÿ
-dpython:S1192X"LDefine a constant instead of duplicating this literal 'US/Eastern' 15 times.(Çı›Ÿ
-lpython:S1192]"ODefine a constant instead of duplicating this literal 'datetime64[ns]' 6 times.(÷–Ìşÿÿÿÿ
-rpython:S1192"TDefine a constant instead of duplicating this literal '2013-01-03 00:00:00' 3 times.(Æ½Şüıÿÿÿÿ
-npython:S1192Æ"PDefine a constant instead of duplicating this literal 'timedelta64[ns]' 4 times.(´Ş“Ëÿÿÿÿÿ
-rpython:S1192’"YDefine a constant instead of duplicating this literal '2013-01-03 00:00:00-0500' 3 times.(¨ı¾ä
-_python:S1192"FDefine a constant instead of duplicating this literal '1 day' 5 times.(·×Ë
-wpython:S1192"YDefine a constant instead of duplicating this literal '2013-01-01 00:00:00-0500' 3 times.(¡¸Úµøÿÿÿÿ
-wpython:S1192”"YDefine a constant instead of duplicating this literal '2013-01-01 00:00:00+0100' 3 times.(ª„Ñåüÿÿÿÿ
-wpython:S1192–"YDefine a constant instead of duplicating this literal '2013-01-03 00:00:00+0100' 3 times.(îÒ¤ûÿÿÿÿ
-mpython:S1192"TDefine a constant instead of duplicating this literal '2013-01-02 00:00:00' 3 times.(öÑÆ†
-Hpython:S1481ğ"*Remove the unused local variable "casted".(‹“ù•ıÿÿÿÿ
-Cpython:S1481ò"*Remove the unused local variable "casted".(ŞÅ¬Å
-Cpython:S1481ö"*Remove the unused local variable "casted".(ÉŒôå
-Hpython:S1481ú"*Remove the unused local variable "casted".(ÇŒıáüÿÿÿÿ
-dpython:S1854ê"KRemove this assignment to local variable 'result'; the value is never used.(ı£ÚÅ
