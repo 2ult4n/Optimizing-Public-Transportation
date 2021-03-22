@@ -1,5 +1,0 @@
-
-fpython:S101"ORename class "build_clib" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(σΨθ
-lpython:S3776W"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(―ες
-mpython:S3776·"TRefactor this function to reduce its Cognitive Complexity from 74 to the 15 allowed.(όΖϋΙ
-Apython:S108‚")Either remove or fill this block of code.(γ‘ΫΎ

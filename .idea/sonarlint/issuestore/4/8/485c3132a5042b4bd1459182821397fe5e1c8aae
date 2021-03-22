@@ -1,10 +1,0 @@
-
-wpython:S1542"_Rename function "ToParsingCanonicalForm" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(çÁò
-tpython:S1542+"\Rename function "_BuildCanonicalForm" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÜÉŒ
-lpython:S3776+"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(ÜÉŒ
-qpython:S1542"TRename function "Fingerprint" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Û¶ñ”şÿÿÿÿ
-{python:S1542­"bRename function "FingerprintAlgorithmNames" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Å×ëÿ
-vpython:S1542Á"^Rename function "_Crc64AvroFingerprint" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÕÖ§
-
-wpython:S1542Ø"YRename function "_PopulateFpTable" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(­Ï»ûÿÿÿÿ
->python:S1481İ"%Remove the unused local variable "j".(Ãî

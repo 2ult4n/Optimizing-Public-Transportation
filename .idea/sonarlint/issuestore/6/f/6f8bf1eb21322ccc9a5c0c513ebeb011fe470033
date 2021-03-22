@@ -1,16 +1,0 @@
-
-ipython:S1192™"QDefine a constant instead of duplicating this literal '%H:%M\n%d-%b\n%Y' 3 times.(ÂÕã
-
-dpython:S1192ß"KDefine a constant instead of duplicating this literal '%d\n%b\n%Y' 3 times.(Äî˜­
-`python:S1192ƒ"GDefine a constant instead of duplicating this literal '%b\n%Y' 8 times.(èŸ“á
-ipython:S1192ó"KDefine a constant instead of duplicating this literal '\n\n%b\n%Y' 3 times.(áŞòõùÿÿÿÿ
-rpython:S3776«"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(©€ÿÿÿÿÿ
-<python:S125¯"Remove this commented out code.(ÇÂÔúÿÿÿÿ
-7python:S125ë"Remove this commented out code.(¹Ó¦Ô
-<python:S125ñ"Remove this commented out code.(ÇÂÔúÿÿÿÿ
-mpython:S3776Ğ"TRefactor this function to reduce its Cognitive Complexity from 65 to the 15 allowed.(°Ó‹
-xpython:S101Ì"[Rename class "TimeSeries_DateLocator" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ÃËèÁüÿÿÿÿ
-hpython:S107Ş"KMethod "__init__" has 9 parameters, which is greater than the 7 authorized.(ß¹­èúÿÿÿÿ
-upython:S101 "]Rename class "TimeSeries_DateFormatter" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ÈÉÜº
-Ipython:S5806Å"+Rename this variable; it shadows a builtin.(Ø±Õİşÿÿÿÿ
-python:S101æ"bRename class "TimeSeries_TimedeltaFormatter" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ÂÍ³Êúÿÿÿÿ

@@ -1,19 +1,0 @@
-
-Mpython:S1066ø"/Merge this if statement with the enclosing one.(Ù×ŸÌüÿÿÿÿ
-Hpython:S1066€
-"/Merge this if statement with the enclosing one.(®»‘È
-spython:S1542("[Rename function "_new_DatetimeIndex" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÉêÊ»
-cpython:S107‰"KMethod "__new__" has 16 parameters, which is greater than the 7 authorized.(–‡ŸÕ
-[python:S112¥">Replace this generic exception class with a more specific one.(š›ßÁøÿÿÿÿ
-5python:S2638Ï"Add missing parameters sort.(òÚÊ¯
-mpython:S3776Õ"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(‰£ñ˜
-lpython:S3776î"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Šù?
-?python:S1110…"!Remove those useless parentheses.(Ü˜‡ıÿÿÿÿ
-lpython:S3776Î"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ìƒ¸i
-mpython:S3776¸"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(Åú½À
-rpython:S3776¹	"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ã¾ÄËùÿÿÿÿ
-}python:S1871Ù	"dEither merge this branch with the identical one on line "1239" or change one of the implementations.(ì¯™ 
-fpython:S107ã
-"OFunction "date_range" has 9 parameters, which is greater than the 7 authorized.(œâ˜
-ipython:S107ù"QFunction "bdate_range" has 11 parameters, which is greater than the 7 authorized.(‚Ü¯à
-hpython:S107Ñ"PFunction "cdate_range" has 9 parameters, which is greater than the 7 authorized.(æ‡±

@@ -1,49 +1,0 @@
-
-epython:S1192Û"LDefine a constant instead of duplicating this literal 'US/Eastern' 11 times.(¬—ğÀ
-`python:S1192ú"GDefine a constant instead of duplicating this literal 'M8[ns]' 5 times.(öÃËÆ
-epython:S1192¸"GDefine a constant instead of duplicating this literal '1 days' 5 times.( œğüÿÿÿÿ
-ypython:S1192å"[Define a constant instead of duplicating this literal 'datetime64[ns, US/Eastern]' 3 times.(‰Ş¡ÿúÿÿÿÿ
-npython:S1192É"PDefine a constant instead of duplicating this literal 'timedelta64[ns]' 7 times.(·Ü™·øÿÿÿÿ
-rpython:S1192ä"TDefine a constant instead of duplicating this literal '2016-01-01 00:00:00' 3 times.(×õŞ ûÿÿÿÿ
-dpython:S1192£"FDefine a constant instead of duplicating this literal '1 day' 8 times.(ĞÒ€Õşÿÿÿÿ
-dpython:S1192¦"FDefine a constant instead of duplicating this literal '2 min' 6 times.(×†¾¤ıÿÿÿÿ
-Epython:S1481¶"'Remove the unused local variable "ids".(Ñöºıÿÿÿÿ
-Epython:S1481Á"'Remove the unused local variable "ids".(ÆñéËùÿÿÿÿ
-Cpython:S1481ä"%Remove the unused local variable "i".(ğ‹ƒÏøÿÿÿÿ
-epython:S1764µ"LCorrect one of the identical sub-expressions on both sides of operator "!=".(”şÚÇ
-epython:S1764¶"LCorrect one of the identical sub-expressions on both sides of operator "!=".(¾ä
-epython:S1764Ã"LCorrect one of the identical sub-expressions on both sides of operator "!=".(”şÚÇ
-epython:S1764Ä"LCorrect one of the identical sub-expressions on both sides of operator "!=".(¾ä
-kpython:S117²"SRename this local variable "Sd" to match the regular expression ^[_a-z][a-z0-9_]*$.(§˜û
-ppython:S117³"SRename this local variable "St" to match the regular expression ^[_a-z][a-z0-9_]*$.(šê·µûÿÿÿÿ
-Rpython:S5722Ë"9Add 1 parameters. Method __eq__ should have 2 parameters.(Á¸Ü§
-epython:S1764"LCorrect one of the identical sub-expressions on both sides of operator "!=".(”şÚÇ
-epython:S1764"LCorrect one of the identical sub-expressions on both sides of operator "!=".(¾ä
-6python:S125§"Remove this commented out code.(¼òa
-epython:S1764
-"LCorrect one of the identical sub-expressions on both sides of operator "!=".(”şÚÇ
-epython:S1764
-"LCorrect one of the identical sub-expressions on both sides of operator "!=".(¾ä
-Epython:S1481š"'Remove the unused local variable "tbl".(´¼±ÿÿÿÿÿ
-tpython:S100†"WRename method "test_combineFunc" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ŸÊ†×øÿÿÿÿ
-wpython:S1186†"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ŸÊ†×øÿÿÿÿ
-rpython:S1186‰"YAdd a nested comment explaining why this method is empty, or complete the implementation.(¾Ğ¯¿
-wpython:S1186Œ"YAdd a nested comment explaining why this method is empty, or complete the implementation.(Éú‘àÿÿÿÿÿ
-wpython:S1186"YAdd a nested comment explaining why this method is empty, or complete the implementation.(Ã´¶øşÿÿÿÿ
-wpython:S1186’"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ÁÒñ×ùÿÿÿÿ
-lpython:S117ö"TRename this local variable "Inf" to match the regular expression ^[_a-z][a-z0-9_]*$.(á Š
-tpython:S117÷"WRename this local variable "NegInf" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŸŠ²¨şÿÿÿÿ
-jpython:S1764ı"LCorrect one of the identical sub-expressions on both sides of operator ">=".(îŸ…•øÿÿÿÿ
-jpython:S1764ı"LCorrect one of the identical sub-expressions on both sides of operator "==".(îŸ…•øÿÿÿÿ
-ipython:S1764ş"KCorrect one of the identical sub-expressions on both sides of operator "<".(“¿º™úÿÿÿÿ
-ipython:S1764ş"KCorrect one of the identical sub-expressions on both sides of operator ">".(“¿º™úÿÿÿÿ
-epython:S1764ÿ"LCorrect one of the identical sub-expressions on both sides of operator "==".(’’û
-jpython:S1764€"LCorrect one of the identical sub-expressions on both sides of operator "!=".(éí¶†şÿÿÿÿ
-epython:S1764„"LCorrect one of the identical sub-expressions on both sides of operator "<=".(Ş¼¢‰
-epython:S1764„"LCorrect one of the identical sub-expressions on both sides of operator "==".(Ş¼¢‰
-dpython:S1764…"KCorrect one of the identical sub-expressions on both sides of operator "<".(ËÙ°
-dpython:S1764…"KCorrect one of the identical sub-expressions on both sides of operator ">".(ËÙ°
-epython:S1764†"LCorrect one of the identical sub-expressions on both sides of operator "==".(ÅÖ˜ğ
-epython:S1764‡"LCorrect one of the identical sub-expressions on both sides of operator "!=".(â²Ó¯
-lpython:S117’"TRename this local variable "Inf" to match the regular expression ^[_a-z][a-z0-9_]*$.(á Š
-tpython:S117“"WRename this local variable "NegInf" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŸŠ²¨şÿÿÿÿ

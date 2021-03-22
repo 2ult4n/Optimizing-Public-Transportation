@@ -1,62 +1,0 @@
-
-Mpython:S1066"/Merge this if statement with the enclosing one.(ı™Ñÿÿÿÿÿ
-Mpython:S1066¤"/Merge this if statement with the enclosing one.(ğÎäÙúÿÿÿÿ
-Mpython:S1066½("/Merge this if statement with the enclosing one.(À’æğıÿÿÿÿ
-Hpython:S1066‚9"/Merge this if statement with the enclosing one.(¹ËÎ“
-Mpython:S1066š@"/Merge this if statement with the enclosing one.(­àÜÿÿÿÿÿ
-Mpython:S1066ûA"/Merge this if statement with the enclosing one.(¢§Øüÿÿÿÿ
-Mpython:S1066€B"/Merge this if statement with the enclosing one.(´äÎÕúÿÿÿÿ
-Hpython:S1066˜B"/Merge this if statement with the enclosing one.(ÛŠ–ÿ
-Hpython:S1066™B"/Merge this if statement with the enclosing one.(×üÎá
-Mpython:S1066äB"/Merge this if statement with the enclosing one.(€¨„Äüÿÿÿÿ
-Hpython:S1066åB"/Merge this if statement with the enclosing one.(ÛŠ–ÿ
-Hpython:S1066æB"/Merge this if statement with the enclosing one.(×üÎá
-Mpython:S1066ÜG"/Merge this if statement with the enclosing one.(Ş…üüÿÿÿÿ
-gpython:S107Ü"OMethod "_setup_axes" has 10 parameters, which is greater than the 7 authorized.(í¥—Ğ
-rpython:S3776©"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(˜§“ñúÿÿÿÿ
-rpython:S3776Í"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ç³¤ñşÿÿÿÿ
-rpython:S3776Á"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(»™ëïıÿÿÿÿ
-mpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(­İÅ˜
-ipython:S107¿"LMethod "to_excel" has 17 parameters, which is greater than the 7 authorized.(¿Š–Éıÿÿÿÿ
-hpython:S107Ñ"KMethod "to_json" has 11 parameters, which is greater than the 7 authorized.(¶…Ôûÿÿÿÿ
-bpython:S107à"JMethod "to_sql" has 10 parameters, which is greater than the 7 authorized.(Å˜ã×
-dpython:S107½"LMethod "to_latex" has 20 parameters, which is greater than the 7 authorized.(÷ÿûè
-gpython:S107Â"JMethod "to_csv" has 21 parameters, which is greater than the 7 authorized.(ıı‘µûÿÿÿÿ
-mpython:S3776…"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ê‚ 
-mpython:S3776…"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(•…­İ
-_python:S107¯"GMethod "drop" has 8 parameters, which is greater than the 7 authorized.(ØêŞ
-mpython:S3776Ë"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(ñòÔè
-jpython:S107â"MMethod "sort_index" has 8 parameters, which is greater than the 7 authorized.(è¶Ùûÿÿÿÿ
-gpython:S107†""PMethod "_reindex_axes" has 8 parameters, which is greater than the 7 authorized.(àè¶e
-gpython:S107æ""OMethod "reindex_axis" has 8 parameters, which is greater than the 7 authorized.(‚ôÅâ
-cpython:S1542Ü#"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åºØÀ
-cpython:S1542á#"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åºØÀ
-lpython:S3776á$"TRefactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.(ÚÛÅR
-hpython:S1542("JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-Wpython:S3516¹("9Refactor this method to not always return the same value.(àÖé”ûÿÿÿÿ
-mpython:S3776Í+"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(ŞÃ‘ò
-mpython:S3776¼."TRefactor this function to reduce its Cognitive Complexity from 45 to the 15 allowed.(Çí¤ö
-Apython:S108Ğ/")Either remove or fill this block of code.(ã‘Û¾
-mpython:S3776¨2"TRefactor this function to reduce its Cognitive Complexity from 97 to the 15 allowed.(‹¥Ö
-kpython:S107ü4"NMethod "interpolate" has 9 parameters, which is greater than the 7 authorized.(Ö²Ôûÿÿÿÿ
-rpython:S3776ü4"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ö²Ôûÿÿÿÿ
-mpython:S3776Â5"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(Û›ÒÒ
-rpython:S3776£8"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(¾­üøÿÿÿÿ
-hpython:S107Ú:"KMethod "groupby" has 10 parameters, which is greater than the 7 authorized.(ÕÛ­•ıÿÿÿÿ
-ipython:S107¶="LMethod "resample" has 14 parameters, which is greater than the 7 authorized.(ÕóüŞûÿÿÿÿ
-fpython:S107ÅA"IMethod "align" has 11 parameters, which is greater than the 7 authorized.(€‰òÈÿÿÿÿÿ
-mpython:S107ğA"PMethod "_align_frame" has 10 parameters, which is greater than the 7 authorized.(†•èµûÿÿÿÿ
-rpython:S3776ğA"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(†•èµûÿÿÿÿ
-npython:S107ŸB"QMethod "_align_series" has 10 parameters, which is greater than the 7 authorized.(Í¦Óöøÿÿÿÿ
-rpython:S3776ŸB"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(Í¦Óöøÿÿÿÿ
-fpython:S107ìB"IMethod "_where" has 8 parameters, which is greater than the 7 authorized.(ÑŸµşÿÿÿÿ
-rpython:S3776ìB"TRefactor this function to reduce its Cognitive Complexity from 60 to the 15 allowed.(ÑŸµşÿÿÿÿ
-epython:S107òD"HMethod "where" has 9 parameters, which is greater than the 7 authorized.(ÈªŸüÿÿÿÿ
-_python:S107‡E"GMethod "mask" has 9 parameters, which is greater than the 7 authorized.(şÀŸ“
-mpython:S3776ŒJ"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(¨ÆÕÍ
-ipython:S107O"LFunction "rolling" has 8 parameters, which is greater than the 7 authorized.(à¹ì…ÿÿÿÿÿ
-epython:S107°O"HFunction "ewm" has 9 parameters, which is greater than the 7 authorized.(°Ô¬øûÿÿÿÿ
-python:S107œU"bFunction "_make_min_count_stat_function" has 9 parameters, which is greater than the 7 authorized.(Äæõ¾øÿÿÿÿ
-ppython:S107¸U"XFunction "_make_stat_function" has 9 parameters, which is greater than the 7 authorized.( ¢
-ppython:S107åU"XFunction "_make_cum_function" has 11 parameters, which is greater than the 7 authorized.(µéĞÏ
-tpython:S107ˆV"\Function "_make_logical_function" has 10 parameters, which is greater than the 7 authorized.(×Ù¡·

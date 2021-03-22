@@ -1,30 +1,0 @@
-
-opython:S117Œ"WRename this local variable "s_abNd" to match the regular expression ^[_a-z][a-z0-9_]*$.(Æµ¶
-6python:S1253"Remove this commented out code.(›€
-Qpython:S905p":Remove or refactor this statement; it has no side effects.(èß‹¥
-Qpython:S905r":Remove or refactor this statement; it has no side effects.(şÀœ
-Qpython:S905t":Remove or refactor this statement; it has no side effects.(÷Íùç
-Qpython:S905v":Remove or refactor this statement; it has no side effects.(•¬Éá
-Qpython:S905x":Remove or refactor this statement; it has no side effects.(¨°ù‚
-Wpython:S905•":Remove or refactor this statement; it has no side effects.(£ŒÀÊùÿÿÿÿ
-Wpython:S905«":Remove or refactor this statement; it has no side effects.(âØˆÕÿÿÿÿÿ
-Wpython:S905¯":Remove or refactor this statement; it has no side effects.(°Ãğíúÿÿÿÿ
-jpython:S1764•"LCorrect one of the identical sub-expressions on both sides of operator "==".(œêÿúÿÿÿÿ
-jpython:S1764–"LCorrect one of the identical sub-expressions on both sides of operator "!=".(…ÑºŒıÿÿÿÿ
-Wpython:S905°":Remove or refactor this statement; it has no side effects.(¶èßüşÿÿÿÿ
-Rpython:S905²":Remove or refactor this statement; it has no side effects.(º¥òë
-Wpython:S905´":Remove or refactor this statement; it has no side effects.(‰¿Şéùÿÿÿÿ
-Rpython:S905¶":Remove or refactor this statement; it has no side effects.(¥®Å
-7python:S125ò"Remove this commented out code.(ùÚîª
-Rpython:S905û":Remove or refactor this statement; it has no side effects.(ÍµÿÓ
-Rpython:S905ÿ":Remove or refactor this statement; it has no side effects.(ÍµÿÓ
-Rpython:S905‡":Remove or refactor this statement; it has no side effects.(îÈ—‹
-Rpython:S905‰":Remove or refactor this statement; it has no side effects.(®ÜÃŒ
-Rpython:S905‹":Remove or refactor this statement; it has no side effects.(çæš´
-Wpython:S905":Remove or refactor this statement; it has no side effects.(«ìíŸÿÿÿÿÿ
-Wpython:S905¤":Remove or refactor this statement; it has no side effects.(¡’ˆÆøÿÿÿÿ
-Rpython:S905§":Remove or refactor this statement; it has no side effects.(”²×»
-Wpython:S905ª":Remove or refactor this statement; it has no side effects.(–Ñ•‹şÿÿÿÿ
-Rpython:S905®":Remove or refactor this statement; it has no side effects.(™€İç
-Rpython:S905±":Remove or refactor this statement; it has no side effects.(çõÂ“
-Rpython:S905´":Remove or refactor this statement; it has no side effects.(Í ïÀ

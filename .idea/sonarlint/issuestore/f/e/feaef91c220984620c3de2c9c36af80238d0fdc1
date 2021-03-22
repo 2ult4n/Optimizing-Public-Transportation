@@ -1,11 +1,0 @@
-
-bpython:S1542^"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(äÆ“Ş
-bpython:S1226{"JIntroduce a new variable or use its initial value before reassigning 'df'.(ìæ›Ö
-hpython:S1542Á"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(«’Ä–ûÿÿÿÿ
-cpython:S1542†"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(£ä­’
-cpython:S1542¨"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(£ä­’
-cpython:S1542¼"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(£ä­’
-cpython:S1542ó"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(äÆ“Ş
-lpython:S1542"NRename function "get_B" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÂØÊ©ıÿÿÿÿ
-?python:S1481²"&Remove the unused local variable "nn".(ØŒéş
-ypython:S1186ç"[Add a nested comment explaining why this function is empty, or complete the implementation.( ³¢Éùÿÿÿÿ

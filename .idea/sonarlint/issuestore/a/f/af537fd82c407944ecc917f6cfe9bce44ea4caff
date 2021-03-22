@@ -1,10 +1,0 @@
-
-zpython:S1192?"bDefine a constant instead of duplicating this literal "%(module)s.%(funcname)s(%(data)s)" 4 times.(ö×¼¬
-apython:S1192>"IDefine a constant instead of duplicating this literal "numpy.ma" 4 times.(âšÓ—
-dpython:S1192x"LDefine a constant instead of duplicating this literal 'numpy.ma   ' 4 times.(•‹é©
-mpython:S117-"VRename this local variable "Timer" to match the regular expression ^[_a-z][a-z0-9_]*$.(ËŞ¨é
-5python:S3626D"Remove this redundant return.(ÙãŞŸ
-5python:S3626P"Remove this redundant return.(ÙãŞŸ
-ppython:S107F"TFunction "compare_methods" has 9 parameters, which is greater than the 7 authorized.(Å«„¯üÿÿÿÿ
-5python:S3626`"Remove this redundant return.(ÙãŞŸ
-qpython:S107R"ZFunction "compare_functions_2v" has 11 parameters, which is greater than the 7 authorized.(˜ª–

@@ -1,54 +1,0 @@
-
-lpython:S5607‹"NFix this invalid "&" operation between incompatible types (Series and Series).(Ê–âİşÿÿÿÿ
-opython:S1192¥"QDefine a constant instead of duplicating this literal "display.max_rows" 4 times.(¶Ï€öıÿÿÿÿ
-rpython:S1192µ"TDefine a constant instead of duplicating this literal "display.max_columns" 3 times.(õ à¿ıÿÿÿÿ
-Mpython:S1066"/Merge this if statement with the enclosing one.(’Ö–ûÿÿÿÿ
-Mpython:S1066ƒ"/Merge this if statement with the enclosing one.(¨´Ò‚øÿÿÿÿ
-Hpython:S1066Î"/Merge this if statement with the enclosing one.(‰¦™¦
-Hpython:S1066ƒ""/Merge this if statement with the enclosing one.(Ü€é£
-Hpython:S1066›6"/Merge this if statement with the enclosing one.(–¨ñµ
-_python:S5724ª"ARemove 2 parameters; property getter methods receive only "self".(üøíüÿÿÿÿ
-rpython:S3776ú"TRefactor this function to reduce its Cognitive Complexity from 56 to the 15 allowed.(Ìöã‹ùÿÿÿÿ
-dpython:S107«"MMethod "to_string" has 17 parameters, which is greater than the 7 authorized.(İÏ‹5
-bpython:S107«
-"JMethod "to_gbq" has 13 parameters, which is greater than the 7 authorized.(â•Ê¬
-mpython:S3776—"TRefactor this function to reduce its Cognitive Complexity from 48 to the 15 allowed.(ŒòÔÌ
-mpython:S3776–"TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(Ğ‡±ä
-rpython:S3776Ğ"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(¦±™ûúÿÿÿÿ
-bpython:S107­"KMethod "from_csv" has 9 parameters, which is greater than the 7 authorized.(á¬Æ 
-dpython:S107á"LMethod "to_stata" has 11 parameters, which is greater than the 7 authorized.(Œê Ä
-hpython:S107 "KMethod "to_html" has 23 parameters, which is greater than the 7 authorized.(Œ¿Ó¤şÿÿÿÿ
-rpython:S3776à"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(ÎèÒÒÿÿÿÿÿ
-kpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(˜¼Y
-rpython:S3776Í"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(şâæ«ÿÿÿÿÿ
-mpython:S3776›"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(«Ëçğ
-mpython:S3776…"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(´ÒøÒ
-rpython:S3776í"TRefactor this function to reduce its Cognitive Complexity from 50 to the 15 allowed.(Æ·Œ¦ûÿÿÿÿ
-gpython:S107‘"PMethod "_reindex_axes" has 8 parameters, which is greater than the 7 authorized.(àè¶e
-ipython:S107¡"QMethod "_reindex_index" has 8 parameters, which is greater than the 7 authorized.(¸µì
-ppython:S107ª"SMethod "_reindex_columns" has 8 parameters, which is greater than the 7 authorized.(ê¿êÇúÿÿÿÿ
-fpython:S107È"IMethod "align" has 11 parameters, which is greater than the 7 authorized.(€‰òÈÿÿÿÿÿ
-gpython:S107ä"OMethod "reindex_axis" has 8 parameters, which is greater than the 7 authorized.(‚ôÅâ
-_python:S107ë"GMethod "drop" has 8 parameters, which is greater than the 7 authorized.(äÛ‹ 
-apython:S107½"IMethod "fillna" has 8 parameters, which is greater than the 7 authorized.(Çí¤ö
-rpython:S3776Ñ"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(±Œ¢·ıÿÿÿÿ
-lpython:S3776ë "TRefactor this function to reduce its Cognitive Complexity from 66 to the 15 allowed.(é½¸
-rpython:S3776è""TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(Š˜†‹ùÿÿÿÿ
-hpython:S1542º$"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(õàö•ûÿÿÿÿ
-jpython:S107‚%"MMethod "sort_index" has 9 parameters, which is greater than the 7 authorized.(è¶Ùûÿÿÿÿ
-rpython:S3776‚%"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(è¶Ùûÿÿÿÿ
-tpython:S117ü("\Rename this local variable "otherSeries" to match the regular expression ^[_a-z][a-z0-9_]*$.(°«á
-rpython:S3776‚("TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(½®à»ıÿÿÿÿ
-mpython:S3776ø)"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(÷ÿå›
-kpython:S107ø,"NMethod "pivot_table" has 9 parameters, which is greater than the 7 authorized.(æ¾‹²ÿÿÿÿÿ
-epython:S107¦1"HMethod "apply" has 9 parameters, which is greater than the 7 authorized.(Ê»Ó£úÿÿÿÿ
-mpython:S37763"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(Š‰ïê
-apython:S107Ì5"IMethod "merge" has 13 parameters, which is greater than the 7 authorized.(¯‡×
-rpython:S3776Ö5"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Õª„„øÿÿÿÿ
-mpython:S3776°6"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(Å¤Ş
-upython:S117ä7"XRename this local variable "baseCov" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ò†Âıÿÿÿÿ
-hpython:S1542ª8"JRename function "c" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ìÏÄ¦üÿÿÿÿ
-bpython:S107Ø9"JMethod "_reduce" has 8 parameters, which is greater than the 7 authorized.(–èÓé
-mpython:S3776Ø9"TRefactor this function to reduce its Cognitive Complexity from 57 to the 15 allowed.(–èÓé
-cpython:S1542ã9"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åºØÀ
-cpython:S1542Œ<"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ıÂ¶Ã

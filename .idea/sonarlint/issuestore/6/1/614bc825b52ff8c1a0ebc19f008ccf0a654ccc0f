@@ -1,4 +1,0 @@
-
-dpython:S1192n"GDefine a constant instead of duplicating this literal '2 days' 3 times.(´ÁÆÚÿÿÿÿÿ
-epython:S1192c"HDefine a constant instead of duplicating this literal '1 days' 12 times.(†ÏÊıÿÿÿÿ
-cpython:S1854u"KRemove this assignment to local variable 'result'; the value is never used.(†ûÇÿ

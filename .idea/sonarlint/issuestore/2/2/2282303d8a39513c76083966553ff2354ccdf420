@@ -1,20 +1,0 @@
-
-Gpython:S1066ˆ"/Merge this if statement with the enclosing one.(™™âJ
-Hpython:S1066ü"/Merge this if statement with the enclosing one.(Ğ¸’
-Mpython:S1066¬"/Merge this if statement with the enclosing one.(Ù¬¾³øÿÿÿÿ
-Mpython:S1066é"/Merge this if statement with the enclosing one.(½àÈ™øÿÿÿÿ
-cpython:S107Ù"KMethod "__new__" has 10 parameters, which is greater than the 7 authorized.(û˜“
-lpython:S3776Ò"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(‹ş”
-_python:S107‰"GMethod "copy" has 8 parameters, which is greater than the 7 authorized.(ñŸíÆ
-cpython:S1542ß"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ó´Ş…
-mpython:S3776¹"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(Öíœš
-Ipython:S2638ı"0Remove parameter names or provide default value.(»úŞö
-hpython:S1542è	"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(şÌñÅøÿÿÿÿ
-rpython:S3776
-"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ñ¢™îüÿÿÿÿ
-mpython:S3776Ò"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ğìÊŠ
-rpython:S3776†"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(“ìÄùÿÿÿÿ
-rpython:S3776¢"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(–€„êÿÿÿÿÿ
-lpython:S3776†"TRefactor this function to reduce its Cognitive Complexity from 76 to the 15 allowed.(±ÊS
-rpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(–æ†Ğÿÿÿÿÿ
-mpython:S3776í"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(¢íğª

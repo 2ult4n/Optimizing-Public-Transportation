@@ -1,56 +1,0 @@
-
-`python:S1192‰"GDefine a constant instead of duplicating this literal 'df + s' 6 times.(ÜÈÛ
-dpython:S1192""GDefine a constant instead of duplicating this literal 'not in' 7 times.(ªñËÀýÿÿÿÿ
-cpython:S1192ú
-"JDefine a constant instead of duplicating this literal "a = 1 + 2" 3 times.(¿û¿–
-dpython:S1192ó"FDefine a constant instead of duplicating this literal 'x + 1' 3 times.(çªÅøÿÿÿÿ
-dpython:S1192ö"FDefine a constant instead of duplicating this literal 'x + y' 4 times.(˜ô©ôúÿÿÿÿ
-epython:S1192Ÿ"LDefine a constant instead of duplicating this literal 'lhs {0} rhs' 7 times.(»•¥¾
-cpython:S1192ð	"JDefine a constant instead of duplicating this literal 'c = a + b' 3 times.(‹º„í
-rpython:S1192“"TDefine a constant instead of duplicating this literal 'lhs {0} mid {1} rhs' 3 times.(Êý’âýÿÿÿÿ
-Hpython:S1066Ö"/Merge this if statement with the enclosing one.(ü £
-Apython:S108÷")Either remove or fill this block of code.(ã‘Û¾
-Hpython:S1481 "*Remove the unused local variable "engine".(ŒùâÀûÿÿÿÿ
-apython:S100¤"IRename method "ex" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(­ÛÓž
-ipython:S1854É"KRemove this assignment to local variable 'result'; the value is never used.(ß–°úÿÿÿÿ
-ipython:S1854Ì"KRemove this assignment to local variable 'result'; the value is never used.(ß–°úÿÿÿÿ
-apython:S1854Æ"HRemove this assignment to local variable 'lhs'; the value is never used.(Š¤¦Ý
-ipython:S1854¹"KRemove this assignment to local variable 'result'; the value is never used.(ß–°úÿÿÿÿ
-ipython:S1854°"KRemove this assignment to local variable 'result'; the value is never used.(ß–°úÿÿÿÿ
-ipython:S1854³"KRemove this assignment to local variable 'result'; the value is never used.(ß–°úÿÿÿÿ
-apython:S1854­"HRemove this assignment to local variable 'lhs'; the value is never used.(”¢æÔ
-ipython:S1854ô"KRemove this assignment to local variable 'result'; the value is never used.(ß–°úÿÿÿÿ
-ipython:S1854÷"KRemove this assignment to local variable 'result'; the value is never used.(ß–°úÿÿÿÿ
-fpython:S1854ñ"HRemove this assignment to local variable 'lhs'; the value is never used.(ýãÅçûÿÿÿÿ
-ipython:S1854à"KRemove this assignment to local variable 'result'; the value is never used.(ß–°úÿÿÿÿ
-ipython:S1854×"KRemove this assignment to local variable 'result'; the value is never used.(ß–°úÿÿÿÿ
-ipython:S1854Ú"KRemove this assignment to local variable 'result'; the value is never used.(ß–°úÿÿÿÿ
-fpython:S1854Ô"HRemove this assignment to local variable 'lhs'; the value is never used.(þ¿Ãõüÿÿÿÿ
-ipython:S1854Œ"KRemove this assignment to local variable 'result'; the value is never used.(ß–°úÿÿÿÿ
-ipython:S1854¥"KRemove this assignment to local variable 'result'; the value is never used.(ß–°úÿÿÿÿ
-Cpython:S1481ˆ"%Remove the unused local variable "x".(Ø Ìúÿÿÿÿÿ
-=python:S1481"%Remove the unused local variable "x".(—“—A
->python:S1481’"%Remove the unused local variable "x".(æŸáí
->python:S1481˜"%Remove the unused local variable "x".(øö‹œ
->python:S1481"%Remove the unused local variable "x".(É¢¡â
-Cpython:S1481¢"%Remove the unused local variable "x".(­‚üƒùÿÿÿÿ
-rpython:S3776Ú"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(¼ˆ°šÿÿÿÿÿ
-_python:S1854–"FRemove this assignment to local variable 's'; the value is never used.(Ó¹ÐÀ
-epython:S1854•"GRemove this assignment to local variable 'df'; the value is never used.(ŒŸùÿÿÿÿÿ
-_python:S1854‘"FRemove this assignment to local variable 's'; the value is never used.(„¿œÈ
-_python:S1854ˆ"FRemove this assignment to local variable 's'; the value is never used.(Ó¹ÐÀ
-epython:S1854‡"GRemove this assignment to local variable 'df'; the value is never used.(öÕÊøùÿÿÿÿ
-Cpython:S1481Œ	"%Remove the unused local variable "d".(Âá°¶ûÿÿÿÿ
-Dpython:S1481¼	"&Remove the unused local variable "df".(«‰ÐÔúÿÿÿÿ
-hpython:S1542ô	"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-Cpython:S1481ö	"%Remove the unused local variable "a".(ŸÙÝüÿÿÿÿ
-hpython:S1542
-"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-Cpython:S1481‚
-"%Remove the unused local variable "a".(ŸÙÝüÿÿÿÿ
-Cpython:S1481„"%Remove the unused local variable "a".(ŸÙÝüÿÿÿÿ
-Dpython:S1481"&Remove the unused local variable "df".(«‰ÐÔúÿÿÿÿ
-Dpython:S1481£"&Remove the unused local variable "df".(«‰ÐÔúÿÿÿÿ
->python:S1481ù"%Remove the unused local variable "x".(ìÈ©©
-zpython:S117•"]Rename this local variable "VisitorClass" to match the regular expression ^[_a-z][a-z0-9_]*$.(Î¶ƒÁýÿÿÿÿ
-?python:S1481Û"'Remove the unused local variable "mid".(Å“êk

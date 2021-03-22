@@ -1,5 +1,0 @@
-
-epython:S1192&"NDefine a constant instead of duplicating this literal 'sasl.password' 4 times.(ØÈŽn
-hpython:S1192!"PDefine a constant instead of duplicating this literal "schema.registry" 4 times.(ÉÑ¥Ü
-kpython:S1192%"NDefine a constant instead of duplicating this literal 'sasl.username' 4 times.(€ŸŽÉþÿÿÿÿ
-hpython:S1192$"PDefine a constant instead of duplicating this literal 'sasl.mechanisms' 4 times.(‡½’Ö

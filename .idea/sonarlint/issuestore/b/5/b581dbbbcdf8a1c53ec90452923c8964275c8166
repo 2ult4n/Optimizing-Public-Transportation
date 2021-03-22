@@ -1,38 +1,0 @@
-
-dpython:S1192Å"KDefine a constant instead of duplicating this literal 'US/Eastern' 8 times.(Áæ„Ö
-_python:S1192Ø"FDefine a constant instead of duplicating this literal '2 day' 4 times.(øÙ¶„
-mpython:S1192¶"ODefine a constant instead of duplicating this literal 'datetime64[ns]' 9 times.(¾ç¬÷úÿÿÿÿ
-spython:S1192Ê"[Define a constant instead of duplicating this literal 'datetime64[ns, US/Eastern]' 4 times.(Å§f
-ipython:S1192Û"PDefine a constant instead of duplicating this literal 'timedelta64[ns]' 5 times.(È™çí
-dpython:S1192Ù"FDefine a constant instead of duplicating this literal '3 day' 4 times.(£ã®óÿÿÿÿÿ
-dpython:S1192×"FDefine a constant instead of duplicating this literal '1 day' 5 times.(£™Ú—şÿÿÿÿ
-^python:S1192Ú"FDefine a constant instead of duplicating this literal '4 day' 4 times.(É‡I
-wpython:S1186¢"YAdd a nested comment explaining why this method is empty, or complete the implementation.(¡î™–ûÿÿÿÿ
-wpython:S1186¥"YAdd a nested comment explaining why this method is empty, or complete the implementation.(á¯¿«üÿÿÿÿ
-rpython:S1186¨"YAdd a nested comment explaining why this method is empty, or complete the implementation.(û–Ñ¸
-qpython:S1186«"YAdd a nested comment explaining why this method is empty, or complete the implementation.(º«9
-wpython:S1186®"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ÖÓì­ıÿÿÿÿ
-rpython:S1186±"YAdd a nested comment explaining why this method is empty, or complete the implementation.(•ÿŸ«
-rpython:S1186´"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ò‹èŠ
-wpython:S1186®"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ÁòÈüÿÿÿÿ
-rpython:S1186±"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ş‘áˆ
-wpython:S1186ƒ"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ŞâÒüÿÿÿÿ
-wpython:S1186†"YAdd a nested comment explaining why this method is empty, or complete the implementation.(º‹å‘şÿÿÿÿ
-wpython:S1186‰"YAdd a nested comment explaining why this method is empty, or complete the implementation.(°¡™ùÿÿÿÿ
-wpython:S1186Œ"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ŞŸõÚıÿÿÿÿ
-rpython:S1186"YAdd a nested comment explaining why this method is empty, or complete the implementation.(Ï³Ú´
-rpython:S1186’"YAdd a nested comment explaining why this method is empty, or complete the implementation.(×š’Û
-wpython:S1186•"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ÿïîÈøÿÿÿÿ
-wpython:S1186˜"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ÊÃõéıÿÿÿÿ
-wpython:S1186¢"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ëÉµ˜şÿÿÿÿ
-wpython:S1186„"YAdd a nested comment explaining why this method is empty, or complete the implementation.(…¢³òúÿÿÿÿ
-rpython:S1186‡"YAdd a nested comment explaining why this method is empty, or complete the implementation.(€©œ«
-wpython:S1186Š"YAdd a nested comment explaining why this method is empty, or complete the implementation.(¿ĞÓÉúÿÿÿÿ
-wpython:S1186"YAdd a nested comment explaining why this method is empty, or complete the implementation.(¯ò®×ıÿÿÿÿ
-wpython:S1186"YAdd a nested comment explaining why this method is empty, or complete the implementation.(¥–ÙÇùÿÿÿÿ
-rpython:S1186“"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ÏªÈ¦
-wpython:S1186–"YAdd a nested comment explaining why this method is empty, or complete the implementation.(‡‰°òøÿÿÿÿ
-wpython:S1186™"YAdd a nested comment explaining why this method is empty, or complete the implementation.(—Ø³ıÿÿÿÿÿ
-rpython:S3776¾"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ö¢®øÿÿÿÿ
-|python:S1871Ì"cEither merge this branch with the identical one on line "841" or change one of the implementations.(ÙãŞŸ
-rpython:S1186ª"YAdd a nested comment explaining why this method is empty, or complete the implementation.(€¿í¹

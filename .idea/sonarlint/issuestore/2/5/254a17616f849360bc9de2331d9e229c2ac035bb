@@ -1,20 +1,0 @@
-
-_python:S1192_"GDefine a constant instead of duplicating this literal 'M8[ns]' 4 times.(Ò¤Øì
-_python:S1192h"GDefine a constant instead of duplicating this literal 'm8[ns]' 3 times.(¥ –
-apython:S1192Ú	"HDefine a constant instead of duplicating this literal '<M8[ns]' 5 times.(í¯É
->python:S1481y"'Remove the unused local variable "arr".(™Å¢y
->python:S1481z"'Remove the unused local variable "arr".(‚…óD
-ipython:S1134p"LTake the required action to fix the issue indicated by this "FIXME" comment.(Ãœ‘©şÿÿÿÿ
-7python:S125È"Remove this commented out code.(àÑ„ë
-wpython:S1186€"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ËóñĞıÿÿÿÿ
-wpython:S1186ƒ"YAdd a nested comment explaining why this method is empty, or complete the implementation.(®ê¼ûÿÿÿÿ
-wpython:S1186†"YAdd a nested comment explaining why this method is empty, or complete the implementation.(÷§œşúÿÿÿÿ
-rpython:S1186¿"YAdd a nested comment explaining why this method is empty, or complete the implementation.(Ö°§Á
-rpython:S3776˜"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(¢Í¥üşÿÿÿÿ
-wpython:S1186”"YAdd a nested comment explaining why this method is empty, or complete the implementation.(çëÌŞÿÿÿÿÿ
-wpython:S1186§"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ËóñĞıÿÿÿÿ
-Fpython:S2201“"(The return value of "repr" must be used.(ÆÖßéüÿÿÿÿ
-<python:S125à"Remove this commented out code.(ù«µ©ùÿÿÿÿ
-<python:S125ä"Remove this commented out code.(«›·Ïúÿÿÿÿ
-7python:S125Œ"Remove this commented out code.(Ù—å
-jpython:S1134æ	"LTake the required action to fix the issue indicated by this "FIXME" comment.(¨°ëïúÿÿÿÿ

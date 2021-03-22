@@ -1,14 +1,0 @@
-
-hpython:S1192j"KDefine a constant instead of duplicating this literal 'US/Eastern' 3 times.(ÇÇı”úÿÿÿÿ
-mpython:S1192‹"TDefine a constant instead of duplicating this literal '2013-06-09 02:42:28' 6 times.(Ğò«ï
-epython:S1192Ë"GDefine a constant instead of duplicating this literal 'M8[ns]' 4 times.(ãÔıºıÿÿÿÿ
-tpython:S1192²"[Define a constant instead of duplicating this literal 'datetime64[ns, US/Eastern]' 5 times.(è¼’„
-qpython:S1192i"TDefine a constant instead of duplicating this literal '2000-01-01 09:00:00' 3 times.(óÖ’¯ÿÿÿÿÿ
-_python:S1192¢"FDefine a constant instead of duplicating this literal 'a b c' 4 times.(¯Ñï»
-Qpython:S905v":Remove or refactor this statement; it has no side effects.(”¿´ë
-ipython:S1764ç"KCorrect one of the identical sub-expressions on both sides of operator "-".(†å£Ïşÿÿÿÿ
-bpython:S1854ú"IRemove this assignment to local variable 'norm'; the value is never used.(† ıÀ
-Apython:S2201Æ"(The return value of "repr" must be used.(–³Á
-<python:S125Û"Remove this commented out code.(‡âÙ‡øÿÿÿÿ
-rpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(ïÖ»Âûÿÿÿÿ
-cpython:S1542±"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åºØÀ

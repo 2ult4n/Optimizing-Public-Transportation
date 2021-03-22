@@ -1,19 +1,0 @@
-
-Gpython:S1066o"/Merge this if statement with the enclosing one.(¾æÆ²
-Hpython:S1066•"/Merge this if statement with the enclosing one.(êóø¼
-Mpython:S1066“"/Merge this if statement with the enclosing one.(ê•Íúÿÿÿÿ
-Mpython:S1066Œ"/Merge this if statement with the enclosing one.(¼ñ›‘øÿÿÿÿ
-Mpython:S1066œ"/Merge this if statement with the enclosing one.(ÕÒ¹¬øÿÿÿÿ
-Gpython:S1066°"/Merge this if statement with the enclosing one.(ñà
-lpython:S3776j"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(¯Š¾Ó
-lpython:S3776ª"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÝŽ›
-rpython:S3776Ù"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÃÕÃùÿÿÿÿ
-rpython:S3776þ"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(ëðßØúÿÿÿÿ
-rpython:S3776œ"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(‚¯žÈüÿÿÿÿ
-epython:S117ë"MRename this parameter "K" to match the regular expression ^[_a-z][a-z0-9_]*$.(ýóŸ“
-epython:S117ë"MRename this parameter "N" to match the regular expression ^[_a-z][a-z0-9_]*$.(ýóŸ“
-lpython:S3776þ"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ò•Û"
-Apython:S108Š")Either remove or fill this block of code.(ã‘Û¾
-mpython:S3776™"TRefactor this function to reduce its Cognitive Complexity from 79 to the 15 allowed.(—ûÛ¥
-Vpython:S112’">Replace this generic exception class with a more specific one.(øßû¤
-rpython:S3776¬"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(¹úæ¤úÿÿÿÿ

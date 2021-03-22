@@ -1,39 +1,0 @@
-
-€python:S1192Ë"bDefine a constant instead of duplicating this literal b'\x00\x00\x00\x00\x00\x00\xe0\x7f' 3 times.(õé¤òıÿÿÿÿ
-Hpython:S1066ª"/Merge this if statement with the enclosing one.(¸ù’ˆ
-Mpython:S1066Ç"/Merge this if statement with the enclosing one.(ñ €Óùÿÿÿÿ
-Mpython:S1066Ò
-"/Merge this if statement with the enclosing one.(¬øĞÈÿÿÿÿÿ
-mpython:S107®"PFunction "read_stata" has 11 parameters, which is greater than the 7 authorized.(†ÕŠïùÿÿÿÿ
-rpython:S3776Ì"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(§Âìïıÿÿÿÿ
-mpython:S3776ğ"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(Âä¥à
-rpython:S3776ı"TRefactor this function to reduce its Cognitive Complexity from 56 to the 15 allowed.(á¹øÿÿÿÿ
->python:S1481¶"%Remove the unused local variable "i".(¹½ğ
-ipython:S107½"LMethod "__init__" has 11 parameters, which is greater than the 7 authorized.( ·ıØÿÿÿÿÿ
-npython:S1226Á"PIntroduce a new variable or use its initial value before reassigning 'encoding'.(ò¿õÿÿÿÿÿ
->python:S1481×"%Remove the unused local variable "i".(â¹„€
-cpython:S1542Ù"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(·œŒ
-cpython:S1542ä"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(·œŒ
->python:S1481ø"%Remove the unused local variable "i".(â¹„€
->python:S1481†	"%Remove the unused local variable "i".(â¹„€
->python:S1481‘	"%Remove the unused local variable "i".(â¹„€
->python:S1481–	"%Remove the unused local variable "i".(â¹„€
->python:S1481™	"%Remove the unused local variable "i".(â¹„€
->python:S1481œ	"%Remove the unused local variable "i".(â¹„€
-mpython:S3776Í	"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(†îùË
->python:S1481â	"%Remove the unused local variable "i".(â¹„€
->python:S1481ú	"%Remove the unused local variable "i".(â¹„€
->python:S1481ı	"%Remove the unused local variable "i".(â¹„€
-rpython:S3776½
-"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(ş–ñóøÿÿÿÿ
-[python:S112œ">Replace this generic exception class with a more specific one.(Êï¤şûÿÿÿÿ
-dpython:S107·"GMethod "read" has 9 parameters, which is greater than the 7 authorized.(Ÿ ÊØûÿÿÿÿ
-rpython:S3776·"TRefactor this function to reduce its Cognitive Complexity from 54 to the 15 allowed.(Ÿ ÊØûÿÿÿÿ
-rpython:S3776º"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(Šº¡†úÿÿÿÿ
-ipython:S107º"LMethod "__init__" has 10 parameters, which is greater than the 7 authorized.(‹¡çúÿÿÿÿ
-mpython:S3776Ù"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(šÂÁƒ
-7python:S125€"Remove this commented out code.(ûÛŠ•
-rpython:S3776’"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(±ÆŞ·øÿÿÿÿ
-Cpython:S1481¯"%Remove the unused local variable "i".(µ è¥şÿÿÿÿ
-rpython:S3776Æ"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÈòÇùÿÿÿÿ
-ipython:S107Á"LMethod "__init__" has 11 parameters, which is greater than the 7 authorized.(‹¡çúÿÿÿÿ

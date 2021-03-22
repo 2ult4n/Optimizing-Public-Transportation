@@ -1,7 +1,0 @@
-
-Mpython:S1066÷"/Merge this if statement with the enclosing one.(”‹ü–şÿÿÿÿ
-wpython:S1542."ZRename function "SOCKSProxyManager" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(şĞ‚ûÿÿÿÿ
-mpython:S3776Ë"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ƒÓƒÁ
-rpython:S3776Š"TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(Œ™¦ùÿÿÿÿ
-Apython:S108±")Either remove or fill this block of code.(ã‘Û¾
-ppython:S5713Œ"WRemove this redundant Exception class; it derives from another which is already caught.(‚Ï€Õ

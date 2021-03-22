@@ -1,14 +1,0 @@
-
-kpython:S100"ORename method "testPack" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(é´Áüÿÿÿÿÿ
-rpython:S100""VRename method "testPackUnicode" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(³Ì¼¢ýÿÿÿÿ
-ppython:S100."TRename method "testPackUTF32" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(çêŒÏûÿÿÿÿ
-jpython:S100:"TRename method "testPackBytes" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(½šì
-upython:S100?"^Rename method "testIgnoreUnicodeErrors" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¾ß¾Ï
-zpython:S100E"^Rename method "testStrictUnicodeUnpack" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÄÞœ‰ûÿÿÿÿ
-xpython:S100K"\Rename method "testStrictUnicodePack" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÇûÀºúÿÿÿÿ
-wpython:S100R"[Rename method "testIgnoreErrorsPack" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(»¸Ó®úÿÿÿÿ
-qpython:S100Y"URename method "testNoEncoding" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¡Ñ’èûÿÿÿÿ
-npython:S100^"WRename method "testDecodeBinary" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÐîÅˆ
-ppython:S100b"TRename method "testPackFloat" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ßúŸúùÿÿÿÿ
-kpython:S100h"TRename method "testArraySize" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ß›Ò…
-opython:S100„"RRename method "testMapSize" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(²¶âèûÿÿÿÿ

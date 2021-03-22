@@ -1,6 +1,0 @@
-
-hpython:S1192P"KDefine a constant instead of duplicating this literal 'US/Eastern' 9 times.(КИЃ¶ыяяяя
-npython:S1192Р"PDefine a constant instead of duplicating this literal 'America/Chicago' 4 times.(ХХЮСшяяяя
-qpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(кьнюьяяяя
-kpython:S1854±"MRemove this assignment to local variable 'expected'; the value is never used.(юКюЭыяяяя
-dpython:S1854°"KRemove this assignment to local variable 'result'; the value is never used.(Ър¶†

@@ -1,14 +1,0 @@
-
-hpython:S1192"JDefine a constant instead of duplicating this literal 'to filter' 7 times.(Ç¿¦úÿÿÿÿ
-7python:S125Ù"Remove this commented out code.(Ö­İè
-Cpython:S1481¿"%Remove the unused local variable "g".(øùÈ›ıÿÿÿÿ
-Apython:S108À")Either remove or fill this block of code.(ã‘Û¾
-7python:S125ğ"Remove this commented out code.(Ö­İè
-Apython:S108ô")Either remove or fill this block of code.(ã‘Û¾
-Fpython:S2201„"(The return value of "dict" must be used.(· ÅËıÿÿÿÿ
-Fpython:S2201…"(The return value of "dict" must be used.(„„·Áüÿÿÿÿ
-Fpython:S2201†"(The return value of "dict" must be used.(ü…¶“úÿÿÿÿ
-Fpython:S2201‡"(The return value of "dict" must be used.(·¾Ÿ¶øÿÿÿÿ
-Fpython:S2201ˆ"(The return value of "dict" must be used.(€™·ıÿÿÿÿ
-Apython:S2201‰"(The return value of "dict" must be used.(‚¥›
-<python:S125«"Remove this commented out code.(ĞªÜ—ıÿÿÿÿ

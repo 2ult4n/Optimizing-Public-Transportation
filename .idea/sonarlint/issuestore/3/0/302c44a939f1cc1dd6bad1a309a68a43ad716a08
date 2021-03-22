@@ -1,55 +1,0 @@
-
-gpython:S15429"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-œpython:S1515:"ƒAdd a parameter to function "f" and use variable "s" as its default value;The value of "s" might change at the next loop iteration.(Éæã®
-qpython:S3776>"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(²Õ†ıÿÿÿÿ
-gpython:S1542U"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-§python:S1515W"‰Add a parameter to function "f" and use variable "idxr" as its default value;The value of "idxr" might change at the next loop iteration.(ëÌéèúÿÿÿÿ
-gpython:S1542b"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-œpython:S1515c"ƒAdd a parameter to function "f" and use variable "s" as its default value;The value of "s" might change at the next loop iteration.(ù½ş°
-gpython:S1542o"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-œpython:S1515p"ƒAdd a parameter to function "f" and use variable "s" as its default value;The value of "s" might change at the next loop iteration.(Éæã®
-±python:S1515”"’Add a parameter to the parent lambda function and use variable "s" as its default value; The value of "s" might change at the next loop iteration.(ñßÎ°ùÿÿÿÿ
-hpython:S1542¢"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-¢python:S1515¤"‰Add a parameter to function "f" and use variable "idxr" as its default value;The value of "idxr" might change at the next loop iteration.(ëÅ .
-hpython:S1542²"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-£python:S1515³"‰Add a parameter to function "f" and use variable "idxr" as its default value;The value of "idxr" might change at the next loop iteration.(¾ˆ³Ì
-hpython:S1542À"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-£python:S1515Á"‰Add a parameter to function "f" and use variable "idxr" as its default value;The value of "idxr" might change at the next loop iteration.(¾ˆ³Ì
-rpython:S3776Ñ"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(éÛø…şÿÿÿÿ
-hpython:S1542›"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-Fpython:S5603›"(Remove this unused function declaration.(÷‘õàúÿÿÿÿ
-¤python:S1515"…Add a parameter to function "f" and use variable "s2" as its default value;The value of "s2" might change at the next loop iteration.(›ÁœÁûÿÿÿÿ
-¨python:S1515"‰Add a parameter to function "f" and use variable "idxr" as its default value;The value of "idxr" might change at the next loop iteration.(›ÁœÁûÿÿÿÿ
-·python:S1515¤"˜Add a parameter to the parent lambda function and use variable "idxr" as its default value; The value of "idxr" might change at the next loop iteration.(Ê’‡ƒşÿÿÿÿ
-¬python:S1515²"’Add a parameter to the parent lambda function and use variable "s" as its default value; The value of "s" might change at the next loop iteration.(æ… ¯
-hpython:S1542´"JRename function "g" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ù¥³çşÿÿÿÿ
-Ÿpython:S1515µ"…Add a parameter to function "g" and use variable "s2" as its default value;The value of "s2" might change at the next loop iteration.(…½Ó
-rpython:S3776¹"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(˜°•Şÿÿÿÿÿ
-hpython:S1542Ì"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-¢python:S1515Í"ƒAdd a parameter to function "f" and use variable "l" as its default value;The value of "l" might change at the next loop iteration.(ÊóĞşÿÿÿÿ
-hpython:S1542Õ"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-¨python:S1515×"‰Add a parameter to function "f" and use variable "idxr" as its default value;The value of "idxr" might change at the next loop iteration.(ú¤ø¹üÿÿÿÿ
-hpython:S1542ß"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-¢python:S1515à"ƒAdd a parameter to function "f" and use variable "l" as its default value;The value of "l" might change at the next loop iteration.(­£”ÿşÿÿÿÿ
-hpython:S1542ç"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-£python:S1515é"‰Add a parameter to function "f" and use variable "idxr" as its default value;The value of "idxr" might change at the next loop iteration.(ğ£–ˆ
-rpython:S3776í"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(ùëÖ¹ıÿÿÿÿ
-hpython:S1542"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-¢python:S1515"ƒAdd a parameter to function "f" and use variable "l" as its default value;The value of "l" might change at the next loop iteration.(Å µşıÿÿÿÿ
-hpython:S1542§"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-¢python:S1515¨"ƒAdd a parameter to function "f" and use variable "s" as its default value;The value of "s" might change at the next loop iteration.(‘êÿŞûÿÿÿÿ
-hpython:S1542¾"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-¢python:S1515¿"ƒAdd a parameter to function "f" and use variable "l" as its default value;The value of "l" might change at the next loop iteration.(Å µşıÿÿÿÿ
-hpython:S1542Ñ"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-python:S1515Ò"ƒAdd a parameter to function "f" and use variable "l" as its default value;The value of "l" might change at the next loop iteration.(ÈæÏÅ
-hpython:S1542ç"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-¢python:S1515è"ƒAdd a parameter to function "f" and use variable "l" as its default value;The value of "l" might change at the next loop iteration.(ú¤ø¹üÿÿÿÿ
-hpython:S1542ô"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÓÃıøÿÿÿÿ
-hpython:S1542€"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-¢python:S1515"ƒAdd a parameter to function "f" and use variable "l" as its default value;The value of "l" might change at the next loop iteration.(Å µşıÿÿÿÿ
-hpython:S1542"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-hpython:S1542›"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-¢python:S1515œ"ƒAdd a parameter to function "f" and use variable "l" as its default value;The value of "l" might change at the next loop iteration.(Å µşıÿÿÿÿ
-hpython:S1542«"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-python:S1515¬"ƒAdd a parameter to function "f" and use variable "l" as its default value;The value of "l" might change at the next loop iteration.(ÈæÏÅ
-Epython:S2201‚"'The return value of "str" must be used.(×Ú¬ûÿÿÿÿ

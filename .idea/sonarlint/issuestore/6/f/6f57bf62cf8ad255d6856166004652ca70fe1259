@@ -1,24 +1,0 @@
-
-ppython:S1192Ñ"WDefine a constant instead of duplicating this literal r"memory usage: [^+]+\+" 3 times.(‘Êçí
-qpython:S1192u"TDefine a constant instead of duplicating this literal 'display.max_columns' 3 times.(Ñåşÿÿÿÿ
-ppython:S1192T"SDefine a constant instead of duplicating this literal "2 rows x 2 columns" 3 times.(û™ıêûÿÿÿÿ
-upython:S1192S"XDefine a constant instead of duplicating this literal 'display.show_dimensions' 3 times.(Ôåí‰şÿÿÿÿ
-Dpython:S1481 "'Remove the unused local variable "foo".(œ±»­ùÿÿÿÿ
-Dpython:S1481$"'Remove the unused local variable "foo".(Ç¶øÈúÿÿÿÿ
-Dpython:S1481*"'Remove the unused local variable "foo".(ÒÂ»àÿÿÿÿÿ
-?python:S14816"'Remove the unused local variable "foo".(ı¸óŠ
-Dpython:S1481<"'Remove the unused local variable "foo".(ëÿœöüÿÿÿÿ
-?python:S1481G"'Remove the unused local variable "foo".(ûâø™
-@python:S2201a"(The return value of "repr" must be used.(Àû¸Œ
-Epython:S2201p"(The return value of "repr" must be used.(²µ¿ûÿÿÿÿ
-@python:S2201s"(The return value of "repr" must be used.(ã¿¦Ó
-@python:S2201v"(The return value of "repr" must be used.(ã¿¦Ó
-@python:S2201y"(The return value of "repr" must be used.(ã¿¦Ó
-Fpython:S1481ƒ"(Remove the unused local variable "bval".(îé“éûÿÿÿÿ
-@python:S2201“"'The return value of "str" must be used.(Ïì…Í
-Bpython:S2201š")The return value of "bytes" must be used.(ßìø
-@python:S2201œ"'The return value of "str" must be used.(Ïì…Í
-Fpython:S2201¡"(The return value of "repr" must be used.(ˆÿşøÿÿÿÿ
-Dpython:S5806Ô"+Rename this variable; it shadows a builtin.(‡•ß
-7python:S125ò"Remove this commented out code.(¿‰Ã‡
-epython:S1854‚"GRemove this assignment to local variable 'df'; the value is never used.(¾ë²ğøÿÿÿÿ

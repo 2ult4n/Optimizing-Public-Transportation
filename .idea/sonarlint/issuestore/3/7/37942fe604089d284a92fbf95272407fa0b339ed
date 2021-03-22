@@ -1,10 +1,0 @@
-
-cpython:S3827>"Favro_name is not defined. Change its name or define it before using it(û®ƒÃüÿÿÿÿ
-lpython:S1008"URename method "_ParseTypeDesc" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(İïÀ¨
-tpython:S100B"XRename method "_ParseMessageDesc" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ä£úÿÿÿÿ
-rpython:S100o"[Rename method "_ParseMessageDescMap" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(°ÿÒµ
-xpython:S100ñ"`Rename method "_ParseRequestFromJSONDesc" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åğÙÄ
-~python:S100…"aRename method "_ParseResponseFromJSONDesc" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¤í“úÿÿÿÿ
-|python:S100‘"_Rename method "_ParseErrorsFromJSONDesc" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¿úô—ùÿÿÿÿ
-{python:S1542Ò"]Rename function "ProtocolFromJSONData" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Œ”Îäûÿÿÿÿ
-lpython:S1542"NRename function "Parse" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(© Äõøÿÿÿÿ

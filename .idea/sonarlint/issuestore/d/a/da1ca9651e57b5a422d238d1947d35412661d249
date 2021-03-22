@@ -1,22 +1,0 @@
-
-Qpython:S905%":Remove or refactor this statement; it has no side effects.(»Ò‡Š
-dpython:S1764-"LCorrect one of the identical sub-expressions on both sides of operator "==".(¤ñïª
-ipython:S1764."LCorrect one of the identical sub-expressions on both sides of operator "!=".(‰‘–³úÿÿÿÿ
-hpython:S1764/"KCorrect one of the identical sub-expressions on both sides of operator "<".(Ğø‘¼ıÿÿÿÿ
-ipython:S17640"LCorrect one of the identical sub-expressions on both sides of operator "<=".(Ê€´Øüÿÿÿÿ
-hpython:S17641"KCorrect one of the identical sub-expressions on both sides of operator ">".(Ü–‘¸şÿÿÿÿ
-ipython:S17642"LCorrect one of the identical sub-expressions on both sides of operator ">=".(¼†ç«ûÿÿÿÿ
-Qpython:S905`":Remove or refactor this statement; it has no side effects.(ñë²¿
-Vpython:S905b":Remove or refactor this statement; it has no side effects.(ËÊì³ûÿÿÿÿ
-Vpython:S905d":Remove or refactor this statement; it has no side effects.(¶èßüşÿÿÿÿ
-Vpython:S905f":Remove or refactor this statement; it has no side effects.(‚·üùÿÿÿÿ
-Vpython:S905h":Remove or refactor this statement; it has no side effects.(‰¿Şéùÿÿÿÿ
-Qpython:S905j":Remove or refactor this statement; it has no side effects.(šêíÛ
-Qpython:S905m":Remove or refactor this statement; it has no side effects.(¬›“¦
-Vpython:S905o":Remove or refactor this statement; it has no side effects.(ò¤ÅŞşÿÿÿÿ
-Qpython:S905q":Remove or refactor this statement; it has no side effects.(º¥òë
-Vpython:S905s":Remove or refactor this statement; it has no side effects.(ÖÇ®Şÿÿÿÿÿ
-Qpython:S905u":Remove or refactor this statement; it has no side effects.(¥®Å
-Qpython:S905w":Remove or refactor this statement; it has no side effects.(¥áÓÙ
-Qpython:S905{":Remove or refactor this statement; it has no side effects.(±ºÙ£
-Qpython:S905}":Remove or refactor this statement; it has no side effects.(‡‚ŠÄ

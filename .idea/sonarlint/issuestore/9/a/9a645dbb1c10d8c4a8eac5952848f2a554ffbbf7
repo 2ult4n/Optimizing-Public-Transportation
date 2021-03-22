@@ -1,15 +1,0 @@
-
-Epython:S2201•"'The return value of "str" must be used.(…öºøÿÿÿÿ
-@python:S2201Ÿ"'The return value of "str" must be used.(Ïì…Í
-qpython:S1186Á"YAdd a nested comment explaining why this method is empty, or complete the implementation.(åÒ™T
-7python:S125·"Remove this commented out code.(¾½³
-Cpython:S1481Ê"+Remove the unused local variable "sp_zero".(Û¨÷!
-Hpython:S1481Š"*Remove the unused local variable "bsrepr".(´˜ºŠüÿÿÿÿ
-Hpython:S1481‹"*Remove the unused local variable "isrepr".(©ÿŸÚúÿÿÿÿ
-rpython:S1186"YAdd a nested comment explaining why this method is empty, or complete the implementation.(®Í­
-wpython:S1186"YAdd a nested comment explaining why this method is empty, or complete the implementation.(¡ÓÅ•ÿÿÿÿÿ
-rpython:S1186“"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ëğÂ
-wpython:S1186–"YAdd a nested comment explaining why this method is empty, or complete the implementation.(Ã´¶øşÿÿÿÿ
-<python:S125ş"Remove this commented out code.(¢Ş›áúÿÿÿÿ
-Apython:S2201š	"(The return value of "repr" must be used.(Ù­Á
-vpython:S117ª	"YRename this local variable "A_result" to match the regular expression ^[_a-z][a-z0-9_]*$.(—°ïÍÿÿÿÿÿ

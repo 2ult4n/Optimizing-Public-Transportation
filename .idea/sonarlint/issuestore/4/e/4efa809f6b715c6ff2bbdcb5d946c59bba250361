@@ -1,12 +1,0 @@
-
-cpython:S1192M"KDefine a constant instead of duplicating this literal 'US/Eastern' 3 times.(¼ª«Ğ
-ipython:S1192J"QDefine a constant instead of duplicating this literal '2011-01-01 10:00' 7 times.(ó”‘
-hpython:S1192K"KDefine a constant instead of duplicating this literal 'Asia/Tokyo' 3 times.(‡ñëúÿÿÿÿ
-ipython:S1192J"QDefine a constant instead of duplicating this literal '2011-01-01 09:00' 8 times.(ó”‘
-ipython:S1192J"QDefine a constant instead of duplicating this literal '2011-01-01 11:00' 3 times.(ó”‘
-Epython:S22019"(The return value of "repr" must be used.(²¶ØÁøÿÿÿÿ
-Epython:S2201<"(The return value of "repr" must be used.(²¶ØÁøÿÿÿÿ
-Epython:S2201?"(The return value of "repr" must be used.(²¶ØÁøÿÿÿÿ
-_python:S5799a"GMerge these implicitly concatenated strings; or did you forget a comma?(à¼ò±
-Fpython:S2201¾"(The return value of "repr" must be used.(¡«¸•øÿÿÿÿ
-Fpython:S2201Î"(The return value of "repr" must be used.(—Â¾üÿÿÿÿ

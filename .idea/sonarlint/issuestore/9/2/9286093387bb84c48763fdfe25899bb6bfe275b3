@@ -1,11 +1,0 @@
-
-Épython:S1192¢"¯Define a constant instead of duplicating this literal """index,A,B,C,D
-foo,2,3,4,5
-bar,7,8,9,10
-baz,12,13,14,15
-qux,12,13,14,15
-foo2,12,13,14,15
-bar2,12,13,14,15
-""" 10 times.(á‚«È
-tpython:S1192Í"VDefine a constant instead of duplicating this literal "a\n1\n1,2,3\n4\n5,6,7" 3 times.(Îå‰ªüÿÿÿÿ
-Apython:S108Ž")Either remove or fill this block of code.(ã‘Û¾

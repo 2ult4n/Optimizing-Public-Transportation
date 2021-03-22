@@ -1,11 +1,0 @@
-
-epython:S1192Æ"GDefine a constant instead of duplicating this literal '2 days' 5 times.(ˆœ÷Àûÿÿÿÿ
-epython:S1192±"GDefine a constant instead of duplicating this literal '1 days' 5 times.(¬ªÂ‘ûÿÿÿÿ
-epython:S1192*"HDefine a constant instead of duplicating this literal '9 hours' 3 times.(ßš³Ÿşÿÿÿÿ
-epython:S1192*"HDefine a constant instead of duplicating this literal '6 hours' 3 times.(ßš³Ÿşÿÿÿÿ
-gpython:S1192Z"PDefine a constant instead of duplicating this literal '1 days 09:00:00' 5 times.(«ó™O
-apython:S1192ğ"HDefine a constant instead of duplicating this literal '-2 days' 3 times.(˜Ü’ÿ
-Qpython:S905¢":Remove or refactor this statement; it has no side effects.(Í
-Rpython:S905¤":Remove or refactor this statement; it has no side effects.(‰İ¶
-Rpython:S905¦":Remove or refactor this statement; it has no side effects.(œ²ã¶
-Wpython:S905¨":Remove or refactor this statement; it has no side effects.(òïæÈùÿÿÿÿ

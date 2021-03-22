@@ -1,13 +1,0 @@
-
-Cpython:S1481Â"*Remove the unused local variable "random".(ÌÖœò
-rpython:S3776ø"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ú¿ìµûÿÿÿÿ
-Cpython:S1481Ú"%Remove the unused local variable "i".(ËŒºÙýÿÿÿÿ
->python:S1481³"%Remove the unused local variable "x".(´ºÎ•
-Ipython:S1481ä"+Remove the unused local variable "uniform".(»ÙœÀüÿÿÿÿ
-ipython:S1854ó"KRemove this assignment to local variable 'random'; the value is never used.(ÕÈ¾Àøÿÿÿÿ
-ipython:S1854”"KRemove this assignment to local variable 'actual'; the value is never used.(¦ôã€úÿÿÿÿ
-mpython:S116µ"PRename this field "tgtShape" to match the regular expression ^[_a-z][_a-z0-9]*$.(÷èº»øÿÿÿÿ
-mpython:S116´"PRename this field "argThree" to match the regular expression ^[_a-z][_a-z0-9]*$.(¡Ñ…Ìüÿÿÿÿ
-fpython:S116³"NRename this field "argTwo" to match the regular expression ^[_a-z][_a-z0-9]*$.(ï€ðæ
-kpython:S116²"NRename this field "argOne" to match the regular expression ^[_a-z][_a-z0-9]*$.(ˆÜ¶¢üÿÿÿÿ
-opython:S117×"WRename this local variable "argTwo" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÕÇðÍ

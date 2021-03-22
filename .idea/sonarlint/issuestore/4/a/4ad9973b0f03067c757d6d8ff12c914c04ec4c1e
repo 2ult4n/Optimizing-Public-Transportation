@@ -1,28 +1,0 @@
-
-lpython:S1192¤"SDefine a constant instead of duplicating this literal b"test1,testNonethe" 3 times.(Ëæ¯Ü
-spython:S1192ä"UDefine a constant instead of duplicating this literal "0, 1, 2.3\n4, 5, 6.7" 4 times.(ÔÆÃ˜úÿÿÿÿ
-cpython:S1192¤"JDefine a constant instead of duplicating this literal b",test3\n" 3 times.(Ëæ¯Ü
-mpython:S1192õ"UDefine a constant instead of duplicating this literal '# comment\n1,2,3,5\n' 5 times.(Â½Ö
-gpython:S1192"IDefine a constant instead of duplicating this literal 'test.csv' 3 times.( šÈ˜üÿÿÿÿ
-apython:S1192‰"HDefine a constant instead of duplicating this literal "a, b, c" 3 times.(›€ÿÓ
-gpython:S1192³"IDefine a constant instead of duplicating this literal '1 2\n3 4' 4 times.(›üÈüÿÿÿÿ
-lpython:S1192Œ"NDefine a constant instead of duplicating this literal 'A,B\n0,1\n2,3' 4 times.(Í”£½ûÿÿÿÿ
-lpython:S1192ö"SDefine a constant instead of duplicating this literal '1,2,3.0\n4,5,6.0\n' 3 times.(ÛÙÀÈ
-kpython:S1192¼"MDefine a constant instead of duplicating this literal 'place holder' 5 times.(áÂ†úÿÿÿÿ
-npython:S1192Å"PDefine a constant instead of duplicating this literal 'A,B\n0,1\n2,N/A' 3 times.(Ûú½¥ÿÿÿÿÿ
-Gpython:S1066z"/Merge this if statement with the enclosing one.(‚‚İÿ
-kpython:S100"NRename method "test_1D" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‚àä¹ûÿÿÿÿ
-Cpython:S1481ƒ"%Remove the unused local variable "j".(çĞŞ›ûÿÿÿÿ
-Cpython:S1481«"%Remove the unused local variable "i".(·ı“Îÿÿÿÿÿ
-kpython:S100Ô"NRename method "test_1D" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‚àä¹ûÿÿÿÿ
-ipython:S100Ü"QRename method "test_0D_3D" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¾áÖ
-Cpython:S1481Ê"%Remove the unused local variable "i".(‘¶¿¥şÿÿÿÿ
-_python:S1854ä"FRemove this assignment to local variable 'x'; the value is never used.(Óâ †
-bpython:S1854±"IRemove this assignment to local variable 'test'; the value is never used.(˜ŒŠè
-bpython:S1854ª"IRemove this assignment to local variable 'test'; the value is never used.(˜ŒŠè
-gpython:S1854ø"IRemove this assignment to local variable 'ctrl'; the value is never used.(¯®‡£ıÿÿÿÿ
-hpython:S1542·"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-hpython:S1542Ë"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-gpython:S1854İ"IRemove this assignment to local variable 'test'; the value is never used.(®óâêıÿÿÿÿ
-gpython:S1854Û"IRemove this assignment to local variable 'ctrl'; the value is never used.(ˆ¶²”ùÿÿÿÿ
-<python:S125Õ"Remove this commented out code.(çë™ãûÿÿÿÿ

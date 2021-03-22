@@ -1,34 +1,0 @@
-
-ipython:S100="SRename method "test_zeros0D" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(—º+
-opython:S100B"SRename method "test_zerosSD" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(˜«¸·ıÿÿÿÿ
-ipython:S100H"SRename method "test_zerosMD" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(µƒ†w
-rpython:S101O"VRename class "TestCreateZeros_1" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ÅÅªãùÿÿÿÿ
-mpython:S101T"VRename class "TestCreateZeros_2" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(×‘é›
-ppython:S101Y"YRename class "TestCreateZeros_1009" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(”¢ğŒ
-jpython:S100v"TRename method "test_values0D" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÎåÙq
-ppython:S100{"TRename method "test_valuesSD" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÙµÓíùÿÿÿÿ
-lpython:S100"TRename method "test_valuesMD" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.( ö± 
-tpython:S101ˆ"\Rename class "TestCreateValues_1_UCS2" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(õ¶«
-ypython:S101"\Rename class "TestCreateValues_1_UCS4" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(Îİ¡„üÿÿÿÿ
-ypython:S101”"\Rename class "TestCreateValues_2_UCS2" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ş¾í©ûÿÿÿÿ
-spython:S101š"\Rename class "TestCreateValues_2_UCS4" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(Ã™I
-wpython:S101 "_Rename class "TestCreateValues_1009_UCS2" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(¬Â·í
-|python:S101¦"_Rename class "TestCreateValues_1009_UCS4" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(Ÿí‹Ñşÿÿÿÿ
-kpython:S100È"TRename method "test_values0D" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÎåÙq
-qpython:S100Î"TRename method "test_valuesSD" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÙµÓíùÿÿÿÿ
-lpython:S100Ö"TRename method "test_valuesMD" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.( ö± 
-tpython:S101ß"\Rename class "TestAssignValues_1_UCS2" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(¹È© 
-spython:S101å"\Rename class "TestAssignValues_1_UCS4" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ïÙÀy
-ypython:S101ë"\Rename class "TestAssignValues_2_UCS2" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ÆøáÎûÿÿÿÿ
-ypython:S101ñ"\Rename class "TestAssignValues_2_UCS4" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(¤òËóûÿÿÿÿ
-|python:S101÷"_Rename class "TestAssignValues_1009_UCS2" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(„äììùÿÿÿÿ
-wpython:S101ı"_Rename class "TestAssignValues_1009_UCS4" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(Œùå
-kpython:S100Š"TRename method "test_values0D" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÎåÙq
-qpython:S100–"TRename method "test_valuesSD" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÙµÓíùÿÿÿÿ
-lpython:S100 "TRename method "test_valuesMD" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.( ö± 
-vpython:S101É"YRename class "TestByteorder_1_UCS2" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(¸Üì”ÿÿÿÿÿ
-vpython:S101Ï"YRename class "TestByteorder_1_UCS4" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(¸™‰œûÿÿÿÿ
-vpython:S101Õ"YRename class "TestByteorder_2_UCS2" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ÁşÕ‰ÿÿÿÿÿ
-vpython:S101Û"YRename class "TestByteorder_2_UCS4" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(“ì™›şÿÿÿÿ
-ypython:S101á"\Rename class "TestByteorder_1009_UCS2" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(Ïõæ¾ùÿÿÿÿ
-tpython:S101ç"\Rename class "TestByteorder_1009_UCS4" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(Ø¡í

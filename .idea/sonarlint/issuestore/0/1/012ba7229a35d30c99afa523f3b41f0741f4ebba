@@ -1,21 +1,0 @@
-
-lpython:S1192U"ODefine a constant instead of duplicating this literal 'datetime64[ns]' 3 times.(ëëê¼şÿÿÿÿ
-gpython:S1192W"PDefine a constant instead of duplicating this literal 'timedelta64[ns]' 3 times.(Â¡¿2
-Lpython:S1066;"/Merge this if statement with the enclosing one.(Ìè‡ şÿÿÿÿ
-Lpython:S1066M"/Merge this if statement with the enclosing one.(ªõ°†ÿÿÿÿÿ
-Gpython:S1066j"/Merge this if statement with the enclosing one.(²ÒÚÚ
-Hpython:S1066™"/Merge this if statement with the enclosing one.(¨èÉä
-Mpython:S1066å"/Merge this if statement with the enclosing one.(ûÖõÛúÿÿÿÿ
-lpython:S3776A"TRefactor this function to reduce its Cognitive Complexity from 53 to the 15 allowed.(ƒ‡
-python:S1871€"cEither merge this branch with the identical one on line "123" or change one of the implementations.(ß¥üÿÿÿÿ
-rpython:S3776ª"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(ã„à¶ùÿÿÿÿ
-lpython:S3776ÿ"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(µ Ìa
-Apython:S108»")Either remove or fill this block of code.(ã‘Û¾
-Apython:S108½")Either remove or fill this block of code.(ã‘Û¾
-rpython:S3776Õ"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(¥÷œëùÿÿÿÿ
-Apython:S108¿")Either remove or fill this block of code.(ã‘Û¾
-lpython:S3776Õ"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(ËßÊw
-rpython:S3776Ã"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(½Ê¾§øÿÿÿÿ
-rpython:S3776‚"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(Ö–›âşÿÿÿÿ
-mpython:S3776Î"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÕÖÓ
-mpython:S3776¹"TRefactor this function to reduce its Cognitive Complexity from 94 to the 15 allowed.(„»ò

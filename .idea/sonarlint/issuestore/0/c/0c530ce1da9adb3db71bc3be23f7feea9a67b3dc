@@ -1,12 +1,0 @@
-
-`python:S1192Â"GDefine a constant instead of duplicating this literal 'M8[ns]' 3 times.(ÿΩÑÅ
-spython:S1186M"[Add a nested comment explaining why this function is empty, or complete the implementation.(ÙÆπ„
-xpython:S1186a"[Add a nested comment explaining why this function is empty, or complete the implementation.(†òûª˙ˇˇˇˇ
-mpython:S3776£"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ωà∆¡
-mpython:S3776Ô"TRefactor this function to reduce its Cognitive Complexity from 54 to the 15 allowed.(∆∆—·
-<python:S125ª"Remove this commented out code.(˛°€æ˛ˇˇˇˇ
-<python:S125“"Remove this commented out code.(íÈÃ¶˘ˇˇˇˇ
-Vpython:S112ä">Replace this generic exception class with a more specific one.(íã‚±
-mpython:S3776∫"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(†⁄ı∏
-bpython:S107ﬂ"KFunction "unpack" has 9 parameters, which is greater than the 7 authorized.(âöò^
-dpython:S107É"LMethod "__init__" has 11 parameters, which is greater than the 7 authorized.(ı§™Ã

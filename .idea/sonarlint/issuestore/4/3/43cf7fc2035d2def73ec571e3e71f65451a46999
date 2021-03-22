@@ -1,37 +1,0 @@
-
-jpython:S1192˜"LDefine a constant instead of duplicating this literal 'US/Eastern' 11 times.(ÌàÍ‰üÿÿÿÿ
-hpython:S1192Ë"ODefine a constant instead of duplicating this literal 'datetime64[ns]' 3 times.(‡ˆÍ
-cpython:S1192Î"JDefine a constant instead of duplicating this literal 'Unnamed 0' 3 times.(›íè¾
-`python:S1192Ù"GDefine a constant instead of duplicating this literal 'M8[ns]' 5 times.(Â¿ù
-bpython:S1192›"IDefine a constant instead of duplicating this literal 'End Date' 4 times.(Ä¬Î“
-Npython:S1481-"1Remove the unused local variable "indexed_frame".(À‘ò«ûÿÿÿÿ
-Ppython:S1481."3Remove the unused local variable "unindexed_frame".(’ÀÌ§úÿÿÿÿ
-Epython:S2201±"'The return value of "str" must be used.(ş“¦ƒúÿÿÿÿ
-wpython:S117¦"_Rename this local variable "data_Timestamp" to match the regular expression ^[_a-z][a-z0-9_]*$.(À…ó·
-~python:S117°"aRename this local variable "result_Timestamp" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒ·©ßıÿÿÿÿ
-|python:S117¿"_Rename this local variable "data_Timedelta" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ú£¢ÿÿÿÿÿ
-ypython:S117É"aRename this local variable "result_Timedelta" to match the regular expression ^[_a-z][a-z0-9_]*$.(êâì•
-jpython:S1764½"LCorrect one of the identical sub-expressions on both sides of operator "==".(œŞ¹Ğşÿÿÿÿ
-jpython:S1764É"LCorrect one of the identical sub-expressions on both sides of operator "==".(œŞ¹Ğşÿÿÿÿ
-jpython:S1764õ"LCorrect one of the identical sub-expressions on both sides of operator "==".(œŞ¹Ğşÿÿÿÿ
-`python:S1763±"GDelete this unreachable code or refactor the code to make it reachable.(“À™á
-Vpython:S5722Ï"=Remove 1 parameters. Method __len__ should have 1 parameters.(¹¸ïü
->python:S1481è"%Remove the unused local variable "i".(éŠ‰£
-7python:S125Å
-"Remove this commented out code.(õá€
-kpython:S1854İ"MRemove this assignment to local variable 'expected'; the value is never used.(÷£Ğùÿÿÿÿ
-dpython:S1854Ü"KRemove this assignment to local variable 'result'; the value is never used.(Î¼‰
-kpython:S1854Ø"MRemove this assignment to local variable 'expected'; the value is never used.(‡ñ“ğûÿÿÿÿ
-dpython:S1854×"KRemove this assignment to local variable 'result'; the value is never used.(Î¼‰
-Dpython:S1481Ğ"+Remove the unused local variable "intname".(Æ†êÙ
-Fpython:S1481Ñ"-Remove the unused local variable "floatname".(¸Òşó
->python:S1481Ö"%Remove the unused local variable "x".(†«Ó
->python:S1481Û"%Remove the unused local variable "x".(ö ¤™
-Cpython:S1481ˆ"%Remove the unused local variable "i".(Ìâçñûÿÿÿÿ
-hpython:S1542µ"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-Gpython:S1481©")Remove the unused local variable "frame".(å¦µÁÿÿÿÿÿ
-Dpython:S1481‡"&Remove the unused local variable "df".(©ÁÄ§úÿÿÿÿ
-fpython:S1854Ç"MRemove this assignment to local variable 'expected'; the value is never used.(õóì
-jpython:S1854Æ"LRemove this assignment to local variable 'results'; the value is never used.(«–øØùÿÿÿÿ
-ipython:S1854ô"KRemove this assignment to local variable 'result'; the value is never used.(´çËÖøÿÿÿÿ
-Wpython:S905ò":Remove or refactor this statement; it has no side effects.(½–ÁÎÿÿÿÿÿ

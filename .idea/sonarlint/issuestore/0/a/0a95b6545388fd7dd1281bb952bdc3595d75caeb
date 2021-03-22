@@ -1,17 +1,0 @@
-
-gpython:S1192ã"IDefine a constant instead of duplicating this literal 'removed ' 4 times.(ığÌµüÿÿÿÿ
-Mpython:S1066½"/Merge this if statement with the enclosing one.(åŞÉÌøÿÿÿÿ
-Mpython:S1066Í"/Merge this if statement with the enclosing one.(ü¥§úÿÿÿÿ
-rpython:S3776†"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(Õó¤äùÿÿÿÿ
-|python:S1871 "cEither merge this branch with the identical one on line "286" or change one of the implementations.(„±¥
-<python:S125À"Remove this commented out code.(Ø¤œ»ûÿÿÿÿ
-hpython:S107á"KMethod "__init__" has 8 parameters, which is greater than the 7 authorized.(ÄÁšÃşÿÿÿÿ
-rpython:S3776á"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÄÁšÃşÿÿÿÿ
-mpython:S3776§"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ëÇÂœ
-rpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 54 to the 15 allowed.(¹ˆÊºûÿÿÿÿ
-rpython:S3776‘	"TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(ñ½–ôıÿÿÿÿ
-rpython:S3776ƒ"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(é¸ûÿÿÿÿ
-rpython:S3776½"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ú˜Í‡ûÿÿÿÿ
-rpython:S3776€"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(›Æßúÿÿÿÿ
-mpython:S3776Å"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(Øı’Í
-mpython:S3776î"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(‰Ç

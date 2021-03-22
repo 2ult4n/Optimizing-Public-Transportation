@@ -1,22 +1,0 @@
-
-hpython:S1192±"JDefine a constant instead of duplicating this literal 'Red pixel' 9 times.(ë•şÑøÿÿÿÿ
-epython:S1192â"LDefine a constant instead of duplicating this literal 'Green pixel' 4 times.(ş¨ßŞ
-jpython:S1192±"LDefine a constant instead of duplicating this literal 'Blue pixel' 10 times.(ë•şÑøÿÿÿÿ
-epython:S1192İ"GDefine a constant instead of duplicating this literal 'i4, i1' 3 times.(ËæÆ´ùÿÿÿÿ
-`python:S1854¼"GRemove this assignment to local variable 'dt'; the value is never used.(ÑòÜâ
->python:S1481Í"%Remove the unused local variable "i".(ş…®ƒ
-jpython:S1764Ö"LCorrect one of the identical sub-expressions on both sides of operator "==".(µæÚ¿şÿÿÿÿ
-ypython:S107º"bMethod "test_structured_object_indexing" has 8 parameters, which is greater than the 7 authorized.(è´ƒO
-@python:S1481á"'Remove the unused local variable "new".(ßº´Â
-Cpython:S1481Ÿ"%Remove the unused local variable "i".(Ù†„ûÿÿÿÿ
-qpython:S101ô"TRename class "user_def_subcls" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ÇÎ¤Íúÿÿÿÿ
-ipython:S117½"QRename this parameter "DType" to match the regular expression ^[_a-z][a-z0-9_]*$.(…‘ŒÂ
-}python:S117À"`Rename this local variable "roundtrip_DType" to match the regular expression ^[_a-z][a-z0-9_]*$.(”Ãé¶ÿÿÿÿÿ
-dpython:S101â"GRename class "dt" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ê³˜ªüÿÿÿÿ
-dpython:S101é"GRename class "dt" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ê³˜ªüÿÿÿÿ
-dpython:S101ö"GRename class "dt" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(‡Ÿ¤´üÿÿÿÿ
-5python:S2772û"Remove this unneeded "pass".(ã‘Û¾
-dpython:S101	"GRename class "dt" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(‡Ÿ¤´üÿÿÿÿ
-cpython:S101ú
-"KRename class "mytype" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(¬ùë
-cpython:S101†"KRename class "mytype" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(¬ùë

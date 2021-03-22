@@ -1,29 +1,0 @@
-
-Mpython:S1066ì"/Merge this if statement with the enclosing one.(Şµ°íüÿÿÿÿ
-Hpython:S1066ç"/Merge this if statement with the enclosing one.(éÆÄ‹
-Mpython:S1066í"/Merge this if statement with the enclosing one.(îøİíüÿÿÿÿ
-Mpython:S1066æ"/Merge this if statement with the enclosing one.(ğÎäÙúÿÿÿÿ
-rpython:S3776˜"TRefactor this function to reduce its Cognitive Complexity from 72 to the 15 allowed.(Õ¡èšşÿÿÿÿ
-Apython:S108Å")Either remove or fill this block of code.(ã‘Û¾
-Apython:S108Ş")Either remove or fill this block of code.(ã‘Û¾
-Vpython:S112­">Replace this generic exception class with a more specific one.(Š¯òĞ
-rpython:S3776á"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(şâæ«ÿÿÿÿÿ
-qpython:S2737‡"XAdd logic to this except clause or eliminate it and rethrow the exception automatically.(€³¢»
-Apython:S108ü")Either remove or fill this block of code.(ã‘Û¾
-mpython:S3776‘"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(•›â
-mpython:S3776Ö"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.( Ú½
-Apython:S108ê")Either remove or fill this block of code.(ã‘Û¾
-mpython:S3776œ"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(‘ùº×
-epython:S107ì
-"MMethod "to_string" has 10 parameters, which is greater than the 7 authorized.(Ì½„ğ
-Vpython:S112‚">Replace this generic exception class with a more specific one.(ÉÌÊ†
-Apython:S108ş")Either remove or fill this block of code.(ã‘Û¾
-rpython:S117ê"ZRename this local variable "sortedIdx" to match the regular expression ^[_a-z][a-z0-9_]*$.(ô‘€®
-jpython:S107‘"MMethod "sort_index" has 8 parameters, which is greater than the 7 authorized.(è¶Ùûÿÿÿÿ
-[python:S112·">Replace this generic exception class with a more specific one.(÷®şõùÿÿÿÿ
-cpython:S1542ù"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åºØÀ
-bpython:S107"JMethod "_reduce" has 8 parameters, which is greater than the 7 authorized.(–èÓé
-fpython:S107É"IMethod "align" has 11 parameters, which is greater than the 7 authorized.(€‰òÈÿÿÿÿÿ
-_python:S107œ"GMethod "drop" has 8 parameters, which is greater than the 7 authorized.(äÛ‹ 
-apython:S107ù"IMethod "fillna" has 8 parameters, which is greater than the 7 authorized.(Çí¤ö
-bpython:S107ñ"KMethod "from_csv" has 8 parameters, which is greater than the 7 authorized.(û¬¶

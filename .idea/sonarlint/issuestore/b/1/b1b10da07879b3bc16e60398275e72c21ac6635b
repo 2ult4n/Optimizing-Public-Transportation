@@ -1,20 +1,0 @@
-
-`python:S1192Ö"GDefine a constant instead of duplicating this literal "%s(%s)" 4 times.(¿’ı¦
-Mpython:S1066¦"/Merge this if statement with the enclosing one.(›ìş¤úÿÿÿÿ
-apython:S101*"JRename class "tzutc" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(îÊ×À
-epython:S101…"MRename class "tzoffset" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(‹ÆÑ²
-dpython:S101É"LRename class "tzlocal" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ƒöô§
-hpython:S101‚"KRename class "tzfile" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(»µı‘ûÿÿÿÿ
-mpython:S3776è"TRefactor this function to reduce its Cognitive Complexity from 63 to the 15 allowed.(œå³
-dpython:S101ê"LRename class "tzrange" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ƒ‰Ÿ
-gpython:S101"JRename class "tzstr" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(©İ¹Çùÿÿÿÿ
-mpython:S3776×"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(©¸÷§
-vpython:S5717	"]Change this default value to "None" and initialize this parameter inside the function/method.(¤š¸”
-cpython:S101å	"KRename class "tzical" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(˜†å
-npython:S3776²
-"URefactor this function to reduce its Cognitive Complexity from 115 to the 15 allowed.(¾ÉÖ‘
-Apython:S108")Either remove or fill this block of code.(ã‘Û¾
-Apython:S108§")Either remove or fill this block of code.(ã‘Û¾
-npython:S3776¾"URefactor this function to reduce its Cognitive Complexity from 112 to the 15 allowed.(ĞÊ€
-Lpython:S1481¢".Remove the unused local variable "old_offset".(õ×¾«ûÿÿÿÿ
-wpython:S1186¶"YAdd a nested comment explaining why this method is empty, or complete the implementation.(‘öĞåûÿÿÿÿ

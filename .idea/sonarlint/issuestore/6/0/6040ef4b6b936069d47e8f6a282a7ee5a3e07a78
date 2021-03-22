@@ -1,59 +1,0 @@
-
-hpython:S1542"KRename function "eq" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(™€óÉüÿÿÿÿ
-spython:S1003"WRename method "test_testBasic1d" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ü„–¹şÿÿÿÿ
-npython:S100A"WRename method "test_testBasic2d" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÜÏ™İ
-cpython:S1854Y"FRemove this assignment to local variable 's'; the value is never used.(¼€Ğäıÿÿÿÿ
-vpython:S100W"ZRename method "test_testArithmetic" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(³ô²¯øÿÿÿÿ
-hpython:S1764^"KCorrect one of the identical sub-expressions on both sides of operator "-".(¸†€“ùÿÿÿÿ
-vpython:S100}"_Rename method "test_testMixedArithmetic" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(­ÜèÛ
-opython:S100ƒ"WRename method "test_testUfuncs1" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¨Ğ­
-spython:S100¢"VRename method "test_xtestCount" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÿ¾„¬øÿÿÿÿ
-npython:S100±"VRename method "test_testMinMax" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(å„ªÁ
-rpython:S100»"ZRename method "test_testAddSumProd" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÿ–Ø‰
-opython:S100Ğ"RRename method "test_testCI" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ìõôÿÿÿÿÿ
-@python:S2201×"'The return value of "str" must be used.(ÿïÂ
-Fpython:S2201Ø"(The return value of "repr" must be used.(Î¥éùÿÿÿÿ
-upython:S100‚"XRename method "test_testCopySize" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(û°ª£ÿÿÿÿÿ
-kpython:S100µ"SRename method "test_testPut" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ùˆø
-qpython:S100Ë"TRename method "test_testPut2" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(×ıÌ¯úÿÿÿÿ
-rpython:S100å"URename method "test_testMaPut" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(„î¢Ñÿÿÿÿÿ
-xpython:S100ì"[Rename method "test_testOddFeatures" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¶³…ºúÿÿÿÿ
-npython:S100Ñ"WRename method "test_testMinMax2" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(î°¨v
-„python:S100Ş"gRename method "test_testTakeTransposeInnerOuter" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(à½â±ùÿÿÿÿ
-tpython:S100ò"WRename method "test_testInplace" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(•ıÿíûÿÿÿÿ
-npython:S100¤"VRename method "test_testPickle" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(İ¯åº
-spython:S100®"VRename method "test_testMasked" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ŠÇøùûÿÿÿÿ
-upython:S100¶"XRename method "test_testAverage1" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(õ‰ÕÂıÿÿÿÿ
-ppython:S100É"XRename method "test_testAverage2" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÓœÃ˜
-ppython:S100ƒ"XRename method "test_testToPython" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(€óÅ™
-}python:S100Œ"`Rename method "test_testScalarArithmetic" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ü´½Äûÿÿÿÿ
-tpython:S100›"\Rename method "test_testArrayMethods" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Å«èÜ
-wpython:S100¬"_Rename method "test_testArrayAttributes" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(êôÀ“
-kpython:S100°"SRename method "test_testAPI" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(°Äû
-ƒpython:S100µ"fRename method "test_testSingleElementSubscript" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(„¿Š¡úÿÿÿÿ
-|python:S100Â"_Rename method "test_testUfuncRegression" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¢—Èêùÿÿÿÿ
->python:S1481ù"%Remove the unused local variable "t".(«ˆÆ¥
-kpython:S117‘"SRename this local variable "mX" to match the regular expression ^[_a-z][a-z0-9_]*$.(«ğ±
-lpython:S117’"TRename this local variable "mXX" to match the regular expression ^[_a-z][a-z0-9_]*$.(øÀĞ¬
-kpython:S117—"SRename this local variable "mX" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØèÚ
-lpython:S117—"TRename this local variable "mXX" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØèÚ
-opython:S117˜"WRename this local variable "mXdiag" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢ úã
-kpython:S117Ÿ"SRename this local variable "mX" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØèÚ
-lpython:S117Ÿ"TRename this local variable "mXX" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØèÚ
-_python:S1854¦"FRemove this assignment to local variable 'm'; the value is never used.(ØèÚ
-kpython:S117¦"SRename this local variable "mX" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØèÚ
-lpython:S117¦"TRename this local variable "mXX" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØèÚ
-kpython:S117³"SRename this local variable "mX" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØèÚ
-lpython:S117³"TRename this local variable "mXX" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØèÚ
-xpython:S117¶"[Rename this local variable "mXXswapped" to match the regular expression ^[_a-z][a-z0-9_]*$.(§êúËûÿÿÿÿ
-rpython:S117´"ZRename this local variable "mXswapped" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼İ˜•
-kpython:S117º"SRename this local variable "mX" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØèÚ
-lpython:S117º"TRename this local variable "mXX" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØèÚ
-rpython:S117»"URename this local variable "mXcp" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÖÉêóÿÿÿÿÿ
-kpython:S117Á"SRename this local variable "mX" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØèÚ
-lpython:S117Á"TRename this local variable "mXX" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØèÚ
-rpython:S117Â"URename this local variable "mXcp" to match the regular expression ^[_a-z][a-z0-9_]*$.(Òú®ıÿÿÿÿ
-kpython:S117È"SRename this local variable "mX" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØèÚ
-lpython:S117È"TRename this local variable "mXX" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØèÚ
-opython:S117Í"WRename this local variable "mXvar0" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿ–›
-opython:S117Í"WRename this local variable "mXvar1" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿ–›

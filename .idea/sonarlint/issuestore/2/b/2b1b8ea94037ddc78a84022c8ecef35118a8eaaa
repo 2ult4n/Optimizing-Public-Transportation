@@ -1,10 +1,0 @@
-
-kpython:S1192î"MDefine a constant instead of duplicating this literal "Hello Friend" 3 times.(˜Á“¬ùÿÿÿÿ
-Epython:S2201"(The return value of "repr" must be used.(ˆÿşøÿÿÿÿ
-Cpython:S1481Ç"%Remove the unused local variable "i".(ÏêĞ“ûÿÿÿÿ
-@python:S2201‡"'The return value of "str" must be used.(Ïì…Í
-@python:S2201Š"'The return value of "str" must be used.(Ïì…Í
-@python:S2201"'The return value of "str" must be used.(Ïì…Í
-@python:S2201"'The return value of "str" must be used.(Ïì…Í
-hpython:S1542±"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷‘õàúÿÿÿÿ
-upython:S4143"\Verify this is the key that was intended; a value has already been saved for it on line 380.(„ˆ²ì

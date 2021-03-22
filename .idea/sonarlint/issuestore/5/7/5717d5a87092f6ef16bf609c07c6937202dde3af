@@ -1,25 +1,0 @@
-
-Mpython:S1066"/Merge this if statement with the enclosing one.(óŒ“Şÿÿÿÿÿ
-Mpython:S1066«"/Merge this if statement with the enclosing one.(ú¼‹«øÿÿÿÿ
-jpython:S1134ê"LTake the required action to fix the issue indicated by this "FIXME" comment.(¼ôÏŒşÿÿÿÿ
-Dpython:S5806ù"+Rename this variable; it shadows a builtin.(Û†ƒÒ
-qpython:S107û"YFunction "_loadtxt_dispatcher" has 13 parameters, which is greater than the 7 authorized.(³ıÓ¿
-jpython:S107ƒ"MFunction "loadtxt" has 13 parameters, which is greater than the 7 authorized.(ÖÕ¦Ãúÿÿÿÿ
-spython:S3776ƒ"URefactor this function to reduce its Cognitive Complexity from 114 to the 15 allowed.(ÖÕ¦Ãúÿÿÿÿ
-Dpython:S5806¦"+Rename this variable; it shadows a builtin.(œÚğ°
-Cpython:S1481Ú"%Remove the unused local variable "i".(´‰…üÿÿÿÿ
-jpython:S117ª	"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(Œ’•âÿÿÿÿÿ
-upython:S107ª	"XFunction "_savetxt_dispatcher" has 9 parameters, which is greater than the 7 authorized.(Œ’•âÿÿÿÿÿ
-epython:S117±	"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(êóŒĞ
-ypython:S117ò
-"\Rename this local variable "iscomplex_X" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡ŞÍÛùÿÿÿÿ
-dpython:S107±	"LFunction "savetxt" has 9 parameters, which is greater than the 7 authorized.(êóŒĞ
-mpython:S3776±	"TRefactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.(êóŒĞ
-Dpython:S5806ø
-"+Rename this variable; it shadows a builtin.(Ò¡Ã—
-tpython:S107‹"\Function "_genfromtxt_dispatcher" has 25 parameters, which is greater than the 7 authorized.(ª»÷Å
-hpython:S107˜"PFunction "genfromtxt" has 25 parameters, which is greater than the 7 authorized.(ê©´
-npython:S3776˜"URefactor this function to reduce its Cognitive Complexity from 295 to the 15 allowed.(ê©´
-vpython:S5717˜"]Change this default value to "None" and initialize this parameter inside the function/method.(ê©´
-jpython:S1134ù"LTake the required action to fix the issue indicated by this "FIXME" comment.(õµö¯ùÿÿÿÿ
-Cpython:S1481°"%Remove the unused local variable "t".(¿Ùëêûÿÿÿÿ

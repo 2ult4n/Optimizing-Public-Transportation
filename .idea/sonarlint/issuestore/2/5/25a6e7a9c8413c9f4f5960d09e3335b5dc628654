@@ -1,24 +1,0 @@
-
-Hpython:S1066ï"/Merge this if statement with the enclosing one.(‘ö ú
-Hpython:S1066ò"/Merge this if statement with the enclosing one.(‘ö ú
-qpython:S3776B"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ëÏ‘çıÿÿÿÿ
-zpython:S1871N"bEither merge this branch with the identical one on line "75" or change one of the implementations.(³î
-zpython:S1871P"bEither merge this branch with the identical one on line "75" or change one of the implementations.(³î
-zpython:S1871R"bEither merge this branch with the identical one on line "75" or change one of the implementations.(³î
-zpython:S1871T"bEither merge this branch with the identical one on line "75" or change one of the implementations.(³î
-zpython:S1871V"bEither merge this branch with the identical one on line "75" or change one of the implementations.(³î
-qpython:S3776Z"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(¯ˆ¦Üÿÿÿÿÿ
-Rpython:S2836f"5Add a "break" statement or remove this "else" clause.(³£œ‰øÿÿÿÿ
-Apython:S1481é"(Remove the unused local variable "item".(ÃÜíİ
-Apython:S1481ö"(Remove the unused local variable "item".(ÃÜíİ
-Fpython:S1481"(Remove the unused local variable "item".(•¯Œòøÿÿÿÿ
-Fpython:S1481©"(Remove the unused local variable "item".(•¯Œòøÿÿÿÿ
-rpython:S3776°"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ËÒÛÊúÿÿÿÿ
-mpython:S3776î"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(Ğ†ß
-mpython:S3776û"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Å¡¡
-Cpython:S1481 "%Remove the unused local variable "i".(ÛĞ«ûÿÿÿÿ
-ipython:S107ï"LMethod "__init__" has 10 parameters, which is greater than the 7 authorized.( Ğàşüÿÿÿÿ
-Cpython:S1481…"%Remove the unused local variable "i".(Ô—ùÿÿÿÿ
-hpython:S101–"PRename class "file_reader" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(•éªÚ
-hpython:S101Ú"KRename class "reader" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ä†Ç‘üÿÿÿÿ
-npython:S101²"QRename class "block_reader" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(´ïŠßüÿÿÿÿ

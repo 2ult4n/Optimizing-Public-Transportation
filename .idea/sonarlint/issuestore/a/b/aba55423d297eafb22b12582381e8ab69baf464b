@@ -1,11 +1,0 @@
-
-zpython:S117*"^Rename this local variable "OpenClipboard" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰ıÚøÿÿÿÿ
-zpython:S117."cRename this local variable "safeCloseClipboard" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷öÿ¯
-€python:S117!"dRename this local variable "safeCreateWindowExA" to match the regular expression ^[_a-z][a-z0-9_]*$.(“åäôùÿÿÿÿ
-~python:S117&"bRename this local variable "safeDestroyWindow" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ì®Æ·şÿÿÿÿ
-python:S1172"cRename this local variable "safeEmptyClipboard" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜¯ñùøÿÿÿÿ
-python:S1176"eRename this local variable "safeGetClipboardData" to match the regular expression ^[_a-z][a-z0-9_]*$.(šÒ‘Îÿÿÿÿÿ
-wpython:S117>"`Rename this local variable "safeGlobalAlloc" to match the regular expression ^[_a-z][a-z0-9_]*$.(§åô§
-{python:S117B"_Rename this local variable "safeGlobalLock" to match the regular expression ^[_a-z][a-z0-9_]*$.(§œ…‘úÿÿÿÿ
-}python:S117F"aRename this local variable "safeGlobalUnlock" to match the regular expression ^[_a-z][a-z0-9_]*$.(ãÏ¹İøÿÿÿÿ
-python:S117:"eRename this local variable "safeSetClipboardData" to match the regular expression ^[_a-z][a-z0-9_]*$.(øæ”Áüÿÿÿÿ

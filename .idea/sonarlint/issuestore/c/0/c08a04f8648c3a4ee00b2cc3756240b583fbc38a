@@ -1,15 +1,0 @@
-
-gpython:S1192×"IDefine a constant instead of duplicating this literal '(2.5, 5]' 6 times.(Ôİ–üÿÿÿÿ
-cpython:S1192Õ"JDefine a constant instead of duplicating this literal '(7.5, 10]' 6 times.(ö¾Ô
-bpython:S1192Ø"IDefine a constant instead of duplicating this literal '(5, 7.5]' 6 times.(œÎşÏ
-gpython:S1192Ú"IDefine a constant instead of duplicating this literal '(0, 2.5]' 5 times.(½”ß·ùÿÿÿÿ
-bpython:S1542"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(öäƒù
-bpython:S1542V"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åºØÀ
-<python:S125é"Remove this commented out code.(èÃÌıÿÿÿÿ
-7python:S125ó"Remove this commented out code.(Í¤§à
-<python:S125"Remove this commented out code.(èÃÌıÿÿÿÿ
-7python:S125§"Remove this commented out code.(Í¤§à
-<python:S125É"Remove this commented out code.(Õ‘º…ıÿÿÿÿ
-7python:S125Î"Remove this commented out code.(”˜’…
-<python:S125æ"Remove this commented out code.(Õ‘º…ıÿÿÿÿ
-7python:S125ë"Remove this commented out code.(”˜’…

@@ -1,7 +1,0 @@
-
-gpython:S1192"ODefine a constant instead of duplicating this literal 'datetime64[ns]' 4 times.(æÒ„ƒ
-vpython:S1186a"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ÒÓÛ—ÿÿÿÿÿ
-Œpython:S4144ˆ"nUpdate this function so that its implementation is not identical to test_arith_series_with_scalar on line 118.(Þ¸½îøÿÿÿÿ
-Rpython:S905†":Remove or refactor this statement; it has no side effects.(Ë¨ÌÎ
-rpython:S1186“"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ÁéúÊ
-rpython:S1186¼"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ªíˆÞ

@@ -1,17 +1,0 @@
-
-hpython:S1192 "KDefine a constant instead of duplicating this literal 'US/Eastern' 3 times.(ã¨Û‘ıÿÿÿÿ
-`python:S1192æ"GDefine a constant instead of duplicating this literal 'M8[ns]' 4 times.(…ùÅ
-Apython:S1481G")Remove the unused local variable "frame".(Ú×ºß
-kpython:S1854á"MRemove this assignment to local variable 'expected'; the value is never used.(îÀë™ùÿÿÿÿ
-ipython:S1854à"KRemove this assignment to local variable 'result'; the value is never used.(×ñ‰øÿÿÿÿ
-<python:S125…"Remove this commented out code.(Íà¸Çşÿÿÿÿ
-hpython:S1542"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷¸ÃÖıÿÿÿÿ
-Apython:S2201ç"(The return value of "repr" must be used.(©áğÙ
-Fpython:S1481”"-Remove the unused local variable "floatname".(¸Òşó
-Dpython:S1481“"+Remove the unused local variable "intname".(Æ†êÙ
-Bpython:S1481"*Remove the unused local variable "result".(Çè
-@python:S1481"'Remove the unused local variable "exp".(€İ¸ã
-Apython:S2201™"(The return value of "repr" must be used.(¬±Û
-Apython:S2201œ"(The return value of "repr" must be used.(¬±Û
-vpython:S100¡"YRename method "test_get_X_columns" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‚›ï‘ûÿÿÿÿ
-opython:S117±"WRename this local variable "wasCol" to match the regular expression ^[_a-z][a-z0-9_]*$.(´¡°¹

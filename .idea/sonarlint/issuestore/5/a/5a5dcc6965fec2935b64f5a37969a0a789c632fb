@@ -1,7 +1,0 @@
-
-[python:S5720">Rename "object" to "self" or add the missing "self" parameter.(Œñ•­úÿÿÿÿ
-[python:S5720">Rename "object" to "self" or add the missing "self" parameter.(·Ñÿÿÿÿÿ
-Upython:S5720">Rename "object" to "self" or add the missing "self" parameter.(Ã¹ŒX
-“python:S100"wRename method "test_CategoricalAccessor_categorical_deprecation" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Œñ•­úÿÿÿÿ
-Œpython:S100"pRename method "test_CategoricalAccessor_name_deprecation" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(·Ñÿÿÿÿÿ
-‡python:S100"qRename method "test_CategoricalAccessor_index_deprecation" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ã¹ŒX

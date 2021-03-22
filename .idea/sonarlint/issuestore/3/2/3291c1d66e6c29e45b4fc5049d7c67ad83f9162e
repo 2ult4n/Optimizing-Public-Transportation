@@ -1,30 +1,0 @@
-
-`python:S1192¤"GDefine a constant instead of duplicating this literal 'm8[ns]' 6 times.(¬¡Ã÷
-zpython:S4143Ø"\Verify this is the key that was intended; a value has already been saved for it on line 599.(„î•ıüÿÿÿÿ
-upython:S4143Ü"\Verify this is the key that was intended; a value has already been saved for it on line 603.(Ë’Ìë
-Apython:S2201ï"(The return value of "repr" must be used.(ã¿¦Ó
-Hpython:S1481à"*Remove the unused local variable "result".(²°ªøúÿÿÿÿ
-ipython:S1854Ú"KRemove this assignment to local variable 'frame2'; the value is never used.(½’Ù¨øÿÿÿÿ
-7python:S125
-"Remove this commented out code.(‹Åğ³
-Dpython:S1481ƒ"&Remove the unused local variable "ts".(¨úÏŞşÿÿÿÿ
-7python:S125É"Remove this commented out code.(ÓŞÍ²
-7python:S125Î"Remove this commented out code.(ÓŞÍ²
-bpython:S3358É"IExtract this nested conditional expression into an independent statement.(Ê‘Ù‰
-cpython:S1542û"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(øæ»
-vpython:S4143Ş"]Verify this is the key that was intended; a value has already been saved for it on line 2397.(©®– 
-{python:S4143ê"]Verify this is the key that was intended; a value has already been saved for it on line 2409.(í°åúÿÿÿÿ
-rpython:S117Â"ZRename this local variable "IndexType" to match the regular expression ^[_a-z][a-z0-9_]*$.(òç‡Â
-mpython:S3776‰"TRefactor this function to reduce its Cognitive Complexity from 46 to the 15 allowed.(Úù÷ÿ
-Rpython:S905©":Remove or refactor this statement; it has no side effects.(®úì€
-Rpython:S905Ü":Remove or refactor this statement; it has no side effects.(®úì€
-Rpython:S905":Remove or refactor this statement; it has no side effects.(®úì€
-Rpython:S905µ":Remove or refactor this statement; it has no side effects.(„äÄï
-7python:S125ğ"Remove this commented out code.(²´Ç
-7python:S125¾"Remove this commented out code.(²´Ç
-@python:S2201í"'The return value of "str" must be used.(«ã–ø
-{python:S4143¨"]Verify this is the key that was intended; a value has already been saved for it on line 3239.(¹Şôûÿÿÿÿ
-{python:S4143ê"]Verify this is the key that was intended; a value has already been saved for it on line 3305.(¹Şôûÿÿÿÿ
-`python:S1854·"GRemove this assignment to local variable 'df'; the value is never used.(Šš»ô
-@python:S2201›"'The return value of "str" must be used.(Ïì…Í
-@python:S2201¥"'The return value of "str" must be used.(Ïì…Í

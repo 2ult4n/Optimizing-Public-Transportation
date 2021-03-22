@@ -1,13 +1,0 @@
-
-ipython:S1019"MRename class "disallow" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(™ÑÁÔùÿÿÿÿ
-hpython:S1542E"KRename function "_f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(˜è¥˜şÿÿÿÿ
-mpython:S101Y"VRename class "bottleneck_switch" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ÔéÈ
-qpython:S3776^"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(¿Ü£ğúÿÿÿÿ
-gpython:S1542g"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(çÊ¹îüÿÿÿÿ
-mpython:S3776´"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(­¦Û—
-mpython:S3776Ë"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(î¯•Ù
-lpython:S3776”"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(îØ—:
-mpython:S3776û"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(˜Ş†ò
-mpython:S3776œ"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ãèø‡
-mpython:S3776ş"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ÿ”˜û
-hpython:S1542™	"JRename function "f" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(æ§›øùÿÿÿÿ

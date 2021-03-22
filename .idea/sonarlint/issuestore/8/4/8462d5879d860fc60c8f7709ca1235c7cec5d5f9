@@ -1,13 +1,0 @@
-
-ipython:S1192ı"KDefine a constant instead of duplicating this literal '__{name}__' 3 times.(§¦ûÍúÿÿÿÿ
-Hpython:S1066ß"/Merge this if statement with the enclosing one.(Ü Õ¹
-Hpython:S1066·"/Merge this if statement with the enclosing one.(ŸÃ¹‹
-lpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(›”ÒN
-hpython:S107·"KMethod "__init__" has 8 parameters, which is greater than the 7 authorized.(Ç¯¿Åûÿÿÿÿ
-rpython:S3776·"TRefactor this function to reduce its Cognitive Complexity from 50 to the 15 allowed.(Ç¯¿Åûÿÿÿÿ
-[python:S112Û">Replace this generic exception class with a more specific one.(¥˜üÿÿÿÿ
-Apython:S108Õ")Either remove or fill this block of code.(ã‘Û¾
-rpython:S3776ë"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(şâæ«ÿÿÿÿÿ
-mpython:S3776©"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ê†È
-Apython:S108”")Either remove or fill this block of code.(ã‘Û¾
-epython:S117†"MRename this parameter "A" to match the regular expression ^[_a-z][a-z0-9_]*$.(©øÄé

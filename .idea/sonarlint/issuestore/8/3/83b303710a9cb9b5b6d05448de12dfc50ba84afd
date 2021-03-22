@@ -1,55 +1,0 @@
-
-dpython:S1192 "FDefine a constant instead of duplicating this literal '  c  ' 5 times.(ÁÈØıÿÿÿÿ
-wpython:S1192Ã"YDefine a constant instead of duplicating this literal "case and flags cannot be" 3 times.(Îæúøÿÿÿÿ
-lpython:S1192ù"NDefine a constant instead of duplicating this literal '[a-z][A-Z]{2}' 3 times.(®£í»úÿÿÿÿ
-lpython:S1192­"SDefine a constant instead of duplicating this literal r"[ab](?P<digit>\d)" 3 times.(¹¸Ó‰
-lpython:S1192×	"NDefine a constant instead of duplicating this literal '([AB])([123])' 3 times.(®ÒŒ°ıÿÿÿÿ
-{python:S1192¼"bDefine a constant instead of duplicating this literal "expected a string object, not int" 3 times.(Ş˜ ƒ
-dpython:S1192œ"FDefine a constant instead of duplicating this literal 'b    ' 6 times.(ÁÈØıÿÿÿÿ
-python:S1192£
-"cDefine a constant instead of duplicating this literal '(?P<letter>[AB])?(?P<number>[123])' 3 times.(íÏŠ°øÿÿÿÿ
-dpython:S1192 "FDefine a constant instead of duplicating this literal '  b  ' 6 times.(ÁÈØıÿÿÿÿ
-dpython:S1192œ"FDefine a constant instead of duplicating this literal 'a    ' 6 times.(ÁÈØıÿÿÿÿ
-_python:S1192·"FDefine a constant instead of duplicating this literal 'a,b_c' 3 times.(ëÉÕ¿
-_python:S1192·"FDefine a constant instead of duplicating this literal 'c_d,e' 3 times.(ëÉÕ¿
-fpython:S1192&"IDefine a constant instead of duplicating this literal '([a-z]*)' 3 times.(ğ—ĞÌÿÿÿÿÿ
-mpython:S1192	"TDefine a constant instead of duplicating this literal '.*(BAD[_]+).*(BAD)' 10 times.(Ğ¥‘Ñ
-dpython:S1192 "FDefine a constant instead of duplicating this literal '  a  ' 6 times.(ÁÈØıÿÿÿÿ
-bpython:S1192ë"IDefine a constant instead of duplicating this literal r'([a-z])' 3 times.(é‹‰
-dpython:S1192³"FDefine a constant instead of duplicating this literal 'f[o]+' 4 times.(îÄ¨Çıÿÿÿÿ
-gpython:S1192û"IDefine a constant instead of duplicating this literal 'LDFJH xx' 4 times.(¾³àùÿÿÿÿ
-apython:S1192Ê"HDefine a constant instead of duplicating this literal 'BAD[_]*' 8 times.(ˆÚÅ
-_python:S1192·"FDefine a constant instead of duplicating this literal 'f,g,h' 3 times.(ëÉÕ¿
-dpython:S1192˜"FDefine a constant instead of duplicating this literal '    c' 5 times.(ÁÈØıÿÿÿÿ
-dpython:S1192˜"FDefine a constant instead of duplicating this literal '    a' 6 times.(ÁÈØıÿÿÿÿ
-dpython:S1192œ"FDefine a constant instead of duplicating this literal 'c    ' 5 times.(ÁÈØıÿÿÿÿ
-dpython:S1192˜"FDefine a constant instead of duplicating this literal '    b' 6 times.(ÁÈØıÿÿÿÿ
-fpython:S1192û"HDefine a constant instead of duplicating this literal 'xx BNSD' 4 times.(¾³àùÿÿÿÿ
-Apython:S108Á")Either remove or fill this block of code.(ã‘Û¾
-Apython:S108Ì")Either remove or fill this block of code.(ã‘Û¾
-Apython:S108Ø")Either remove or fill this block of code.(ã‘Û¾
-dpython:S1854Ì"KRemove this assignment to local variable 'result'; the value is never used.(Ïõ™æ
-dpython:S1854È"KRemove this assignment to local variable 'result'; the value is never used.(â’¿¶
-dpython:S1854Ä"KRemove this assignment to local variable 'result'; the value is never used.(¤ßã
-vpython:S100¬	"_Rename method "test_extract_expand_None" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¥¾6
-xpython:S100¹	"`Rename method "test_extract_expand_False" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¸ÙÈ‹
-¿python:S1515İ	" Add a parameter to the parent lambda function and use variable "s_or_idx" as its default value; The value of "s_or_idx" might change at the next loop iteration.(ÏĞõæÿÿÿÿÿ
-¿python:S1515á	" Add a parameter to the parent lambda function and use variable "s_or_idx" as its default value; The value of "s_or_idx" might change at the next loop iteration.(ÛÏÓşÿÿÿÿ
-wpython:S100Ñ
-"_Rename method "test_extract_expand_True" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Û¹”­
-¿python:S1515î
-" Add a parameter to the parent lambda function and use variable "s_or_idx" as its default value; The value of "s_or_idx" might change at the next loop iteration.(õ×Ä“úÿÿÿÿ
-¿python:S1515ò
-" Add a parameter to the parent lambda function and use variable "s_or_idx" as its default value; The value of "s_or_idx" might change at the next loop iteration.(×²òäıÿÿÿÿ
-ppython:S117¨"SRename this local variable "Si" to match the regular expression ^[_a-z][a-z0-9_]*$.(áËÇˆúÿÿÿÿ
-ppython:S117¹"SRename this local variable "Sn" to match the regular expression ^[_a-z][a-z0-9_]*$.(¶øÙËıÿÿÿÿ
-Gpython:S1481÷")Remove the unused local variable "num_e".(ÑÌâƒúÿÿÿÿ
-dpython:S1854Á"KRemove this assignment to local variable 'result'; the value is never used.(¶ÀöĞ
-ipython:S1854½"KRemove this assignment to local variable 'result'; the value is never used.(‹·åÜøÿÿÿÿ
-dpython:S1854‹"KRemove this assignment to local variable 'result'; the value is never used.(ìÚı­
-dpython:S1854‡"KRemove this assignment to local variable 'result'; the value is never used.(Œ®µÃ
-ipython:S1854ä"KRemove this assignment to local variable 'result'; the value is never used.(îÿ–Òúÿÿÿÿ
-dpython:S1854à"KRemove this assignment to local variable 'result'; the value is never used.(Á¼õ»
-ipython:S1854"KRemove this assignment to local variable 'result'; the value is never used.(Êâù¼ûÿÿÿÿ
-spython:S117€"[Rename this local variable "decodeBase" to match the regular expression ^[_a-z][a-z0-9_]*$.(•úìÒ
-xpython:S117÷"[Rename this local variable "encodeBase" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷á¿ıÿÿÿÿ

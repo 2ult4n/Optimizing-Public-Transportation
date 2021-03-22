@@ -1,12 +1,0 @@
-
-ipython:S11927"LDefine a constant instead of duplicating this literal 'US/Eastern' 44 times.(ŒŸáóúÿÿÿÿ
-qpython:S1192b"TDefine a constant instead of duplicating this literal '2008-05-12 09:50:00' 4 times.(¢…Ÿıøÿÿÿÿ
-qpython:S1192k"TDefine a constant instead of duplicating this literal '2008-05-12 13:50:00' 4 times.(¡ıöŒşÿÿÿÿ
-qpython:S1192c"TDefine a constant instead of duplicating this literal '2008-12-12 09:50:35' 4 times.(ÛÌ¢¤øÿÿÿÿ
-lpython:S1192l"TDefine a constant instead of duplicating this literal '2008-12-12 14:50:35' 4 times.(ºäô
-ipython:S11925"LDefine a constant instead of duplicating this literal 'US/Pacific' 12 times.(®Ü„íüÿÿÿÿ
-epython:S1854ù"GRemove this assignment to local variable 'dr'; the value is never used.(şàîÿÿÿÿÿ
-`python:S1854ï"GRemove this assignment to local variable 'dr'; the value is never used.(–ÁÈ¼
-epython:S1134¨"LTake the required action to fix the issue indicated by this "FIXME" comment.(ÇãñÕ
-`python:S1854Œ"GRemove this assignment to local variable 'dr'; the value is never used.(à˜‹µ
-`python:S1854ü"GRemove this assignment to local variable 'dr'; the value is never used.(ÿ¥ş’

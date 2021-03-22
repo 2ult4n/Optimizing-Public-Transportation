@@ -1,11 +1,0 @@
-
-bpython:S1192ã"IDefine a constant instead of duplicating this literal '%Y-%m-%d' 4 times.(ªˆ¡Â
-gpython:S1192™	"NDefine a constant instead of duplicating this literal 'City Exponent' 5 times.(î…Ï
-cpython:S1192™	"JDefine a constant instead of duplicating this literal 'City Rank' 4 times.(î…Ï
-Cpython:S1481"%Remove the unused local variable "w".(Úî¢©ûÿÿÿÿ
-Cpython:S1481ª"%Remove the unused local variable "w".(´–ê¨ûÿÿÿÿ
->python:S1481©"%Remove the unused local variable "j".(ï›º½
-Cpython:S1481ä"%Remove the unused local variable "w".(Úî¢©ûÿÿÿÿ
-Cpython:S1481ò"%Remove the unused local variable "w".(´–ê¨ûÿÿÿÿ
->python:S1481ñ"%Remove the unused local variable "j".(ï›º½
->python:S1481‰	"%Remove the unused local variable "j".(ï›º½

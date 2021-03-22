@@ -1,24 +1,0 @@
-
-ypython:S100‚"aRename method "test_integer_split_2D_rows" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ê®öñ
-~python:S100‘"aRename method "test_integer_split_2D_cols" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¸†œóüÿÿÿÿ
-python:S100™"dRename method "test_integer_split_2D_default" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ãÂ¨Àÿÿÿÿÿ
-‹python:S100¥"sRename method "test_integer_split_2D_rows_greater_max_int32" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¼ºıÌ
-mpython:S100Ú"URename method "test_1D_arrays" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(âÕ“•
-rpython:S100ä"URename method "test_2D_arrays" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¼Äı‰ùÿÿÿÿ
-qpython:S100÷"TRename method "test_0D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(º…± úÿÿÿÿ
-lpython:S100ş"TRename method "test_1D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Êæ£–
-lpython:S100…"TRename method "test_2D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Œúà¶
-rpython:S100Œ"URename method "test_2D_array2" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¶üõ½şÿÿÿÿ
-qpython:S100¡"TRename method "test_0D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(º…± úÿÿÿÿ
-lpython:S100©"TRename method "test_1D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Êæ£–
-lpython:S100¯"TRename method "test_2D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Œúà¶
-qpython:S100¾"TRename method "test_0D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(º…± úÿÿÿÿ
-lpython:S100Â"TRename method "test_1D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Êæ£–
-lpython:S100Ê"TRename method "test_2D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Œúà¶
-qpython:S100×"TRename method "test_0D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(º…± úÿÿÿÿ
-lpython:S100Û"TRename method "test_1D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Êæ£–
-lpython:S100ß"TRename method "test_2D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Œúà¶
-lpython:S100è"TRename method "test_3D_array" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(­¤±
-ipython:S101ˆ"LRename class "myarray" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(Î£—Şùÿÿÿÿ
-Cpython:S1481¡"%Remove the unused local variable "b".(ò¯¸·şÿÿÿÿ
-Cpython:S1481¢"%Remove the unused local variable "b".(şŞ›ƒøÿÿÿÿ

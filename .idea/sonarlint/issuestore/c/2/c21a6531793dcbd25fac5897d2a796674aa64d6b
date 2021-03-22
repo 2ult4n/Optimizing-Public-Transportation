@@ -1,52 +1,0 @@
-
-hpython:S1192A"KDefine a constant instead of duplicating this literal 'US/Eastern' 4 times.(¬ªÅæùÿÿÿÿ
-ppython:S1192Ù"RDefine a constant instead of duplicating this literal '2011-01-01 09:00Z' 3 times.(®ş´Ûşÿÿÿÿ
-jpython:S1192´
-"QDefine a constant instead of duplicating this literal '2014-07-04 16:00' 4 times.(Úê·ƒ
-mpython:S1192Â"TDefine a constant instead of duplicating this literal '2011-01-03 09:00:00' 7 times.(¤ğé˜
-epython:S1192Ù"LDefine a constant instead of duplicating this literal 'US/Central' 16 times.(Î©êè
-mpython:S1192“"TDefine a constant instead of duplicating this literal '2010-12-01 09:00:00' 4 times.(è¤—‘
-jpython:S1192Ç"QDefine a constant instead of duplicating this literal '2014-07-01 16:00' 3 times.(µ¥¿²
-opython:S1192×
-"QDefine a constant instead of duplicating this literal '2014-07-08 10:45' 3 times.(¥ÓúÎıÿÿÿÿ
-spython:S1192û"UDefine a constant instead of duplicating this literal '2011-01-01 00:00:00' 10 times.(µñª³üÿÿÿÿ
-opython:S1192Ç
-"QDefine a constant instead of duplicating this literal '2014-07-08 10:00' 3 times.(¸ß¯Ãıÿÿÿÿ
-opython:S1192³
-"QDefine a constant instead of duplicating this literal '2014-07-04 15:00' 5 times.(æª·şÿÿÿÿ
-mpython:S1192Ä"TDefine a constant instead of duplicating this literal '2011-01-31 09:00:00' 3 times.(ı®†–
-mpython:S1192Ù"TDefine a constant instead of duplicating this literal '2000-01-15 00:15:00' 4 times.(Î©êè
-opython:S1192×
-"QDefine a constant instead of duplicating this literal '2014-07-04 15:45' 3 times.(¥ÓúÎıÿÿÿÿ
-spython:S1192"UDefine a constant instead of duplicating this literal '2010-12-31 09:00:00' 10 times.(ıïÙ»ùÿÿÿÿ
-ppython:S15422"SRename function "test_to_M8" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ü³ˆÿÿÿÿÿ
-Wpython:S905š":Remove or refactor this statement; it has no side effects.(ÅæÙ ıÿÿÿÿ
-mpython:S100 "PRename method "testMult1" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¼Ñ÷Çøÿÿÿÿ
-hpython:S100¨"PRename method "testMult2" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ü©¢»
-rpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ö¿æ‘ÿÿÿÿÿ
-Apython:S2201—"(The return value of "repr" must be used.(×õ›é
-Fpython:S2201˜"(The return value of "repr" must be used.(­ƒ«ïúÿÿÿÿ
-Apython:S2201™"(The return value of "repr" must be used.(…êƒè
-Fpython:S2201š"(The return value of "repr" must be used.(§ßşøÿÿÿÿ
-jpython:S1764×"LCorrect one of the identical sub-expressions on both sides of operator "==".(ÒØåÊüÿÿÿÿ
-wpython:S1186Ù"YAdd a nested comment explaining why this method is empty, or complete the implementation.(şÉã‘şÿÿÿÿ
-jpython:S1764İ"LCorrect one of the identical sub-expressions on both sides of operator "==".(Óˆ°Šüÿÿÿÿ
-zpython:S4144ª
-"\Update this function so that its implementation is not identical to test_apply on line 1266.(øÏê¼ùÿÿÿÿ
-epython:S1764…"LCorrect one of the identical sub-expressions on both sides of operator "==".(ƒ½÷
-jpython:S1764"LCorrect one of the identical sub-expressions on both sides of operator "==".(·õ’åùÿÿÿÿ
-Wpython:S905œ":Remove or refactor this statement; it has no side effects.(ÅæÙ ıÿÿÿÿ
-kpython:S1854Ü
-"MRemove this assignment to local variable 'expected'; the value is never used.(ˆÄ÷Èüÿÿÿÿ
-epython:S1764•"LCorrect one of the identical sub-expressions on both sides of operator "==".(ƒ½÷
-jpython:S1764ª"LCorrect one of the identical sub-expressions on both sides of operator "==".(¶„ßøÿÿÿÿ
-jpython:S1764«"LCorrect one of the identical sub-expressions on both sides of operator "==".(Óˆ°Šüÿÿÿÿ
-jpython:S1764ş"LCorrect one of the identical sub-expressions on both sides of operator "==".(ÒØåÊüÿÿÿÿ
-wpython:S1186€"YAdd a nested comment explaining why this method is empty, or complete the implementation.(şÉã‘şÿÿÿÿ
-jpython:S1764„"LCorrect one of the identical sub-expressions on both sides of operator "==".(Óˆ°Šüÿÿÿÿ
-@python:S1481¬"'Remove the unused local variable "ele".(ô ­ÿ
-jpython:S1764½"LCorrect one of the identical sub-expressions on both sides of operator "==".(ÒØåÊüÿÿÿÿ
-wpython:S1186¿"YAdd a nested comment explaining why this method is empty, or complete the implementation.(şÉã‘şÿÿÿÿ
-jpython:S1764Ã"LCorrect one of the identical sub-expressions on both sides of operator "==".(Óˆ°Šüÿÿÿÿ
-rpython:S1542´"TRename function "test_Easter" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ó‡óóúÿÿÿÿ
-Rpython:S905":Remove or refactor this statement; it has no side effects.(ÚÅîÊ

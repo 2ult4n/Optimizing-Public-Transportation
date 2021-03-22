@@ -1,23 +1,0 @@
-
-Hpython:S1066»"/Merge this if statement with the enclosing one.(¦©ø…
-Hpython:S1066è"/Merge this if statement with the enclosing one.(÷ƒ‡º
-Hpython:S1066Ã"/Merge this if statement with the enclosing one.(æ¡ßŸ
-opython:S107<"XFunction "_make_options_dict" has 11 parameters, which is greater than the 7 authorized.(è¤½Ÿ
-rpython:S107\"VFunction "set_printoptions" has 12 parameters, which is greater than the 7 authorized.(­§æ¤ÿÿÿÿÿ
-qpython:S107æ"TFunction "_get_formatdict" has 9 parameters, which is greater than the 7 authorized.(ð»ìßüÿÿÿÿ
-rpython:S3776æ"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(ð»ìßüÿÿÿÿ
-rpython:S3776™"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(‹Êó™ûÿÿÿÿ
-vpython:S107ü"^Function "_array2string_dispatcher" has 15 parameters, which is greater than the 7 authorized.(°ˆÍ¿
-jpython:S107…"RFunction "array2string" has 15 parameters, which is greater than the 7 authorized.(È ¤²
-rpython:S1542·"TRename function "_extendLine" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ìž„øýÿÿÿÿ
-ypython:S1542Å"[Rename function "_extendLine_pretty" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ŽÓ¸öùÿÿÿÿ
-spython:S1542à"URename function "_formatArray" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(œ¡Ü“ùÿÿÿÿ
-npython:S107à"QFunction "_formatArray" has 8 parameters, which is greater than the 7 authorized.(œ¡Ü“ùÿÿÿÿ
-rpython:S3776à"TRefactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.(œ¡Ü“ùÿÿÿÿ
-hpython:S107ß"KMethod "__init__" has 8 parameters, which is greater than the 7 authorized.(‘ÝƒÐüÿÿÿÿ
-ipython:S100ú"QRename method "fillFormat" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ªíØ±
-mpython:S3776ú"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(ªíØ±
-rpython:S3776Î"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ã¼¥‹ùÿÿÿÿ
-bpython:S3358Õ"IExtract this nested conditional expression into an independent statement.(ëúÑÙ
-ypython:S107²"\Function "format_float_positional" has 8 parameters, which is greater than the 7 authorized.(¤Çµüÿÿÿÿ
-hpython:S107—	"KMethod "__init__" has 8 parameters, which is greater than the 7 authorized.(úÓ‰êüÿÿÿÿ
