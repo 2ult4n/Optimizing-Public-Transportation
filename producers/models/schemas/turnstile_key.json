@@ -1,5 +1,5 @@
 {
-  "namespace": "com.udacity",
+  "namespace": "cta.analytics.arrival.turnstiles.key",
   "type": "record",
   "name": "turnstile.key",
   "fields": [

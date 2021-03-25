@@ -1,5 +1,5 @@
 {
-  "namespace": "com.udacity",
+  "namespace": "cta.analytics.arrival.train.key",
   "type": "record",
   "name": "arrival.key",
   "fields": [

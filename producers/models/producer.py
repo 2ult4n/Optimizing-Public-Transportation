@@ -6,10 +6,11 @@ from confluent_kafka import avro
 from confluent_kafka.admin import AdminClient, NewTopic
 from confluent_kafka.avro import AvroProducer
 
+logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
-SCHEMA_REGISTRY_URL = 'http://schema-registry:8081/'
-KAFKA_BROKERS = 'PLAINTEXT://kafka0:9092,PLAINTEXT://kafka1:9093,PLAINTEXT://kafka2:9094'
+SCHEMA_REGISTRY_URL = 'http://localhost:8081'
+KAFKA_BROKERS = 'PLAINTEXT://localhost:9092'
 
 
 class Producer:
@@ -33,7 +34,7 @@ class Producer:
         self.num_partitions = num_partitions
         self.num_replicas = num_replicas
 
-        # TODO: Check if the brokers are configured properly
+        # TODO: Experiment with more configs
         self.broker_properties = {
             'bootstrap.servers': KAFKA_BROKERS,
             'schema.registry.url': SCHEMA_REGISTRY_URL
@@ -44,18 +45,20 @@ class Producer:
             self.create_topic()
             Producer.existing_topics.add(self.topic_name)
 
-        self.kafka_avro_producer = AvroProducer(self.broker_properties,
-                                                default_key_schema=self.key_schema,
-                                                default_value_schema=self.value_schema)
+        self.kafka_avro_producer = AvroProducer(
+            self.broker_properties,
+            default_key_schema=self.key_schema,
+            default_value_schema=self.value_schema)
 
     def _topic_exists(self, client):
         """Checks if the given topic exists"""
-        topic_metadata = client.list_topics(timeout=5)
-        return self.topic_name in set(t.topic for t in iter(topic_metadata.topics.values()))
+        topic_metadata = client.list_topics(timeout=1)
+        return topic_metadata.topics.get(self.topic_name) is None
 
     def create_topic(self):
         """Creates the producer topic if it does not already exist"""
-        client = AdminClient({"bootstrap.servers": self.broker_properties['bootstrap.servers']})
+        client = AdminClient(
+            {"bootstrap.servers": self.broker_properties['bootstrap.servers']})
         if self._topic_exists(client):
             futures = client.create_topics(
                 [
@@ -66,25 +69,16 @@ class Producer:
                 ]
             )
 
-        for topic, future in futures.items():
-            try:
-                future.result()
-                logger.info("topic created")
-            except Exception as e:
-                logger.info(f"failed to create topic {self.topic_name}: {e}")
+            for topic, future in futures.items():
+                try:
+                    future.result()
+                    logger.info("topic created")
+                except Exception as e:
+                    logger.info(f"failed to create topic {self.topic_name}: {e}")
 
     def time_millis(self):
         return int(round(time.time() * 1000))
 
     def close(self):
         """Prepares the producer for exit by cleaning up the producer"""
-        client = AdminClient({"bootstrap.servers": self.broker_properties['bootstrap.servers']})
-        if self._topic_exists(client):
-            futures = client.delete_topics([self.topic_name])
-            for topic, future in futures.items():
-                try:
-                    future.result()
-                    logger.info("topic deleted")
-                except Exception as e:
-                    logger.info(f"failed to delete topic {self.topic_name}: {e}")
-        self.existing_topics.remove(self.topic_name)
+        self.kafka_avro_producer.flush()

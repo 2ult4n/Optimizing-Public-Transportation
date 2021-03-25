@@ -9,13 +9,16 @@ from models.producer import Producer
 from models.turnstile_hardware import TurnstileHardware
 
 
+logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
 
 class Turnstile(Producer):
 
-    key_schema = avro.load(f"{Path(__file__).parents[0]}/schemas/turnstile_key.json")
-    value_schema = avro.load(f"{Path(__file__).parents[0]}/schemas/turnstile_value.json")
+    key_schema = avro.load(
+        f"{Path(__file__).parents[0]}/schemas/turnstile_key.json")
+    value_schema = avro.load(
+        f"{Path(__file__).parents[0]}/schemas/turnstile_value.json")
 
     def __init__(self, station):
         """Create the Turnstile"""
@@ -27,14 +30,8 @@ class Turnstile(Producer):
             .replace("'", "")
         )
 
-        #
-        #
-        # TODO: Complete the below by deciding on a topic name, number of partitions, and number of
-        # replicas
-        #
-        #
         super().__init__(
-            f"tracking.stations.{station_name}",
+            f"com.cta.analytics.arrival.trunstile.{station_name}",
             key_schema=Turnstile.key_schema,
             value_schema=Turnstile.value_schema,
             num_partitions=1,
@@ -54,6 +51,6 @@ class Turnstile(Producer):
                 value={
                     'station_id': self.station.station_id,
                     'station_name': self.station.name,
-                    'line': self.color
+                    'line': self.station.color.name
                 }
             )

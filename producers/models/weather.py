@@ -31,7 +31,7 @@ class Weather(Producer):
     def __init__(self, month):
 
         super().__init__(
-            "events.weather",
+            "com.cta.analytics.tracking.weather",
             key_schema=Weather.key_schema,
             value_schema=Weather.value_schema,
         )
@@ -66,14 +66,15 @@ class Weather(Producer):
         self._set_weather(month)
         resp = requests.post(
 
-            f"{Weather.rest_proxy_url}/topics/events.weather",
+            f"{Weather.rest_proxy_url}/topics/{self.topic_name}",
             headers={"Content-Type": "application/vnd.kafka.avro.v2+json"},
             data=json.dumps(
                 {
-                    "value_schema": self.value_schema,
-                    "key_schema": self.key_schema,
+                    "value_schema": json.dumps(Weather.value_schema),
+                    "key_schema": json.dumps(Weather.key_schema),
                     "records": [
                         {
+                            "key": {"timestamp": self.time_millis()},
                             "value": {
                                 'temperature': self.temp,
                                 'status': self.status.name}
