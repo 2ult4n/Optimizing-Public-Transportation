@@ -4,7 +4,7 @@ import logging
 
 from models import Line
 
-
+logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
 

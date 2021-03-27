@@ -16,7 +16,7 @@ from consumer import KafkaConsumer
 from models import Lines, Weather
 import topic_check
 
-
+logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
 
@@ -74,7 +74,7 @@ def run_server():
             is_avro=False,
         ),
         KafkaConsumer(
-            "^org.chicago.cta.station.arrivals.",
+            "^org.chicago.cta.station.arrivals.*",
             lines.process_message,
             offset_earliest=True,
         ),

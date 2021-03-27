@@ -1,0 +1,1 @@
+ docker exec it eb63e6fb4bf8 kafka-topics --delete --zookeeper zookeeper:2181 --topic com.cta.analytics.summary.trunstile

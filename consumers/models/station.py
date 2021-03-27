@@ -2,7 +2,7 @@
 import json
 import logging
 
-
+logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
 
@@ -40,4 +40,5 @@ class Station:
 
     def process_message(self, json_data):
         """Handles arrival and turnstile messages"""
+        logger.debug(json_data)
         self.num_turnstile_entries = json_data["COUNT"]
