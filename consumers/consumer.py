@@ -35,7 +35,7 @@ class KafkaConsumer:
         self.broker_properties = {
             'group.id': self.topic_name_pattern,
             'bootstrap.servers': KAFKA_BROKERS,
-            "auto.offset.reset": "earliest" 
+            "auto.offset.reset": "earliest" if offset_earliest else 'latest'
         }
 
         if is_avro is True:
